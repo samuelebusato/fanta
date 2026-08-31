@@ -1,0 +1,5622 @@
+[
+ {
+  "fvm": 414,
+  "mantra": "pc",
+  "nome": "Malen",
+  "presenze_pct": 50,
+  "qa": 36,
+  "qi": 34,
+  "ruolo": "a",
+  "squadra": "ROM"
+ },
+ {
+  "fvm": 367,
+  "mantra": "pc",
+  "nome": "Martinez L.",
+  "presenze_pct": 100,
+  "qa": 34,
+  "qi": 35,
+  "ruolo": "a",
+  "squadra": "INT"
+ },
+ {
+  "fvm": 253,
+  "mantra": "e|w",
+  "nome": "Dimarco",
+  "presenze_pct": 100,
+  "qa": 31,
+  "qi": 32,
+  "ruolo": "d",
+  "squadra": "INT"
+ },
+ {
+  "fvm": 247,
+  "mantra": "t|a",
+  "nome": "Paz N.",
+  "presenze_pct": 100,
+  "qa": 29,
+  "qi": 30,
+  "ruolo": "c",
+  "squadra": "COM"
+ },
+ {
+  "fvm": 236,
+  "mantra": "m|c",
+  "nome": "Calhanoglu",
+  "presenze_pct": 100,
+  "qa": 28,
+  "qi": 27,
+  "ruolo": "c",
+  "squadra": "INT"
+ },
+ {
+  "fvm": 263,
+  "mantra": "pc",
+  "nome": "Thuram",
+  "presenze_pct": 50,
+  "qa": 28,
+  "qi": 29,
+  "ruolo": "a",
+  "squadra": "INT"
+ },
+ {
+  "fvm": 228,
+  "mantra": "c|t",
+  "nome": "McTominay",
+  "presenze_pct": 100,
+  "qa": 28,
+  "qi": 28,
+  "ruolo": "c",
+  "squadra": "NAP"
+ },
+ {
+  "fvm": 228,
+  "mantra": "pc",
+  "nome": "Ramos G.",
+  "presenze_pct": 100,
+  "qa": 27,
+  "qi": 27,
+  "ruolo": "a",
+  "squadra": "MIL"
+ },
+ {
+  "fvm": 257,
+  "mantra": "pc",
+  "nome": "Hojlund",
+  "presenze_pct": 100,
+  "qa": 27,
+  "qi": 28,
+  "ruolo": "a",
+  "squadra": "NAP"
+ },
+ {
+  "fvm": 192,
+  "mantra": "w|a",
+  "nome": "Orsolini",
+  "presenze_pct": 50,
+  "qa": 25,
+  "qi": 26,
+  "ruolo": "c",
+  "squadra": "BOL"
+ },
+ {
+  "fvm": 187,
+  "mantra": "pc",
+  "nome": "Kean",
+  "presenze_pct": 50,
+  "qa": 25,
+  "qi": 25,
+  "ruolo": "a",
+  "squadra": "FIO"
+ },
+ {
+  "fvm": 211,
+  "mantra": "pc",
+  "nome": "Kolo Muani",
+  "presenze_pct": 100,
+  "qa": 25,
+  "qi": 26,
+  "ruolo": "a",
+  "squadra": "JUV"
+ },
+ {
+  "fvm": 160,
+  "mantra": "t|a",
+  "nome": "Pulisic",
+  "presenze_pct": 0,
+  "qa": 24,
+  "qi": 25,
+  "ruolo": "c",
+  "squadra": "MIL"
+ },
+ {
+  "fvm": 145,
+  "mantra": "c|t",
+  "nome": "Rabiot",
+  "presenze_pct": 100,
+  "qa": 23,
+  "qi": 22,
+  "ruolo": "c",
+  "squadra": "MIL"
+ },
+ {
+  "fvm": 150,
+  "mantra": "a",
+  "nome": "Yildiz",
+  "presenze_pct": 50,
+  "qa": 22,
+  "qi": 23,
+  "ruolo": "a",
+  "squadra": "JUV"
+ },
+ {
+  "fvm": 170,
+  "mantra": "pc",
+  "nome": "Douvikas",
+  "presenze_pct": 100,
+  "qa": 21,
+  "qi": 20,
+  "ruolo": "a",
+  "squadra": "COM"
+ },
+ {
+  "fvm": 100,
+  "mantra": "pc",
+  "nome": "Krstovic",
+  "presenze_pct": 50,
+  "qa": 19,
+  "qi": 18,
+  "ruolo": "a",
+  "squadra": "ATA"
+ },
+ {
+  "fvm": 123,
+  "mantra": "pc",
+  "nome": "Scamacca",
+  "presenze_pct": 50,
+  "qa": 19,
+  "qi": 19,
+  "ruolo": "a",
+  "squadra": "ATA"
+ },
+ {
+  "fvm": 97,
+  "mantra": "t",
+  "nome": "Baturina",
+  "presenze_pct": 100,
+  "qa": 19,
+  "qi": 19,
+  "ruolo": "c",
+  "squadra": "COM"
+ },
+ {
+  "fvm": 109,
+  "mantra": "pc",
+  "nome": "Davis K.",
+  "presenze_pct": 50,
+  "qa": 19,
+  "qi": 19,
+  "ruolo": "a",
+  "squadra": "UDI"
+ },
+ {
+  "fvm": 95,
+  "mantra": "t",
+  "nome": "Mora",
+  "presenze_pct": 50,
+  "qa": 19,
+  "qi": 19,
+  "ruolo": "c",
+  "squadra": "ROM"
+ },
+ {
+  "fvm": 87,
+  "mantra": "c|t",
+  "nome": "Da Cunha",
+  "presenze_pct": 100,
+  "qa": 18,
+  "qi": 18,
+  "ruolo": "c",
+  "squadra": "COM"
+ },
+ {
+  "fvm": 75,
+  "mantra": "a",
+  "nome": "Leao\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 18,
+  "qi": 18,
+  "ruolo": "a",
+  "squadra": "MIL"
+ },
+ {
+  "fvm": 75,
+  "mantra": "por",
+  "nome": "Svilar",
+  "presenze_pct": 50,
+  "qa": 18,
+  "qi": 18,
+  "ruolo": "p",
+  "squadra": "ROM"
+ },
+ {
+  "fvm": 101,
+  "mantra": "a",
+  "nome": "Berardi",
+  "presenze_pct": 50,
+  "qa": 18,
+  "qi": 18,
+  "ruolo": "a",
+  "squadra": "SAS"
+ },
+ {
+  "fvm": 85,
+  "mantra": "t|a",
+  "nome": "Zaniolo",
+  "presenze_pct": 50,
+  "qa": 18,
+  "qi": 18,
+  "ruolo": "c",
+  "squadra": "UDI"
+ },
+ {
+  "fvm": 80,
+  "mantra": "e",
+  "nome": "Molina N.",
+  "presenze_pct": 0,
+  "qa": 18,
+  "qi": 18,
+  "ruolo": "d",
+  "squadra": "ROM"
+ },
+ {
+  "fvm": 98,
+  "mantra": "a",
+  "nome": "De Ketelaere",
+  "presenze_pct": 50,
+  "qa": 17,
+  "qi": 17,
+  "ruolo": "a",
+  "squadra": "ATA"
+ },
+ {
+  "fvm": 63,
+  "mantra": "por",
+  "nome": "Martinez Jo.",
+  "presenze_pct": 100,
+  "qa": 17,
+  "qi": 17,
+  "ruolo": "p",
+  "squadra": "INT"
+ },
+ {
+  "fvm": 80,
+  "mantra": "c",
+  "nome": "Barella",
+  "presenze_pct": 100,
+  "qa": 17,
+  "qi": 17,
+  "ruolo": "c",
+  "squadra": "INT"
+ },
+ {
+  "fvm": 105,
+  "mantra": "pc",
+  "nome": "Esposito F.P.",
+  "presenze_pct": 100,
+  "qa": 17,
+  "qi": 16,
+  "ruolo": "a",
+  "squadra": "INT"
+ },
+ {
+  "fvm": 70,
+  "mantra": "c",
+  "nome": "McKennie",
+  "presenze_pct": 50,
+  "qa": 17,
+  "qi": 17,
+  "ruolo": "c",
+  "squadra": "JUV"
+ },
+ {
+  "fvm": 82,
+  "mantra": "e",
+  "nome": "Wesley",
+  "presenze_pct": 50,
+  "qa": 17,
+  "qi": 17,
+  "ruolo": "d",
+  "squadra": "ROM"
+ },
+ {
+  "fvm": 52,
+  "mantra": "por",
+  "nome": "Carnesecchi",
+  "presenze_pct": 50,
+  "qa": 16,
+  "qi": 16,
+  "ruolo": "p",
+  "squadra": "ATA"
+ },
+ {
+  "fvm": 54,
+  "mantra": "por",
+  "nome": "Butez",
+  "presenze_pct": 100,
+  "qa": 16,
+  "qi": 16,
+  "ruolo": "p",
+  "squadra": "COM"
+ },
+ {
+  "fvm": 86,
+  "mantra": "c|t",
+  "nome": "Atta",
+  "presenze_pct": 100,
+  "qa": 16,
+  "qi": 17,
+  "ruolo": "c",
+  "squadra": "FIO"
+ },
+ {
+  "fvm": 51,
+  "mantra": "dc",
+  "nome": "Akanji",
+  "presenze_pct": 100,
+  "qa": 16,
+  "qi": 16,
+  "ruolo": "d",
+  "squadra": "INT"
+ },
+ {
+  "fvm": 60,
+  "mantra": "dc",
+  "nome": "Bremer",
+  "presenze_pct": 100,
+  "qa": 16,
+  "qi": 15,
+  "ruolo": "d",
+  "squadra": "JUV"
+ },
+ {
+  "fvm": 88,
+  "mantra": "w|a",
+  "nome": "Zaccagni",
+  "presenze_pct": 100,
+  "qa": 16,
+  "qi": 16,
+  "ruolo": "c",
+  "squadra": "LAZ"
+ },
+ {
+  "fvm": 107,
+  "mantra": "t",
+  "nome": "De Bruyne",
+  "presenze_pct": 100,
+  "qa": 16,
+  "qi": 15,
+  "ruolo": "c",
+  "squadra": "NAP"
+ },
+ {
+  "fvm": 58,
+  "mantra": "por",
+  "nome": "Vicario",
+  "presenze_pct": 100,
+  "qa": 16,
+  "qi": 16,
+  "ruolo": "p",
+  "squadra": "JUV"
+ },
+ {
+  "fvm": 58,
+  "mantra": "pc",
+  "nome": "Dovbyk",
+  "presenze_pct": 50,
+  "qa": 15,
+  "qi": 16,
+  "ruolo": "a",
+  "squadra": "BOL"
+ },
+ {
+  "fvm": 50,
+  "mantra": "por",
+  "nome": "Maignan",
+  "presenze_pct": 100,
+  "qa": 15,
+  "qi": 15,
+  "ruolo": "p",
+  "squadra": "MIL"
+ },
+ {
+  "fvm": 49,
+  "mantra": "dc",
+  "nome": "Mancini",
+  "presenze_pct": 50,
+  "qa": 15,
+  "qi": 15,
+  "ruolo": "d",
+  "squadra": "ROM"
+ },
+ {
+  "fvm": 95,
+  "mantra": "a",
+  "nome": "Dybala",
+  "presenze_pct": 50,
+  "qa": 15,
+  "qi": 14,
+  "ruolo": "a",
+  "squadra": "ROM"
+ },
+ {
+  "fvm": 86,
+  "mantra": "a",
+  "nome": "Laurientè",
+  "presenze_pct": 100,
+  "qa": 15,
+  "qi": 15,
+  "ruolo": "a",
+  "squadra": "SAS"
+ },
+ {
+  "fvm": 80,
+  "mantra": "pc",
+  "nome": "Simeone",
+  "presenze_pct": 100,
+  "qa": 15,
+  "qi": 15,
+  "ruolo": "a",
+  "squadra": "TOR"
+ },
+ {
+  "fvm": 76,
+  "mantra": "a",
+  "nome": "Raspadori",
+  "presenze_pct": 50,
+  "qa": 14,
+  "qi": 13,
+  "ruolo": "a",
+  "squadra": "ATA"
+ },
+ {
+  "fvm": 43,
+  "mantra": "dc",
+  "nome": "Bastoni",
+  "presenze_pct": 100,
+  "qa": 14,
+  "qi": 14,
+  "ruolo": "d",
+  "squadra": "INT"
+ },
+ {
+  "fvm": 48,
+  "mantra": "dc",
+  "nome": "Pavlovic",
+  "presenze_pct": 100,
+  "qa": 14,
+  "qi": 14,
+  "ruolo": "d",
+  "squadra": "MIL"
+ },
+ {
+  "fvm": 51,
+  "mantra": "dc",
+  "nome": "Rrahmani",
+  "presenze_pct": 100,
+  "qa": 14,
+  "qi": 14,
+  "ruolo": "d",
+  "squadra": "NAP"
+ },
+ {
+  "fvm": 62,
+  "mantra": "w|a",
+  "nome": "Santos A.",
+  "presenze_pct": 100,
+  "qa": 14,
+  "qi": 14,
+  "ruolo": "a",
+  "squadra": "NAP"
+ },
+ {
+  "fvm": 50,
+  "mantra": "pc",
+  "nome": "Pellegrino M.",
+  "presenze_pct": 100,
+  "qa": 14,
+  "qi": 15,
+  "ruolo": "a",
+  "squadra": "FIO"
+ },
+ {
+  "fvm": 76,
+  "mantra": "pc",
+  "nome": "Castro S.",
+  "presenze_pct": 50,
+  "qa": 14,
+  "qi": 14,
+  "ruolo": "a",
+  "squadra": "ROM"
+ },
+ {
+  "fvm": 40,
+  "mantra": "a",
+  "nome": "Esposito Se.",
+  "presenze_pct": 0,
+  "qa": 13,
+  "qi": 13,
+  "ruolo": "a",
+  "squadra": "SAS"
+ },
+ {
+  "fvm": 40,
+  "mantra": "t|a",
+  "nome": "Gudmundsson A.",
+  "presenze_pct": 50,
+  "qa": 13,
+  "qi": 13,
+  "ruolo": "c",
+  "squadra": "FIO"
+ },
+ {
+  "fvm": 46,
+  "mantra": "dd|dc",
+  "nome": "Kalulu",
+  "presenze_pct": 100,
+  "qa": 13,
+  "qi": 13,
+  "ruolo": "d",
+  "squadra": "JUV"
+ },
+ {
+  "fvm": 57,
+  "mantra": "c|t",
+  "nome": "Taylor K.",
+  "presenze_pct": 100,
+  "qa": 13,
+  "qi": 13,
+  "ruolo": "c",
+  "squadra": "LAZ"
+ },
+ {
+  "fvm": 20,
+  "mantra": "a",
+  "nome": "Nkunku\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 13,
+  "qi": 13,
+  "ruolo": "a",
+  "squadra": "MIL"
+ },
+ {
+  "fvm": 44,
+  "mantra": "dc",
+  "nome": "N'Dicka",
+  "presenze_pct": 50,
+  "qa": 13,
+  "qi": 13,
+  "ruolo": "d",
+  "squadra": "ROM"
+ },
+ {
+  "fvm": 51,
+  "mantra": "pc",
+  "nome": "Pinamonti",
+  "presenze_pct": 0,
+  "qa": 13,
+  "qi": 13,
+  "ruolo": "a",
+  "squadra": "LAZ"
+ },
+ {
+  "fvm": 75,
+  "mantra": "t",
+  "nome": "Vlasic",
+  "presenze_pct": 100,
+  "qa": 13,
+  "qi": 14,
+  "ruolo": "c",
+  "squadra": "TOR"
+ },
+ {
+  "fvm": 46,
+  "mantra": "dc",
+  "nome": "Solet",
+  "presenze_pct": 100,
+  "qa": 13,
+  "qi": 13,
+  "ruolo": "d",
+  "squadra": "UDI"
+ },
+ {
+  "fvm": 37,
+  "mantra": "pc",
+  "nome": "Kevin Carlos",
+  "presenze_pct": 50,
+  "qa": 13,
+  "qi": 13,
+  "ruolo": "a",
+  "squadra": "CAG"
+ },
+ {
+  "fvm": 49,
+  "mantra": "m|c",
+  "nome": "Ederson D.S.",
+  "presenze_pct": 50,
+  "qa": 12,
+  "qi": 12,
+  "ruolo": "c",
+  "squadra": "ATA"
+ },
+ {
+  "fvm": 41,
+  "mantra": "c|t",
+  "nome": "Samardzic",
+  "presenze_pct": 50,
+  "qa": 12,
+  "qi": 12,
+  "ruolo": "c",
+  "squadra": "ATA"
+ },
+ {
+  "fvm": 31,
+  "mantra": "w|a",
+  "nome": "Rodriguez Je.",
+  "presenze_pct": 50,
+  "qa": 12,
+  "qi": 12,
+  "ruolo": "c",
+  "squadra": "COM"
+ },
+ {
+  "fvm": 40,
+  "mantra": "por",
+  "nome": "De Gea",
+  "presenze_pct": 100,
+  "qa": 12,
+  "qi": 13,
+  "ruolo": "p",
+  "squadra": "FIO"
+ },
+ {
+  "fvm": 37,
+  "mantra": "dc",
+  "nome": "Bisseck",
+  "presenze_pct": 100,
+  "qa": 12,
+  "qi": 11,
+  "ruolo": "d",
+  "squadra": "INT"
+ },
+ {
+  "fvm": 30,
+  "mantra": "dc",
+  "nome": "Stones",
+  "presenze_pct": 100,
+  "qa": 12,
+  "qi": 12,
+  "ruolo": "d",
+  "squadra": "INT"
+ },
+ {
+  "fvm": 50,
+  "mantra": "w|t",
+  "nome": "Alajbegovic",
+  "presenze_pct": 50,
+  "qa": 12,
+  "qi": 12,
+  "ruolo": "c",
+  "squadra": "JUV"
+ },
+ {
+  "fvm": 67,
+  "mantra": "w|a",
+  "nome": "Conceicao",
+  "presenze_pct": 100,
+  "qa": 12,
+  "qi": 12,
+  "ruolo": "c",
+  "squadra": "JUV"
+ },
+ {
+  "fvm": 31,
+  "mantra": "dc",
+  "nome": "Gila",
+  "presenze_pct": 100,
+  "qa": 12,
+  "qi": 12,
+  "ruolo": "d",
+  "squadra": "MIL"
+ },
+ {
+  "fvm": 46,
+  "mantra": "m|c",
+  "nome": "Modric",
+  "presenze_pct": 100,
+  "qa": 12,
+  "qi": 12,
+  "ruolo": "c",
+  "squadra": "MIL"
+ },
+ {
+  "fvm": 40,
+  "mantra": "dd|e",
+  "nome": "Di Lorenzo",
+  "presenze_pct": 100,
+  "qa": 12,
+  "qi": 12,
+  "ruolo": "d",
+  "squadra": "NAP"
+ },
+ {
+  "fvm": 45,
+  "mantra": "a",
+  "nome": "Soulè",
+  "presenze_pct": 50,
+  "qa": 12,
+  "qi": 12,
+  "ruolo": "a",
+  "squadra": "ROM"
+ },
+ {
+  "fvm": 45,
+  "mantra": "pc",
+  "nome": "Adams A.",
+  "presenze_pct": 100,
+  "qa": 12,
+  "qi": 12,
+  "ruolo": "a",
+  "squadra": "VEN"
+ },
+ {
+  "fvm": 54,
+  "mantra": "w|t",
+  "nome": "Mastantuono",
+  "presenze_pct": 100,
+  "qa": 12,
+  "qi": 12,
+  "ruolo": "c",
+  "squadra": "FIO"
+ },
+ {
+  "fvm": 40,
+  "mantra": "e",
+  "nome": "Spence",
+  "presenze_pct": 0,
+  "qa": 12,
+  "qi": 12,
+  "ruolo": "d",
+  "squadra": "INT"
+ },
+ {
+  "fvm": 50,
+  "mantra": "w",
+  "nome": "Moreira",
+  "presenze_pct": 0,
+  "qa": 12,
+  "qi": 12,
+  "ruolo": "c",
+  "squadra": "MIL"
+ },
+ {
+  "fvm": 48,
+  "mantra": "c",
+  "nome": "Jones C.",
+  "presenze_pct": 50,
+  "qa": 12,
+  "qi": 12,
+  "ruolo": "c",
+  "squadra": "INT"
+ },
+ {
+  "fvm": 47,
+  "mantra": "c",
+  "nome": "Kessiè",
+  "presenze_pct": 0,
+  "qa": 12,
+  "qi": 12,
+  "ruolo": "c",
+  "squadra": "ATA"
+ },
+ {
+  "fvm": 44,
+  "mantra": "w|t",
+  "nome": "Rowe",
+  "presenze_pct": 50,
+  "qa": 11,
+  "qi": 11,
+  "ruolo": "c",
+  "squadra": "BOL"
+ },
+ {
+  "fvm": 47,
+  "mantra": "w|a",
+  "nome": "Diao",
+  "presenze_pct": 100,
+  "qa": 11,
+  "qi": 11,
+  "ruolo": "a",
+  "squadra": "COM"
+ },
+ {
+  "fvm": 43,
+  "mantra": "dc",
+  "nome": "Ostigard",
+  "presenze_pct": 100,
+  "qa": 11,
+  "qi": 11,
+  "ruolo": "d",
+  "squadra": "GEN"
+ },
+ {
+  "fvm": 30,
+  "mantra": "t",
+  "nome": "Baldanzi",
+  "presenze_pct": 100,
+  "qa": 11,
+  "qi": 11,
+  "ruolo": "c",
+  "squadra": "GEN"
+ },
+ {
+  "fvm": 55,
+  "mantra": "pc",
+  "nome": "Colombo",
+  "presenze_pct": 100,
+  "qa": 11,
+  "qi": 11,
+  "ruolo": "a",
+  "squadra": "GEN"
+ },
+ {
+  "fvm": 45,
+  "mantra": "c",
+  "nome": "Zielinski",
+  "presenze_pct": 100,
+  "qa": 11,
+  "qi": 10,
+  "ruolo": "c",
+  "squadra": "INT"
+ },
+ {
+  "fvm": 53,
+  "mantra": "por",
+  "nome": "Meret",
+  "presenze_pct": 100,
+  "qa": 11,
+  "qi": 11,
+  "ruolo": "p",
+  "squadra": "NAP"
+ },
+ {
+  "fvm": 47,
+  "mantra": "c",
+  "nome": "Zambo Anguissa",
+  "presenze_pct": 100,
+  "qa": 11,
+  "qi": 11,
+  "ruolo": "c",
+  "squadra": "NAP"
+ },
+ {
+  "fvm": 45,
+  "mantra": "c|t",
+  "nome": "Ekkelenkamp",
+  "presenze_pct": 100,
+  "qa": 11,
+  "qi": 10,
+  "ruolo": "c",
+  "squadra": "UDI"
+ },
+ {
+  "fvm": 43,
+  "mantra": "pc",
+  "nome": "Tourè E.",
+  "presenze_pct": 100,
+  "qa": 11,
+  "qi": 11,
+  "ruolo": "a",
+  "squadra": "PAR"
+ },
+ {
+  "fvm": 41,
+  "mantra": "w|a",
+  "nome": "Gonzalez N.",
+  "presenze_pct": 50,
+  "qa": 11,
+  "qi": 11,
+  "ruolo": "c",
+  "squadra": "JUV"
+ },
+ {
+  "fvm": 28,
+  "mantra": "dc",
+  "nome": "Scalvini",
+  "presenze_pct": 50,
+  "qa": 10,
+  "qi": 10,
+  "ruolo": "d",
+  "squadra": "ATA"
+ },
+ {
+  "fvm": 36,
+  "mantra": "por",
+  "nome": "Skorupski",
+  "presenze_pct": 50,
+  "qa": 10,
+  "qi": 10,
+  "ruolo": "p",
+  "squadra": "BOL"
+ },
+ {
+  "fvm": 28,
+  "mantra": "por",
+  "nome": "Caprile",
+  "presenze_pct": 100,
+  "qa": 10,
+  "qi": 9,
+  "ruolo": "p",
+  "squadra": "CAG"
+ },
+ {
+  "fvm": 32,
+  "mantra": "dc",
+  "nome": "Ramon",
+  "presenze_pct": 100,
+  "qa": 10,
+  "qi": 10,
+  "ruolo": "d",
+  "squadra": "COM"
+ },
+ {
+  "fvm": 37,
+  "mantra": "m|c",
+  "nome": "Perrone",
+  "presenze_pct": 100,
+  "qa": 10,
+  "qi": 10,
+  "ruolo": "c",
+  "squadra": "COM"
+ },
+ {
+  "fvm": 20,
+  "mantra": "dd|e",
+  "nome": "Dodò",
+  "presenze_pct": 50,
+  "qa": 10,
+  "qi": 10,
+  "ruolo": "d",
+  "squadra": "FIO"
+ },
+ {
+  "fvm": 35,
+  "mantra": "c",
+  "nome": "Thuram K.",
+  "presenze_pct": 0,
+  "qa": 10,
+  "qi": 10,
+  "ruolo": "c",
+  "squadra": "JUV"
+ },
+ {
+  "fvm": 32,
+  "mantra": "por",
+  "nome": "Mandas",
+  "presenze_pct": 100,
+  "qa": 10,
+  "qi": 9,
+  "ruolo": "p",
+  "squadra": "LAZ"
+ },
+ {
+  "fvm": 30,
+  "mantra": "a",
+  "nome": "Dia",
+  "presenze_pct": 100,
+  "qa": 10,
+  "qi": 10,
+  "ruolo": "a",
+  "squadra": "LAZ"
+ },
+ {
+  "fvm": 26,
+  "mantra": "pc",
+  "nome": "Ratkov",
+  "presenze_pct": 0,
+  "qa": 10,
+  "qi": 10,
+  "ruolo": "a",
+  "squadra": "LAZ"
+ },
+ {
+  "fvm": 35,
+  "mantra": "e|w",
+  "nome": "Saelemaekers",
+  "presenze_pct": 100,
+  "qa": 10,
+  "qi": 10,
+  "ruolo": "c",
+  "squadra": "MIL"
+ },
+ {
+  "fvm": 40,
+  "mantra": "w",
+  "nome": "Politano",
+  "presenze_pct": 100,
+  "qa": 10,
+  "qi": 10,
+  "ruolo": "c",
+  "squadra": "NAP"
+ },
+ {
+  "fvm": 40,
+  "mantra": "w|t",
+  "nome": "Vergara",
+  "presenze_pct": 50,
+  "qa": 10,
+  "qi": 8,
+  "ruolo": "c",
+  "squadra": "NAP"
+ },
+ {
+  "fvm": 45,
+  "mantra": "pc",
+  "nome": "Lukaku\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 10,
+  "qi": 10,
+  "ruolo": "a",
+  "squadra": "NAP"
+ },
+ {
+  "fvm": 26,
+  "mantra": "dc",
+  "nome": "Hermoso",
+  "presenze_pct": 50,
+  "qa": 10,
+  "qi": 10,
+  "ruolo": "d",
+  "squadra": "ROM"
+ },
+ {
+  "fvm": 42,
+  "mantra": "m|c",
+  "nome": "Konè M.",
+  "presenze_pct": 50,
+  "qa": 10,
+  "qi": 10,
+  "ruolo": "c",
+  "squadra": "ROM"
+ },
+ {
+  "fvm": 40,
+  "mantra": "c|t",
+  "nome": "Thorstvedt",
+  "presenze_pct": 100,
+  "qa": 10,
+  "qi": 10,
+  "ruolo": "c",
+  "squadra": "SAS"
+ },
+ {
+  "fvm": 39,
+  "mantra": "pc",
+  "nome": "Bowie",
+  "presenze_pct": 100,
+  "qa": 10,
+  "qi": 10,
+  "ruolo": "a",
+  "squadra": "SAS"
+ },
+ {
+  "fvm": 32,
+  "mantra": "c|t",
+  "nome": "Casadei",
+  "presenze_pct": 50,
+  "qa": 10,
+  "qi": 10,
+  "ruolo": "c",
+  "squadra": "TOR"
+ },
+ {
+  "fvm": 33,
+  "mantra": "a",
+  "nome": "Adams C.",
+  "presenze_pct": 100,
+  "qa": 10,
+  "qi": 9,
+  "ruolo": "a",
+  "squadra": "TOR"
+ },
+ {
+  "fvm": 25,
+  "mantra": "c|t",
+  "nome": "Pellegrini Lo.",
+  "presenze_pct": 0,
+  "qa": 10,
+  "qi": 10,
+  "ruolo": "c",
+  "squadra": "ROM"
+ },
+ {
+  "fvm": 37,
+  "mantra": "pc",
+  "nome": "Romero D.",
+  "presenze_pct": 50,
+  "qa": 10,
+  "qi": 10,
+  "ruolo": "a",
+  "squadra": "PAR"
+ },
+ {
+  "fvm": 24,
+  "mantra": "c|t",
+  "nome": "Pasalic",
+  "presenze_pct": 50,
+  "qa": 9,
+  "qi": 9,
+  "ruolo": "c",
+  "squadra": "ATA"
+ },
+ {
+  "fvm": 30,
+  "mantra": "w|t",
+  "nome": "Bernardeschi",
+  "presenze_pct": 50,
+  "qa": 9,
+  "qi": 9,
+  "ruolo": "c",
+  "squadra": "BOL"
+ },
+ {
+  "fvm": 23,
+  "mantra": "c",
+  "nome": "Mandragora",
+  "presenze_pct": 100,
+  "qa": 9,
+  "qi": 9,
+  "ruolo": "c",
+  "squadra": "FIO"
+ },
+ {
+  "fvm": 23,
+  "mantra": "w|a",
+  "nome": "Ghedjemis",
+  "presenze_pct": 0,
+  "qa": 9,
+  "qi": 9,
+  "ruolo": "a",
+  "squadra": "FRO"
+ },
+ {
+  "fvm": 32,
+  "mantra": "ds|dc",
+  "nome": "Vasquez",
+  "presenze_pct": 100,
+  "qa": 9,
+  "qi": 9,
+  "ruolo": "d",
+  "squadra": "GEN"
+ },
+ {
+  "fvm": 44,
+  "mantra": "e|c",
+  "nome": "Diouf",
+  "presenze_pct": 50,
+  "qa": 9,
+  "qi": 8,
+  "ruolo": "c",
+  "squadra": "INT"
+ },
+ {
+  "fvm": 68,
+  "mantra": "c|t",
+  "nome": "Frattesi",
+  "presenze_pct": 100,
+  "qa": 9,
+  "qi": 7,
+  "ruolo": "c",
+  "squadra": "LAZ"
+ },
+ {
+  "fvm": 10,
+  "mantra": "por",
+  "nome": "Di Gregorio\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 9,
+  "qi": 9,
+  "ruolo": "p",
+  "squadra": "JUV"
+ },
+ {
+  "fvm": 25,
+  "mantra": "dd|ds|e",
+  "nome": "Cambiaso",
+  "presenze_pct": 50,
+  "qa": 9,
+  "qi": 9,
+  "ruolo": "d",
+  "squadra": "JUV"
+ },
+ {
+  "fvm": 37,
+  "mantra": "pc",
+  "nome": "David",
+  "presenze_pct": 50,
+  "qa": 9,
+  "qi": 9,
+  "ruolo": "a",
+  "squadra": "JUV"
+ },
+ {
+  "fvm": 28,
+  "mantra": "w|a",
+  "nome": "Cancellieri",
+  "presenze_pct": 100,
+  "qa": 9,
+  "qi": 9,
+  "ruolo": "c",
+  "squadra": "LAZ"
+ },
+ {
+  "fvm": 22,
+  "mantra": "w|a",
+  "nome": "Isaksen",
+  "presenze_pct": 100,
+  "qa": 9,
+  "qi": 9,
+  "ruolo": "c",
+  "squadra": "LAZ"
+ },
+ {
+  "fvm": 30,
+  "mantra": "por",
+  "nome": "Falcone",
+  "presenze_pct": 50,
+  "qa": 9,
+  "qi": 8,
+  "ruolo": "p",
+  "squadra": "LEC"
+ },
+ {
+  "fvm": 20,
+  "mantra": "dc",
+  "nome": "Tiago Gabriel",
+  "presenze_pct": 50,
+  "qa": 9,
+  "qi": 7,
+  "ruolo": "d",
+  "squadra": "LEC"
+ },
+ {
+  "fvm": 23,
+  "mantra": "pc",
+  "nome": "Geubbels",
+  "presenze_pct": 50,
+  "qa": 9,
+  "qi": 9,
+  "ruolo": "a",
+  "squadra": "LEC"
+ },
+ {
+  "fvm": 30,
+  "mantra": "pc",
+  "nome": "Cutrone",
+  "presenze_pct": 100,
+  "qa": 9,
+  "qi": 9,
+  "ruolo": "a",
+  "squadra": "MON"
+ },
+ {
+  "fvm": 20,
+  "mantra": "c",
+  "nome": "Konè I.",
+  "presenze_pct": 0,
+  "qa": 9,
+  "qi": 9,
+  "ruolo": "c",
+  "squadra": "SAS"
+ },
+ {
+  "fvm": 29,
+  "mantra": "por",
+  "nome": "Okoye",
+  "presenze_pct": 100,
+  "qa": 9,
+  "qi": 9,
+  "ruolo": "p",
+  "squadra": "UDI"
+ },
+ {
+  "fvm": 30,
+  "mantra": "dd|dc",
+  "nome": "Chalobah T.",
+  "presenze_pct": 100,
+  "qa": 9,
+  "qi": 9,
+  "ruolo": "d",
+  "squadra": "COM"
+ },
+ {
+  "fvm": 38,
+  "mantra": "pc",
+  "nome": "Bobcek",
+  "presenze_pct": 0,
+  "qa": 9,
+  "qi": 9,
+  "ruolo": "a",
+  "squadra": "FRO"
+ },
+ {
+  "fvm": 26,
+  "mantra": "por",
+  "nome": "Perri",
+  "presenze_pct": 0,
+  "qa": 9,
+  "qi": 9,
+  "ruolo": "p",
+  "squadra": "TOR"
+ },
+ {
+  "fvm": 11,
+  "mantra": "dc",
+  "nome": "Hien",
+  "presenze_pct": 0,
+  "qa": 8,
+  "qi": 8,
+  "ruolo": "d",
+  "squadra": "ATA"
+ },
+ {
+  "fvm": 19,
+  "mantra": "dd|e",
+  "nome": "Zappacosta",
+  "presenze_pct": 50,
+  "qa": 8,
+  "qi": 8,
+  "ruolo": "d",
+  "squadra": "ATA"
+ },
+ {
+  "fvm": 30,
+  "mantra": "m|c",
+  "nome": "Gaetano",
+  "presenze_pct": 50,
+  "qa": 8,
+  "qi": 7,
+  "ruolo": "c",
+  "squadra": "ATA"
+ },
+ {
+  "fvm": 18,
+  "mantra": "dc",
+  "nome": "Lucumì",
+  "presenze_pct": 50,
+  "qa": 8,
+  "qi": 8,
+  "ruolo": "d",
+  "squadra": "JUV"
+ },
+ {
+  "fvm": 24,
+  "mantra": "ds|e",
+  "nome": "Miranda J.",
+  "presenze_pct": 50,
+  "qa": 8,
+  "qi": 8,
+  "ruolo": "d",
+  "squadra": "BOL"
+ },
+ {
+  "fvm": 17,
+  "mantra": "t",
+  "nome": "Odgaard",
+  "presenze_pct": 50,
+  "qa": 8,
+  "qi": 8,
+  "ruolo": "c",
+  "squadra": "BOL"
+ },
+ {
+  "fvm": 21,
+  "mantra": "w|a",
+  "nome": "Cambiaghi",
+  "presenze_pct": 50,
+  "qa": 8,
+  "qi": 8,
+  "ruolo": "c",
+  "squadra": "BOL"
+ },
+ {
+  "fvm": 10,
+  "mantra": "pc",
+  "nome": "Dallinga\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 8,
+  "qi": 8,
+  "ruolo": "a",
+  "squadra": "BOL"
+ },
+ {
+  "fvm": 20,
+  "mantra": "dc",
+  "nome": "Mina",
+  "presenze_pct": 0,
+  "qa": 8,
+  "qi": 8,
+  "ruolo": "d",
+  "squadra": "CAG"
+ },
+ {
+  "fvm": 23,
+  "mantra": "dd|ds|e",
+  "nome": "Jimenez A.",
+  "presenze_pct": 100,
+  "qa": 8,
+  "qi": 8,
+  "ruolo": "d",
+  "squadra": "FIO"
+ },
+ {
+  "fvm": 22,
+  "mantra": "m|c",
+  "nome": "Fagioli",
+  "presenze_pct": 100,
+  "qa": 8,
+  "qi": 8,
+  "ruolo": "c",
+  "squadra": "FIO"
+ },
+ {
+  "fvm": 25,
+  "mantra": "c",
+  "nome": "Ndour",
+  "presenze_pct": 100,
+  "qa": 8,
+  "qi": 8,
+  "ruolo": "c",
+  "squadra": "FIO"
+ },
+ {
+  "fvm": 37,
+  "mantra": "pc",
+  "nome": "Piccoli",
+  "presenze_pct": 50,
+  "qa": 8,
+  "qi": 8,
+  "ruolo": "a",
+  "squadra": "BOL"
+ },
+ {
+  "fvm": 17,
+  "mantra": "por",
+  "nome": "Bijlow",
+  "presenze_pct": 100,
+  "qa": 8,
+  "qi": 8,
+  "ruolo": "p",
+  "squadra": "GEN"
+ },
+ {
+  "fvm": 21,
+  "mantra": "dd|e",
+  "nome": "Norton-Cuffy",
+  "presenze_pct": 100,
+  "qa": 8,
+  "qi": 8,
+  "ruolo": "d",
+  "squadra": "GEN"
+ },
+ {
+  "fvm": 16,
+  "mantra": "a",
+  "nome": "Vitinha O.",
+  "presenze_pct": 100,
+  "qa": 8,
+  "qi": 8,
+  "ruolo": "a",
+  "squadra": "GEN"
+ },
+ {
+  "fvm": 21,
+  "mantra": "c",
+  "nome": "Sucic P.",
+  "presenze_pct": 100,
+  "qa": 8,
+  "qi": 8,
+  "ruolo": "c",
+  "squadra": "INT"
+ },
+ {
+  "fvm": 15,
+  "mantra": "b|dd|e",
+  "nome": "Celik",
+  "presenze_pct": 100,
+  "qa": 8,
+  "qi": 8,
+  "ruolo": "d",
+  "squadra": "JUV"
+ },
+ {
+  "fvm": 33,
+  "mantra": "m|c",
+  "nome": "Locatelli",
+  "presenze_pct": 100,
+  "qa": 8,
+  "qi": 8,
+  "ruolo": "c",
+  "squadra": "JUV"
+ },
+ {
+  "fvm": 16,
+  "mantra": "dc",
+  "nome": "Doekhi",
+  "presenze_pct": 100,
+  "qa": 8,
+  "qi": 7,
+  "ruolo": "d",
+  "squadra": "LAZ"
+ },
+ {
+  "fvm": 22,
+  "mantra": "ds|e",
+  "nome": "Bartesaghi",
+  "presenze_pct": 100,
+  "qa": 8,
+  "qi": 8,
+  "ruolo": "d",
+  "squadra": "MIL"
+ },
+ {
+  "fvm": 15,
+  "mantra": "t",
+  "nome": "Colpani",
+  "presenze_pct": 100,
+  "qa": 8,
+  "qi": 8,
+  "ruolo": "c",
+  "squadra": "MON"
+ },
+ {
+  "fvm": 26,
+  "mantra": "ds|e",
+  "nome": "Gutierrez\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 8,
+  "qi": 8,
+  "ruolo": "d",
+  "squadra": "NAP"
+ },
+ {
+  "fvm": 25,
+  "mantra": "ds|e",
+  "nome": "Spinazzola",
+  "presenze_pct": 100,
+  "qa": 8,
+  "qi": 8,
+  "ruolo": "d",
+  "squadra": "NAP"
+ },
+ {
+  "fvm": 22,
+  "mantra": "m|c",
+  "nome": "Lobotka",
+  "presenze_pct": 100,
+  "qa": 8,
+  "qi": 7,
+  "ruolo": "c",
+  "squadra": "NAP"
+ },
+ {
+  "fvm": 21,
+  "mantra": "b|dd|e",
+  "nome": "Delprato",
+  "presenze_pct": 100,
+  "qa": 8,
+  "qi": 8,
+  "ruolo": "d",
+  "squadra": "PAR"
+ },
+ {
+  "fvm": 24,
+  "mantra": "ds|e",
+  "nome": "Valeri",
+  "presenze_pct": 100,
+  "qa": 8,
+  "qi": 8,
+  "ruolo": "d",
+  "squadra": "PAR"
+ },
+ {
+  "fvm": 17,
+  "mantra": "dc",
+  "nome": "Koulierakis",
+  "presenze_pct": 50,
+  "qa": 8,
+  "qi": 8,
+  "ruolo": "d",
+  "squadra": "ROM"
+ },
+ {
+  "fvm": 29,
+  "mantra": "m|c",
+  "nome": "Cristante",
+  "presenze_pct": 50,
+  "qa": 8,
+  "qi": 8,
+  "ruolo": "c",
+  "squadra": "ROM"
+ },
+ {
+  "fvm": 23,
+  "mantra": "w|t",
+  "nome": "Volpato",
+  "presenze_pct": 100,
+  "qa": 8,
+  "qi": 7,
+  "ruolo": "c",
+  "squadra": "SAS"
+ },
+ {
+  "fvm": 19,
+  "mantra": "dd|e",
+  "nome": "Vojvoda",
+  "presenze_pct": 100,
+  "qa": 8,
+  "qi": 8,
+  "ruolo": "d",
+  "squadra": "UDI"
+ },
+ {
+  "fvm": 12,
+  "mantra": "ds|e",
+  "nome": "Kamara H.",
+  "presenze_pct": 100,
+  "qa": 8,
+  "qi": 6,
+  "ruolo": "d",
+  "squadra": "UDI"
+ },
+ {
+  "fvm": 27,
+  "mantra": "a",
+  "nome": "Yeboah J.",
+  "presenze_pct": 100,
+  "qa": 8,
+  "qi": 8,
+  "ruolo": "a",
+  "squadra": "VEN"
+ },
+ {
+  "fvm": 18,
+  "mantra": "pc",
+  "nome": "Rrahmani Al.",
+  "presenze_pct": 0,
+  "qa": 8,
+  "qi": 8,
+  "ruolo": "a",
+  "squadra": "VEN"
+ },
+ {
+  "fvm": 26,
+  "mantra": "dd|e",
+  "nome": "Couto",
+  "presenze_pct": 100,
+  "qa": 8,
+  "qi": 8,
+  "ruolo": "d",
+  "squadra": "COM"
+ },
+ {
+  "fvm": 28,
+  "mantra": "w|t",
+  "nome": "Schmid",
+  "presenze_pct": 100,
+  "qa": 8,
+  "qi": 8,
+  "ruolo": "c",
+  "squadra": "FRO"
+ },
+ {
+  "fvm": 30,
+  "mantra": "pc",
+  "nome": "Osmajic",
+  "presenze_pct": 50,
+  "qa": 8,
+  "qi": 8,
+  "ruolo": "a",
+  "squadra": "GEN"
+ },
+ {
+  "fvm": 20,
+  "mantra": "ds|dc",
+  "nome": "Theate",
+  "presenze_pct": 0,
+  "qa": 8,
+  "qi": 8,
+  "ruolo": "d",
+  "squadra": "BOL"
+ },
+ {
+  "fvm": 16,
+  "mantra": "dc",
+  "nome": "Djimsiti\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 7,
+  "qi": 7,
+  "ruolo": "d",
+  "squadra": "ATA"
+ },
+ {
+  "fvm": 23,
+  "mantra": "m|c",
+  "nome": "Ferguson",
+  "presenze_pct": 50,
+  "qa": 7,
+  "qi": 7,
+  "ruolo": "c",
+  "squadra": "BOL"
+ },
+ {
+  "fvm": 15,
+  "mantra": "b|ds|e",
+  "nome": "Obert",
+  "presenze_pct": 100,
+  "qa": 7,
+  "qi": 7,
+  "ruolo": "d",
+  "squadra": "CAG"
+ },
+ {
+  "fvm": 13,
+  "mantra": "m|c",
+  "nome": "Adopo",
+  "presenze_pct": 100,
+  "qa": 7,
+  "qi": 6,
+  "ruolo": "c",
+  "squadra": "CAG"
+ },
+ {
+  "fvm": 20,
+  "mantra": "m|c",
+  "nome": "Romano",
+  "presenze_pct": 100,
+  "qa": 7,
+  "qi": 5,
+  "ruolo": "c",
+  "squadra": "CAG"
+ },
+ {
+  "fvm": 24,
+  "mantra": "c|t",
+  "nome": "Fazzini",
+  "presenze_pct": 100,
+  "qa": 7,
+  "qi": 7,
+  "ruolo": "c",
+  "squadra": "CAG"
+ },
+ {
+  "fvm": 16,
+  "mantra": "ds|e",
+  "nome": "Kaiki",
+  "presenze_pct": 0,
+  "qa": 7,
+  "qi": 7,
+  "ruolo": "d",
+  "squadra": "COM"
+ },
+ {
+  "fvm": 27,
+  "mantra": "dc",
+  "nome": "Dragusin",
+  "presenze_pct": 100,
+  "qa": 7,
+  "qi": 8,
+  "ruolo": "d",
+  "squadra": "FIO"
+ },
+ {
+  "fvm": 25,
+  "mantra": "m|c",
+  "nome": "Calò",
+  "presenze_pct": 100,
+  "qa": 7,
+  "qi": 7,
+  "ruolo": "c",
+  "squadra": "FRO"
+ },
+ {
+  "fvm": 15,
+  "mantra": "pc",
+  "nome": "Raimondo",
+  "presenze_pct": 100,
+  "qa": 7,
+  "qi": 7,
+  "ruolo": "a",
+  "squadra": "FRO"
+ },
+ {
+  "fvm": 20,
+  "mantra": "m|c",
+  "nome": "Frendrup",
+  "presenze_pct": 100,
+  "qa": 7,
+  "qi": 7,
+  "ruolo": "c",
+  "squadra": "GEN"
+ },
+ {
+  "fvm": 25,
+  "mantra": "b|ds|e",
+  "nome": "Carlos Augusto",
+  "presenze_pct": 0,
+  "qa": 7,
+  "qi": 7,
+  "ruolo": "d",
+  "squadra": "INT"
+ },
+ {
+  "fvm": 18,
+  "mantra": "pc",
+  "nome": "Bonny",
+  "presenze_pct": 50,
+  "qa": 7,
+  "qi": 7,
+  "ruolo": "a",
+  "squadra": "INT"
+ },
+ {
+  "fvm": 22,
+  "mantra": "dc",
+  "nome": "Romagnoli",
+  "presenze_pct": 0,
+  "qa": 7,
+  "qi": 7,
+  "ruolo": "d",
+  "squadra": "LAZ"
+ },
+ {
+  "fvm": 16,
+  "mantra": "m|c",
+  "nome": "Rovella",
+  "presenze_pct": 100,
+  "qa": 7,
+  "qi": 6,
+  "ruolo": "c",
+  "squadra": "LAZ"
+ },
+ {
+  "fvm": 17,
+  "mantra": "m|c",
+  "nome": "Coulibaly L.",
+  "presenze_pct": 50,
+  "qa": 7,
+  "qi": 6,
+  "ruolo": "c",
+  "squadra": "LEC"
+ },
+ {
+  "fvm": 12,
+  "mantra": "pc",
+  "nome": "Stulic",
+  "presenze_pct": 50,
+  "qa": 7,
+  "qi": 7,
+  "ruolo": "a",
+  "squadra": "LEC"
+ },
+ {
+  "fvm": 24,
+  "mantra": "dc",
+  "nome": "Gabbia",
+  "presenze_pct": 50,
+  "qa": 7,
+  "qi": 7,
+  "ruolo": "d",
+  "squadra": "MIL"
+ },
+ {
+  "fvm": 8,
+  "mantra": "dc",
+  "nome": "Tomori",
+  "presenze_pct": 0,
+  "qa": 7,
+  "qi": 7,
+  "ruolo": "d",
+  "squadra": "MIL"
+ },
+ {
+  "fvm": 22,
+  "mantra": "w",
+  "nome": "Chukwueze",
+  "presenze_pct": 100,
+  "qa": 7,
+  "qi": 6,
+  "ruolo": "c",
+  "squadra": "MIL"
+ },
+ {
+  "fvm": 15,
+  "mantra": "m|c",
+  "nome": "Pessina",
+  "presenze_pct": 0,
+  "qa": 7,
+  "qi": 7,
+  "ruolo": "c",
+  "squadra": "MON"
+ },
+ {
+  "fvm": 15,
+  "mantra": "dc",
+  "nome": "Buongiorno",
+  "presenze_pct": 0,
+  "qa": 7,
+  "qi": 7,
+  "ruolo": "d",
+  "squadra": "NAP"
+ },
+ {
+  "fvm": 10,
+  "mantra": "por",
+  "nome": "Daffara",
+  "presenze_pct": 0,
+  "qa": 7,
+  "qi": 7,
+  "ruolo": "p",
+  "squadra": "PAR"
+ },
+ {
+  "fvm": 20,
+  "mantra": "por",
+  "nome": "Suzuki\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 7,
+  "qi": 7,
+  "ruolo": "p",
+  "squadra": "PAR"
+ },
+ {
+  "fvm": 35,
+  "mantra": "c",
+  "nome": "Bernabè",
+  "presenze_pct": 100,
+  "qa": 7,
+  "qi": 7,
+  "ruolo": "c",
+  "squadra": "PAR"
+ },
+ {
+  "fvm": 17,
+  "mantra": "c",
+  "nome": "Pisilli",
+  "presenze_pct": 50,
+  "qa": 7,
+  "qi": 5,
+  "ruolo": "c",
+  "squadra": "ROM"
+ },
+ {
+  "fvm": 15,
+  "mantra": "por",
+  "nome": "Muric",
+  "presenze_pct": 100,
+  "qa": 7,
+  "qi": 7,
+  "ruolo": "p",
+  "squadra": "SAS"
+ },
+ {
+  "fvm": 19,
+  "mantra": "dc",
+  "nome": "Idzes",
+  "presenze_pct": 50,
+  "qa": 7,
+  "qi": 7,
+  "ruolo": "d",
+  "squadra": "SAS"
+ },
+ {
+  "fvm": 14,
+  "mantra": "dc",
+  "nome": "Coco",
+  "presenze_pct": 100,
+  "qa": 7,
+  "qi": 7,
+  "ruolo": "d",
+  "squadra": "TOR"
+ },
+ {
+  "fvm": 13,
+  "mantra": "dc",
+  "nome": "Ismajli",
+  "presenze_pct": 100,
+  "qa": 7,
+  "qi": 7,
+  "ruolo": "d",
+  "squadra": "TOR"
+ },
+ {
+  "fvm": 12,
+  "mantra": "w|t",
+  "nome": "Oristanio",
+  "presenze_pct": 0,
+  "qa": 7,
+  "qi": 7,
+  "ruolo": "c",
+  "squadra": "TOR"
+ },
+ {
+  "fvm": 18,
+  "mantra": "pc",
+  "nome": "Zapata D.",
+  "presenze_pct": 0,
+  "qa": 7,
+  "qi": 7,
+  "ruolo": "a",
+  "squadra": "TOR"
+ },
+ {
+  "fvm": 20,
+  "mantra": "dd|dc",
+  "nome": "Kristensen T.",
+  "presenze_pct": 0,
+  "qa": 7,
+  "qi": 7,
+  "ruolo": "d",
+  "squadra": "ATA"
+ },
+ {
+  "fvm": 20,
+  "mantra": "m|c",
+  "nome": "Karlstrom",
+  "presenze_pct": 100,
+  "qa": 7,
+  "qi": 6,
+  "ruolo": "c",
+  "squadra": "UDI"
+ },
+ {
+  "fvm": 17,
+  "mantra": "t",
+  "nome": "Unai Gomez",
+  "presenze_pct": 50,
+  "qa": 7,
+  "qi": 7,
+  "ruolo": "c",
+  "squadra": "UDI"
+ },
+ {
+  "fvm": 15,
+  "mantra": "m|c",
+  "nome": "Sow",
+  "presenze_pct": 100,
+  "qa": 7,
+  "qi": 7,
+  "ruolo": "c",
+  "squadra": "GEN"
+ },
+ {
+  "fvm": 28,
+  "mantra": "w|t",
+  "nome": "Elmas",
+  "presenze_pct": 0,
+  "qa": 7,
+  "qi": 7,
+  "ruolo": "c",
+  "squadra": "ATA"
+ },
+ {
+  "fvm": 21,
+  "mantra": "dc",
+  "nome": "Badiashile",
+  "presenze_pct": 0,
+  "qa": 7,
+  "qi": 7,
+  "ruolo": "d",
+  "squadra": "NAP"
+ },
+ {
+  "fvm": 19,
+  "mantra": "dc",
+  "nome": "Sutalo J.",
+  "presenze_pct": 0,
+  "qa": 7,
+  "qi": 7,
+  "ruolo": "d",
+  "squadra": "LAZ"
+ },
+ {
+  "fvm": 14,
+  "mantra": "b|ds|e",
+  "nome": "Ahanor",
+  "presenze_pct": 0,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "d",
+  "squadra": "ATA"
+ },
+ {
+  "fvm": 17,
+  "mantra": "dd|e",
+  "nome": "Bellanova",
+  "presenze_pct": 0,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "d",
+  "squadra": "ATA"
+ },
+ {
+  "fvm": 18,
+  "mantra": "ds|e",
+  "nome": "Bernasconi",
+  "presenze_pct": 50,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "d",
+  "squadra": "ATA"
+ },
+ {
+  "fvm": 20,
+  "mantra": "w",
+  "nome": "Zalewski",
+  "presenze_pct": 50,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "c",
+  "squadra": "ATA"
+ },
+ {
+  "fvm": 10,
+  "mantra": "a",
+  "nome": "Sulemana K.",
+  "presenze_pct": 0,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "a",
+  "squadra": "ATA"
+ },
+ {
+  "fvm": 15,
+  "mantra": "ds|dc",
+  "nome": "Heggem",
+  "presenze_pct": 50,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "d",
+  "squadra": "BOL"
+ },
+ {
+  "fvm": 19,
+  "mantra": "dd|e",
+  "nome": "Zortea",
+  "presenze_pct": 50,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "d",
+  "squadra": "BOL"
+ },
+ {
+  "fvm": 13,
+  "mantra": "m|c",
+  "nome": "Pobega",
+  "presenze_pct": 0,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "c",
+  "squadra": "BOL"
+ },
+ {
+  "fvm": 15,
+  "mantra": "m|c",
+  "nome": "Winks",
+  "presenze_pct": 100,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "c",
+  "squadra": "CAG"
+ },
+ {
+  "fvm": 10,
+  "mantra": "pc",
+  "nome": "Mutandwa",
+  "presenze_pct": 0,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "a",
+  "squadra": "CAG"
+ },
+ {
+  "fvm": 21,
+  "mantra": "ds|e",
+  "nome": "Valle",
+  "presenze_pct": 100,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "d",
+  "squadra": "COM"
+ },
+ {
+  "fvm": 20,
+  "mantra": "m|c",
+  "nome": "Milla",
+  "presenze_pct": 100,
+  "qa": 6,
+  "qi": 5,
+  "ruolo": "c",
+  "squadra": "COM"
+ },
+ {
+  "fvm": 17,
+  "mantra": "c|t",
+  "nome": "Caqueret",
+  "presenze_pct": 50,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "c",
+  "squadra": "COM"
+ },
+ {
+  "fvm": 21,
+  "mantra": "t",
+  "nome": "Liberali",
+  "presenze_pct": 50,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "c",
+  "squadra": "COM"
+ },
+ {
+  "fvm": 18,
+  "mantra": "ds|dc",
+  "nome": "Valdepenas",
+  "presenze_pct": 50,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "d",
+  "squadra": "FIO"
+ },
+ {
+  "fvm": 17,
+  "mantra": "ds|dc",
+  "nome": "Viery",
+  "presenze_pct": 50,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "d",
+  "squadra": "FIO"
+ },
+ {
+  "fvm": 20,
+  "mantra": "m|c",
+  "nome": "Oulai",
+  "presenze_pct": 100,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "c",
+  "squadra": "FIO"
+ },
+ {
+  "fvm": 13,
+  "mantra": "dc",
+  "nome": "Monterisi",
+  "presenze_pct": 100,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "d",
+  "squadra": "FRO"
+ },
+ {
+  "fvm": 14,
+  "mantra": "dc",
+  "nome": "Marcandalli",
+  "presenze_pct": 100,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "d",
+  "squadra": "GEN"
+ },
+ {
+  "fvm": 18,
+  "mantra": "e|c",
+  "nome": "Ellertsson",
+  "presenze_pct": 100,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "c",
+  "squadra": "GEN"
+ },
+ {
+  "fvm": 14,
+  "mantra": "dd|dc",
+  "nome": "Pavard",
+  "presenze_pct": 50,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "d",
+  "squadra": "INT"
+ },
+ {
+  "fvm": 5,
+  "mantra": "por",
+  "nome": "Perin\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "p",
+  "squadra": "JUV"
+ },
+ {
+  "fvm": 20,
+  "mantra": "w",
+  "nome": "Zhegrova",
+  "presenze_pct": 50,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "c",
+  "squadra": "JUV"
+ },
+ {
+  "fvm": 26,
+  "mantra": "w|a",
+  "nome": "Boga",
+  "presenze_pct": 100,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "a",
+  "squadra": "JUV"
+ },
+ {
+  "fvm": 12,
+  "mantra": "ds|e",
+  "nome": "Tavares N.",
+  "presenze_pct": 50,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "d",
+  "squadra": "LAZ"
+ },
+ {
+  "fvm": 20,
+  "mantra": "dd|ds|e",
+  "nome": "Marusic",
+  "presenze_pct": 50,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "d",
+  "squadra": "LAZ"
+ },
+ {
+  "fvm": 17,
+  "mantra": "a",
+  "nome": "Noslin",
+  "presenze_pct": 0,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "a",
+  "squadra": "LAZ"
+ },
+ {
+  "fvm": 12,
+  "mantra": "dc",
+  "nome": "Gaspar K.",
+  "presenze_pct": 50,
+  "qa": 6,
+  "qi": 5,
+  "ruolo": "d",
+  "squadra": "LEC"
+ },
+ {
+  "fvm": 12,
+  "mantra": "dd|e",
+  "nome": "Veiga D.",
+  "presenze_pct": 50,
+  "qa": 6,
+  "qi": 5,
+  "ruolo": "d",
+  "squadra": "LEC"
+ },
+ {
+  "fvm": 13,
+  "mantra": "ds|e",
+  "nome": "Gallo",
+  "presenze_pct": 50,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "d",
+  "squadra": "LEC"
+ },
+ {
+  "fvm": 19,
+  "mantra": "w",
+  "nome": "Pierotti",
+  "presenze_pct": 50,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "c",
+  "squadra": "LEC"
+ },
+ {
+  "fvm": 10,
+  "mantra": "pc",
+  "nome": "Gimenez",
+  "presenze_pct": 0,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "a",
+  "squadra": "MIL"
+ },
+ {
+  "fvm": 15,
+  "mantra": "ds|e",
+  "nome": "Mangas",
+  "presenze_pct": 100,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "d",
+  "squadra": "MON"
+ },
+ {
+  "fvm": 12,
+  "mantra": "c",
+  "nome": "Akinsanmiro",
+  "presenze_pct": 50,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "c",
+  "squadra": "MON"
+ },
+ {
+  "fvm": 12,
+  "mantra": "dc",
+  "nome": "Beukema",
+  "presenze_pct": 0,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "d",
+  "squadra": "NAP"
+ },
+ {
+  "fvm": 17,
+  "mantra": "w|a",
+  "nome": "Neres",
+  "presenze_pct": 0,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "a",
+  "squadra": "NAP"
+ },
+ {
+  "fvm": 18,
+  "mantra": "dc",
+  "nome": "Circati\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "d",
+  "squadra": "PAR"
+ },
+ {
+  "fvm": 16,
+  "mantra": "m|c",
+  "nome": "Nicolussi Caviglia",
+  "presenze_pct": 0,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "c",
+  "squadra": "PAR"
+ },
+ {
+  "fvm": 15,
+  "mantra": "m|c",
+  "nome": "Matic",
+  "presenze_pct": 100,
+  "qa": 6,
+  "qi": 5,
+  "ruolo": "c",
+  "squadra": "SAS"
+ },
+ {
+  "fvm": 13,
+  "mantra": "dc",
+  "nome": "Comuzzo",
+  "presenze_pct": 100,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "d",
+  "squadra": "TOR"
+ },
+ {
+  "fvm": 12,
+  "mantra": "m|c",
+  "nome": "Gineitis",
+  "presenze_pct": 100,
+  "qa": 6,
+  "qi": 5,
+  "ruolo": "c",
+  "squadra": "TOR"
+ },
+ {
+  "fvm": 12,
+  "mantra": "por",
+  "nome": "Stankovic F.",
+  "presenze_pct": 100,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "p",
+  "squadra": "VEN"
+ },
+ {
+  "fvm": 13,
+  "mantra": "dc",
+  "nome": "Bella-Kotchap",
+  "presenze_pct": 100,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "d",
+  "squadra": "VEN"
+ },
+ {
+  "fvm": 19,
+  "mantra": "m|c",
+  "nome": "Basic",
+  "presenze_pct": 100,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "c",
+  "squadra": "VEN"
+ },
+ {
+  "fvm": 15,
+  "mantra": "ds|e",
+  "nome": "Obrador",
+  "presenze_pct": 50,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "d",
+  "squadra": "SAS"
+ },
+ {
+  "fvm": 14,
+  "mantra": "e|m",
+  "nome": "Tourè I.",
+  "presenze_pct": 0,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "c",
+  "squadra": "MON"
+ },
+ {
+  "fvm": 11,
+  "mantra": "dc",
+  "nome": "Balerdi",
+  "presenze_pct": 0,
+  "qa": 6,
+  "qi": 6,
+  "ruolo": "d",
+  "squadra": "ROM"
+ },
+ {
+  "fvm": 8,
+  "mantra": "ds|dc",
+  "nome": "Kolasinac",
+  "presenze_pct": 50,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "d",
+  "squadra": "ATA"
+ },
+ {
+  "fvm": 21,
+  "mantra": "t|a",
+  "nome": "Maldini",
+  "presenze_pct": 100,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "a",
+  "squadra": "CAG"
+ },
+ {
+  "fvm": 10,
+  "mantra": "dc",
+  "nome": "Vitik",
+  "presenze_pct": 0,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "d",
+  "squadra": "BOL"
+ },
+ {
+  "fvm": 13,
+  "mantra": "dd|e",
+  "nome": "Holm",
+  "presenze_pct": 50,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "d",
+  "squadra": "BOL"
+ },
+ {
+  "fvm": 12,
+  "mantra": "m|c",
+  "nome": "Amondarain",
+  "presenze_pct": 0,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "c",
+  "squadra": "BOL"
+ },
+ {
+  "fvm": 8,
+  "mantra": "dc",
+  "nome": "Kofler",
+  "presenze_pct": 50,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "d",
+  "squadra": "CAG"
+ },
+ {
+  "fvm": 13,
+  "mantra": "dd|dc",
+  "nome": "Zè Pedro",
+  "presenze_pct": 100,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "d",
+  "squadra": "CAG"
+ },
+ {
+  "fvm": 8,
+  "mantra": "w",
+  "nome": "Felici",
+  "presenze_pct": 50,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "c",
+  "squadra": "CAG"
+ },
+ {
+  "fvm": 13,
+  "mantra": "dc",
+  "nome": "Kempf",
+  "presenze_pct": 50,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "d",
+  "squadra": "COM"
+ },
+ {
+  "fvm": 10,
+  "mantra": "w|a",
+  "nome": "Addai",
+  "presenze_pct": 0,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "c",
+  "squadra": "COM"
+ },
+ {
+  "fvm": 10,
+  "mantra": "ds|e",
+  "nome": "Parisi",
+  "presenze_pct": 0,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "d",
+  "squadra": "FIO"
+ },
+ {
+  "fvm": 12,
+  "mantra": "por",
+  "nome": "Palmisani",
+  "presenze_pct": 100,
+  "qa": 5,
+  "qi": 4,
+  "ruolo": "p",
+  "squadra": "FRO"
+ },
+ {
+  "fvm": 12,
+  "mantra": "ds|dc",
+  "nome": "Bracaglia",
+  "presenze_pct": 100,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "d",
+  "squadra": "FRO"
+ },
+ {
+  "fvm": 10,
+  "mantra": "dd|e",
+  "nome": "Oyono A.",
+  "presenze_pct": 100,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "d",
+  "squadra": "FRO"
+ },
+ {
+  "fvm": 12,
+  "mantra": "w",
+  "nome": "Zerbin",
+  "presenze_pct": 100,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "c",
+  "squadra": "FRO"
+ },
+ {
+  "fvm": 8,
+  "mantra": "ds|e",
+  "nome": "Martin",
+  "presenze_pct": 0,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "d",
+  "squadra": "GEN"
+ },
+ {
+  "fvm": 11,
+  "mantra": "m|c",
+  "nome": "Amorim",
+  "presenze_pct": 50,
+  "qa": 5,
+  "qi": 4,
+  "ruolo": "c",
+  "squadra": "GEN"
+ },
+ {
+  "fvm": 11,
+  "mantra": "w|t",
+  "nome": "Meichtry",
+  "presenze_pct": 100,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "c",
+  "squadra": "GEN"
+ },
+ {
+  "fvm": 11,
+  "mantra": "w|t",
+  "nome": "Traorè Hj.",
+  "presenze_pct": 0,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "c",
+  "squadra": "GEN"
+ },
+ {
+  "fvm": 10,
+  "mantra": "c",
+  "nome": "Mkhitaryan",
+  "presenze_pct": 0,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "c",
+  "squadra": "INT"
+ },
+ {
+  "fvm": 12,
+  "mantra": "ds|dc",
+  "nome": "Kelly L.",
+  "presenze_pct": 100,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "d",
+  "squadra": "JUV"
+ },
+ {
+  "fvm": 13,
+  "mantra": "c|t",
+  "nome": "Koopmeiners",
+  "presenze_pct": 50,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "c",
+  "squadra": "JUV"
+ },
+ {
+  "fvm": 15,
+  "mantra": "ds|e",
+  "nome": "Pedraza",
+  "presenze_pct": 100,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "d",
+  "squadra": "LAZ"
+ },
+ {
+  "fvm": 13,
+  "mantra": "c|t",
+  "nome": "Dele-Bashiru",
+  "presenze_pct": 50,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "c",
+  "squadra": "LAZ"
+ },
+ {
+  "fvm": 12,
+  "mantra": "dc",
+  "nome": "Siebert",
+  "presenze_pct": 50,
+  "qa": 5,
+  "qi": 4,
+  "ruolo": "d",
+  "squadra": "LEC"
+ },
+ {
+  "fvm": 12,
+  "mantra": "c|t",
+  "nome": "Berisha M.",
+  "presenze_pct": 0,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "c",
+  "squadra": "LEC"
+ },
+ {
+  "fvm": 10,
+  "mantra": "c|t",
+  "nome": "Gandelman",
+  "presenze_pct": 0,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "c",
+  "squadra": "LEC"
+ },
+ {
+  "fvm": 10,
+  "mantra": "m|c",
+  "nome": "Fofana Y.",
+  "presenze_pct": 0,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "c",
+  "squadra": "MIL"
+ },
+ {
+  "fvm": 13,
+  "mantra": "c",
+  "nome": "Jashari",
+  "presenze_pct": 100,
+  "qa": 5,
+  "qi": 4,
+  "ruolo": "c",
+  "squadra": "MIL"
+ },
+ {
+  "fvm": 20,
+  "mantra": "pc",
+  "nome": "Camarda",
+  "presenze_pct": 0,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "a",
+  "squadra": "MIL"
+ },
+ {
+  "fvm": 11,
+  "mantra": "por",
+  "nome": "Thiam",
+  "presenze_pct": 50,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "p",
+  "squadra": "MON"
+ },
+ {
+  "fvm": 10,
+  "mantra": "a",
+  "nome": "Mota",
+  "presenze_pct": 0,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "a",
+  "squadra": "MON"
+ },
+ {
+  "fvm": 20,
+  "mantra": "pc",
+  "nome": "Varela G.",
+  "presenze_pct": 100,
+  "qa": 5,
+  "qi": 3,
+  "ruolo": "a",
+  "squadra": "MON"
+ },
+ {
+  "fvm": 7,
+  "mantra": "por",
+  "nome": "Milinkovic-Savic V.",
+  "presenze_pct": 0,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "p",
+  "squadra": "NAP"
+ },
+ {
+  "fvm": 13,
+  "mantra": "b|ds|e",
+  "nome": "Olivera",
+  "presenze_pct": 50,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "d",
+  "squadra": "NAP"
+ },
+ {
+  "fvm": 15,
+  "mantra": "m|c",
+  "nome": "Keita M.",
+  "presenze_pct": 100,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "c",
+  "squadra": "PAR"
+ },
+ {
+  "fvm": 18,
+  "mantra": "w|a",
+  "nome": "Ondrejka\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "c",
+  "squadra": "PAR"
+ },
+ {
+  "fvm": 10,
+  "mantra": "a",
+  "nome": "Frigan",
+  "presenze_pct": 0,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "a",
+  "squadra": "PAR"
+ },
+ {
+  "fvm": 14,
+  "mantra": "b|dd|e",
+  "nome": "Rensch",
+  "presenze_pct": 0,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "d",
+  "squadra": "ROM"
+ },
+ {
+  "fvm": 16,
+  "mantra": "c|t",
+  "nome": "Adzic",
+  "presenze_pct": 100,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "c",
+  "squadra": "SAS"
+ },
+ {
+  "fvm": 14,
+  "mantra": "c|t",
+  "nome": "Bakola",
+  "presenze_pct": 100,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "c",
+  "squadra": "SAS"
+ },
+ {
+  "fvm": 12,
+  "mantra": "dd|e",
+  "nome": "Pedersen\n  \n                            *",
+  "presenze_pct": 50,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "d",
+  "squadra": "TOR"
+ },
+ {
+  "fvm": 20,
+  "mantra": "e|w",
+  "nome": "Cacciamani",
+  "presenze_pct": 100,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "c",
+  "squadra": "TOR"
+ },
+ {
+  "fvm": 23,
+  "mantra": "w|a",
+  "nome": "Njie",
+  "presenze_pct": 50,
+  "qa": 5,
+  "qi": 4,
+  "ruolo": "c",
+  "squadra": "FIO"
+ },
+ {
+  "fvm": 15,
+  "mantra": "m|c",
+  "nome": "Piotrowski",
+  "presenze_pct": 100,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "c",
+  "squadra": "UDI"
+ },
+ {
+  "fvm": 6,
+  "mantra": "dc",
+  "nome": "Moreno M.",
+  "presenze_pct": 0,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "d",
+  "squadra": "VEN"
+ },
+ {
+  "fvm": 12,
+  "mantra": "dd|e",
+  "nome": "Correia T.",
+  "presenze_pct": 100,
+  "qa": 5,
+  "qi": 4,
+  "ruolo": "d",
+  "squadra": "VEN"
+ },
+ {
+  "fvm": 10,
+  "mantra": "ds|e",
+  "nome": "Haps",
+  "presenze_pct": 100,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "d",
+  "squadra": "VEN"
+ },
+ {
+  "fvm": 14,
+  "mantra": "m|c",
+  "nome": "Busio",
+  "presenze_pct": 100,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "c",
+  "squadra": "VEN"
+ },
+ {
+  "fvm": 11,
+  "mantra": "c",
+  "nome": "Sohm",
+  "presenze_pct": 50,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "c",
+  "squadra": "VEN"
+ },
+ {
+  "fvm": 15,
+  "mantra": "c|t",
+  "nome": "Perez K.",
+  "presenze_pct": 100,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "c",
+  "squadra": "VEN"
+ },
+ {
+  "fvm": 12,
+  "mantra": "pc",
+  "nome": "Adorante",
+  "presenze_pct": 0,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "a",
+  "squadra": "VEN"
+ },
+ {
+  "fvm": 10,
+  "mantra": "m|c",
+  "nome": "Grillitsch",
+  "presenze_pct": 0,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "c",
+  "squadra": "FRO"
+ },
+ {
+  "fvm": 13,
+  "mantra": "pc",
+  "nome": "Milik",
+  "presenze_pct": 0,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "a",
+  "squadra": "JUV"
+ },
+ {
+  "fvm": 25,
+  "mantra": "w|t",
+  "nome": "Cissè A.",
+  "presenze_pct": 100,
+  "qa": 5,
+  "qi": 3,
+  "ruolo": "c",
+  "squadra": "MIL"
+ },
+ {
+  "fvm": 12,
+  "mantra": "e",
+  "nome": "Fortini",
+  "presenze_pct": 100,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "d",
+  "squadra": "TOR"
+ },
+ {
+  "fvm": 12,
+  "mantra": "ds|dc",
+  "nome": "Leysen F.",
+  "presenze_pct": 100,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "d",
+  "squadra": "SAS"
+ },
+ {
+  "fvm": 14,
+  "mantra": "pc",
+  "nome": "Birligea",
+  "presenze_pct": 0,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "a",
+  "squadra": "FRO"
+ },
+ {
+  "fvm": 13,
+  "mantra": "a",
+  "nome": "Ngonge",
+  "presenze_pct": 0,
+  "qa": 5,
+  "qi": 5,
+  "ruolo": "a",
+  "squadra": "MON"
+ },
+ {
+  "fvm": 8,
+  "mantra": "m|c",
+  "nome": "De Roon",
+  "presenze_pct": 0,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "c",
+  "squadra": "ROM"
+ },
+ {
+  "fvm": 14,
+  "mantra": "m|c",
+  "nome": "Moro N.",
+  "presenze_pct": 0,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "c",
+  "squadra": "BOL"
+ },
+ {
+  "fvm": 12,
+  "mantra": "w|a",
+  "nome": "Dominguez B.",
+  "presenze_pct": 100,
+  "qa": 4,
+  "qi": 3,
+  "ruolo": "c",
+  "squadra": "SAS"
+ },
+ {
+  "fvm": 14,
+  "mantra": "ds|dc",
+  "nome": "Rodriguez Ju.",
+  "presenze_pct": 100,
+  "qa": 4,
+  "qi": 3,
+  "ruolo": "d",
+  "squadra": "CAG"
+ },
+ {
+  "fvm": 7,
+  "mantra": "b|dd|e",
+  "nome": "Zappa\n  \n                            *",
+  "presenze_pct": 50,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "d",
+  "squadra": "CAG"
+ },
+ {
+  "fvm": 8,
+  "mantra": "m|c",
+  "nome": "Deiola",
+  "presenze_pct": 100,
+  "qa": 4,
+  "qi": 3,
+  "ruolo": "c",
+  "squadra": "CAG"
+ },
+ {
+  "fvm": 7,
+  "mantra": "m|c",
+  "nome": "Prati\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "c",
+  "squadra": "CAG"
+ },
+ {
+  "fvm": 9,
+  "mantra": "pc",
+  "nome": "Borrelli",
+  "presenze_pct": 50,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "a",
+  "squadra": "CAG"
+ },
+ {
+  "fvm": 14,
+  "mantra": "pc",
+  "nome": "Mendy P.",
+  "presenze_pct": 100,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "a",
+  "squadra": "CAG"
+ },
+ {
+  "fvm": 10,
+  "mantra": "dd|e",
+  "nome": "Smolcic I.",
+  "presenze_pct": 50,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "d",
+  "squadra": "COM"
+ },
+ {
+  "fvm": 7,
+  "mantra": "pc",
+  "nome": "Morata\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "a",
+  "squadra": "COM"
+ },
+ {
+  "fvm": 8,
+  "mantra": "dc",
+  "nome": "Pongracic",
+  "presenze_pct": 50,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "d",
+  "squadra": "FIO"
+ },
+ {
+  "fvm": 8,
+  "mantra": "c|t",
+  "nome": "Fabbian",
+  "presenze_pct": 0,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "c",
+  "squadra": "PAR"
+ },
+ {
+  "fvm": 12,
+  "mantra": "dc",
+  "nome": "Calvani",
+  "presenze_pct": 100,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "d",
+  "squadra": "FRO"
+ },
+ {
+  "fvm": 12,
+  "mantra": "m|c",
+  "nome": "Cichella",
+  "presenze_pct": 50,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "c",
+  "squadra": "FRO"
+ },
+ {
+  "fvm": 11,
+  "mantra": "c",
+  "nome": "Koutsoupias",
+  "presenze_pct": 0,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "c",
+  "squadra": "FRO"
+ },
+ {
+  "fvm": 13,
+  "mantra": "w",
+  "nome": "Fini",
+  "presenze_pct": 100,
+  "qa": 4,
+  "qi": 3,
+  "ruolo": "c",
+  "squadra": "FRO"
+ },
+ {
+  "fvm": 17,
+  "mantra": "w|a",
+  "nome": "Kvernadze",
+  "presenze_pct": 100,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "a",
+  "squadra": "FRO"
+ },
+ {
+  "fvm": 10,
+  "mantra": "ds|e",
+  "nome": "Mitaj",
+  "presenze_pct": 0,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "d",
+  "squadra": "GEN"
+ },
+ {
+  "fvm": 8,
+  "mantra": "w|t",
+  "nome": "Messias",
+  "presenze_pct": 100,
+  "qa": 4,
+  "qi": 3,
+  "ruolo": "c",
+  "squadra": "GEN"
+ },
+ {
+  "fvm": 9,
+  "mantra": "pc",
+  "nome": "Havel",
+  "presenze_pct": 0,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "a",
+  "squadra": "GEN"
+ },
+ {
+  "fvm": 12,
+  "mantra": "e|w",
+  "nome": "Luis Henrique",
+  "presenze_pct": 100,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "c",
+  "squadra": "INT"
+ },
+ {
+  "fvm": 10,
+  "mantra": "dc",
+  "nome": "Gatti",
+  "presenze_pct": 0,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "d",
+  "squadra": "JUV"
+ },
+ {
+  "fvm": 15,
+  "mantra": "c",
+  "nome": "Douglas Luiz",
+  "presenze_pct": 100,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "c",
+  "squadra": "JUV"
+ },
+ {
+  "fvm": 12,
+  "mantra": "m|c",
+  "nome": "Cataldi",
+  "presenze_pct": 0,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "c",
+  "squadra": "LAZ"
+ },
+ {
+  "fvm": 13,
+  "mantra": "m|c",
+  "nome": "Ngom",
+  "presenze_pct": 50,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "c",
+  "squadra": "LEC"
+ },
+ {
+  "fvm": 12,
+  "mantra": "dd|dc",
+  "nome": "De Winter",
+  "presenze_pct": 100,
+  "qa": 4,
+  "qi": 3,
+  "ruolo": "d",
+  "squadra": "MIL"
+ },
+ {
+  "fvm": 13,
+  "mantra": "ds|e",
+  "nome": "Estupinan",
+  "presenze_pct": 50,
+  "qa": 4,
+  "qi": 3,
+  "ruolo": "d",
+  "squadra": "MIL"
+ },
+ {
+  "fvm": 10,
+  "mantra": "m|c",
+  "nome": "Ricci S.",
+  "presenze_pct": 0,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "c",
+  "squadra": "COM"
+ },
+ {
+  "fvm": 18,
+  "mantra": "c|t",
+  "nome": "Loftus-Cheek",
+  "presenze_pct": 100,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "c",
+  "squadra": "MIL"
+ },
+ {
+  "fvm": 11,
+  "mantra": "dc",
+  "nome": "Delli Carri",
+  "presenze_pct": 50,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "d",
+  "squadra": "MON"
+ },
+ {
+  "fvm": 11,
+  "mantra": "dc",
+  "nome": "Lucchesi",
+  "presenze_pct": 100,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "d",
+  "squadra": "MON"
+ },
+ {
+  "fvm": 12,
+  "mantra": "dd|ds|e",
+  "nome": "Birindelli",
+  "presenze_pct": 100,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "d",
+  "squadra": "MON"
+ },
+ {
+  "fvm": 17,
+  "mantra": "c|t",
+  "nome": "Folorunsho",
+  "presenze_pct": 50,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "c",
+  "squadra": "MON"
+ },
+ {
+  "fvm": 10,
+  "mantra": "a",
+  "nome": "Giovane",
+  "presenze_pct": 0,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "a",
+  "squadra": "NAP"
+ },
+ {
+  "fvm": 12,
+  "mantra": "a",
+  "nome": "Lang",
+  "presenze_pct": 100,
+  "qa": 4,
+  "qi": 3,
+  "ruolo": "a",
+  "squadra": "NAP"
+ },
+ {
+  "fvm": 10,
+  "mantra": "pc",
+  "nome": "Lucca",
+  "presenze_pct": 50,
+  "qa": 4,
+  "qi": 3,
+  "ruolo": "a",
+  "squadra": "NAP"
+ },
+ {
+  "fvm": 14,
+  "mantra": "dc",
+  "nome": "Troilo",
+  "presenze_pct": 100,
+  "qa": 4,
+  "qi": 3,
+  "ruolo": "d",
+  "squadra": "PAR"
+ },
+ {
+  "fvm": 10,
+  "mantra": "dc",
+  "nome": "Valenti",
+  "presenze_pct": 0,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "d",
+  "squadra": "PAR"
+ },
+ {
+  "fvm": 11,
+  "mantra": "w|a",
+  "nome": "Almqvist",
+  "presenze_pct": 50,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "c",
+  "squadra": "PAR"
+ },
+ {
+  "fvm": 12,
+  "mantra": "w|a",
+  "nome": "Diallo O.",
+  "presenze_pct": 50,
+  "qa": 4,
+  "qi": 3,
+  "ruolo": "c",
+  "squadra": "PAR"
+ },
+ {
+  "fvm": 10,
+  "mantra": "dc",
+  "nome": "Ghilardi",
+  "presenze_pct": 0,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "d",
+  "squadra": "ROM"
+ },
+ {
+  "fvm": 18,
+  "mantra": "m|c",
+  "nome": "El Aynaoui",
+  "presenze_pct": 0,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "c",
+  "squadra": "ROM"
+ },
+ {
+  "fvm": 10,
+  "mantra": "dd|dc",
+  "nome": "Walukiewicz",
+  "presenze_pct": 0,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "d",
+  "squadra": "SAS"
+ },
+ {
+  "fvm": 10,
+  "mantra": "ds|e",
+  "nome": "Doig",
+  "presenze_pct": 100,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "d",
+  "squadra": "SAS"
+ },
+ {
+  "fvm": 12,
+  "mantra": "dc",
+  "nome": "Comert",
+  "presenze_pct": 50,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "d",
+  "squadra": "TOR"
+ },
+ {
+  "fvm": 18,
+  "mantra": "m|c",
+  "nome": "Fitz-Jim",
+  "presenze_pct": 100,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "c",
+  "squadra": "TOR"
+ },
+ {
+  "fvm": 10,
+  "mantra": "m|c",
+  "nome": "Ilkhan",
+  "presenze_pct": 50,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "c",
+  "squadra": "TOR"
+ },
+ {
+  "fvm": 9,
+  "mantra": "pc",
+  "nome": "Kulenovic",
+  "presenze_pct": 50,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "a",
+  "squadra": "TOR"
+ },
+ {
+  "fvm": 12,
+  "mantra": "dc",
+  "nome": "Kabasele",
+  "presenze_pct": 0,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "d",
+  "squadra": "UDI"
+ },
+ {
+  "fvm": 10,
+  "mantra": "dd|ds|dc",
+  "nome": "Bertola",
+  "presenze_pct": 50,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "d",
+  "squadra": "UDI"
+ },
+ {
+  "fvm": 10,
+  "mantra": "dd|e",
+  "nome": "Zanoli",
+  "presenze_pct": 0,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "d",
+  "squadra": "UDI"
+ },
+ {
+  "fvm": 8,
+  "mantra": "ds|e",
+  "nome": "Arizala",
+  "presenze_pct": 0,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "d",
+  "squadra": "UDI"
+ },
+ {
+  "fvm": 12,
+  "mantra": "m|c",
+  "nome": "Miller L.",
+  "presenze_pct": 100,
+  "qa": 4,
+  "qi": 3,
+  "ruolo": "c",
+  "squadra": "UDI"
+ },
+ {
+  "fvm": 7,
+  "mantra": "pc",
+  "nome": "Gueye",
+  "presenze_pct": 100,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "a",
+  "squadra": "UDI"
+ },
+ {
+  "fvm": 10,
+  "mantra": "dc",
+  "nome": "Halhal",
+  "presenze_pct": 50,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "d",
+  "squadra": "VEN"
+ },
+ {
+  "fvm": 5,
+  "mantra": "a",
+  "nome": "Robinson J.",
+  "presenze_pct": 0,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "a",
+  "squadra": "MON"
+ },
+ {
+  "fvm": 8,
+  "mantra": "ds|e",
+  "nome": "Terzic",
+  "presenze_pct": 100,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "d",
+  "squadra": "FRO"
+ },
+ {
+  "fvm": 11,
+  "mantra": "dd|ds|e",
+  "nome": "Favasuli",
+  "presenze_pct": 0,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "d",
+  "squadra": "NAP"
+ },
+ {
+  "fvm": 17,
+  "mantra": "w|a",
+  "nome": "Fatah",
+  "presenze_pct": 0,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "a",
+  "squadra": "LEC"
+ },
+ {
+  "fvm": 12,
+  "mantra": "c|t",
+  "nome": "Massolin",
+  "presenze_pct": 0,
+  "qa": 4,
+  "qi": 4,
+  "ruolo": "c",
+  "squadra": "CAG"
+ },
+ {
+  "fvm": 12,
+  "mantra": "dd|dc",
+  "nome": "Kossounou",
+  "presenze_pct": 50,
+  "qa": 3,
+  "qi": 3,
+  "ruolo": "d",
+  "squadra": "ATA"
+ },
+ {
+  "fvm": 7,
+  "mantra": "m|c",
+  "nome": "Sulemana I.",
+  "presenze_pct": 0,
+  "qa": 3,
+  "qi": 3,
+  "ruolo": "c",
+  "squadra": "ATA"
+ },
+ {
+  "fvm": 5,
+  "mantra": "dc",
+  "nome": "Casale",
+  "presenze_pct": 0,
+  "qa": 3,
+  "qi": 3,
+  "ruolo": "d",
+  "squadra": "BOL"
+ },
+ {
+  "fvm": 12,
+  "mantra": "dd|dc",
+  "nome": "Helland",
+  "presenze_pct": 50,
+  "qa": 3,
+  "qi": 2,
+  "ruolo": "d",
+  "squadra": "BOL"
+ },
+ {
+  "fvm": 3,
+  "mantra": "ds|e",
+  "nome": "Idrissi R.",
+  "presenze_pct": 0,
+  "qa": 3,
+  "qi": 3,
+  "ruolo": "d",
+  "squadra": "CAG"
+ },
+ {
+  "fvm": 5,
+  "mantra": "w|a",
+  "nome": "Kuhn",
+  "presenze_pct": 0,
+  "qa": 3,
+  "qi": 3,
+  "ruolo": "a",
+  "squadra": "COM"
+ },
+ {
+  "fvm": 10,
+  "mantra": "ds|dc",
+  "nome": "Ranieri L.",
+  "presenze_pct": 50,
+  "qa": 3,
+  "qi": 3,
+  "ruolo": "d",
+  "squadra": "FIO"
+ },
+ {
+  "fvm": 12,
+  "mantra": "dd|e",
+  "nome": "Joao Mario",
+  "presenze_pct": 50,
+  "qa": 3,
+  "qi": 3,
+  "ruolo": "d",
+  "squadra": "FIO"
+ },
+ {
+  "fvm": 12,
+  "mantra": "c|t",
+  "nome": "Brescianini",
+  "presenze_pct": 100,
+  "qa": 3,
+  "qi": 3,
+  "ruolo": "c",
+  "squadra": "FIO"
+ },
+ {
+  "fvm": 6,
+  "mantra": "dc",
+  "nome": "Akpoguma",
+  "presenze_pct": 0,
+  "qa": 3,
+  "qi": 3,
+  "ruolo": "d",
+  "squadra": "FRO"
+ },
+ {
+  "fvm": 8,
+  "mantra": "dc",
+  "nome": "Cittadini",
+  "presenze_pct": 100,
+  "qa": 3,
+  "qi": 3,
+  "ruolo": "d",
+  "squadra": "FRO"
+ },
+ {
+  "fvm": 8,
+  "mantra": "c|t",
+  "nome": "Gelli F.",
+  "presenze_pct": 0,
+  "qa": 3,
+  "qi": 3,
+  "ruolo": "c",
+  "squadra": "FRO"
+ },
+ {
+  "fvm": 5,
+  "mantra": "c|t",
+  "nome": "Hasa",
+  "presenze_pct": 50,
+  "qa": 3,
+  "qi": 2,
+  "ruolo": "c",
+  "squadra": "FRO"
+ },
+ {
+  "fvm": 8,
+  "mantra": "m|c",
+  "nome": "Masini",
+  "presenze_pct": 100,
+  "qa": 3,
+  "qi": 2,
+  "ruolo": "c",
+  "squadra": "FRO"
+ },
+ {
+  "fvm": 7,
+  "mantra": "m|c",
+  "nome": "Stankovic A.",
+  "presenze_pct": 0,
+  "qa": 3,
+  "qi": 3,
+  "ruolo": "c",
+  "squadra": "INT"
+ },
+ {
+  "fvm": 7,
+  "mantra": "c|t",
+  "nome": "Miretti\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 3,
+  "qi": 3,
+  "ruolo": "c",
+  "squadra": "JUV"
+ },
+ {
+  "fvm": 10,
+  "mantra": "a",
+  "nome": "Ekhator",
+  "presenze_pct": 0,
+  "qa": 3,
+  "qi": 3,
+  "ruolo": "a",
+  "squadra": "JUV"
+ },
+ {
+  "fvm": 14,
+  "mantra": "dc",
+  "nome": "Provstgaard",
+  "presenze_pct": 100,
+  "qa": 3,
+  "qi": 3,
+  "ruolo": "d",
+  "squadra": "LAZ"
+ },
+ {
+  "fvm": 10,
+  "mantra": "dd|e",
+  "nome": "Floriani Mussolini",
+  "presenze_pct": 100,
+  "qa": 3,
+  "qi": 3,
+  "ruolo": "d",
+  "squadra": "LAZ"
+ },
+ {
+  "fvm": 12,
+  "mantra": "m|c",
+  "nome": "Gorter",
+  "presenze_pct": 50,
+  "qa": 3,
+  "qi": 1,
+  "ruolo": "c",
+  "squadra": "LEC"
+ },
+ {
+  "fvm": 7,
+  "mantra": "m|c",
+  "nome": "Maleh",
+  "presenze_pct": 50,
+  "qa": 3,
+  "qi": 2,
+  "ruolo": "c",
+  "squadra": "LEC"
+ },
+ {
+  "fvm": 15,
+  "mantra": "w|a",
+  "nome": "N'Dri",
+  "presenze_pct": 50,
+  "qa": 3,
+  "qi": 3,
+  "ruolo": "a",
+  "squadra": "LEC"
+ },
+ {
+  "fvm": 8,
+  "mantra": "dd|e",
+  "nome": "Athekame\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 3,
+  "qi": 3,
+  "ruolo": "d",
+  "squadra": "MIL"
+ },
+ {
+  "fvm": 15,
+  "mantra": "c|w",
+  "nome": "Musah",
+  "presenze_pct": 100,
+  "qa": 3,
+  "qi": 2,
+  "ruolo": "c",
+  "squadra": "MIL"
+ },
+ {
+  "fvm": 14,
+  "mantra": "dd|dc",
+  "nome": "Kouadio",
+  "presenze_pct": 100,
+  "qa": 3,
+  "qi": 3,
+  "ruolo": "d",
+  "squadra": "MON"
+ },
+ {
+  "fvm": 9,
+  "mantra": "ds|dc",
+  "nome": "Carboni A.",
+  "presenze_pct": 100,
+  "qa": 3,
+  "qi": 3,
+  "ruolo": "d",
+  "squadra": "MON"
+ },
+ {
+  "fvm": 4,
+  "mantra": "m|c",
+  "nome": "Colombo L.",
+  "presenze_pct": 0,
+  "qa": 3,
+  "qi": 3,
+  "ruolo": "c",
+  "squadra": "MON"
+ },
+ {
+  "fvm": 10,
+  "mantra": "m|c",
+  "nome": "Gilmour",
+  "presenze_pct": 0,
+  "qa": 3,
+  "qi": 3,
+  "ruolo": "c",
+  "squadra": "NAP"
+ },
+ {
+  "fvm": 10,
+  "mantra": "dd|ds|e",
+  "nome": "Britschgi",
+  "presenze_pct": 50,
+  "qa": 3,
+  "qi": 3,
+  "ruolo": "d",
+  "squadra": "PAR"
+ },
+ {
+  "fvm": 5,
+  "mantra": "m|c",
+  "nome": "Ordonez C.",
+  "presenze_pct": 100,
+  "qa": 3,
+  "qi": 2,
+  "ruolo": "c",
+  "squadra": "PAR"
+ },
+ {
+  "fvm": 12,
+  "mantra": "c",
+  "nome": "Sorensen O.",
+  "presenze_pct": 0,
+  "qa": 3,
+  "qi": 3,
+  "ruolo": "c",
+  "squadra": "PAR"
+ },
+ {
+  "fvm": 11,
+  "mantra": "pc",
+  "nome": "Elphege",
+  "presenze_pct": 50,
+  "qa": 3,
+  "qi": 3,
+  "ruolo": "a",
+  "squadra": "PAR"
+ },
+ {
+  "fvm": 12,
+  "mantra": "e",
+  "nome": "Angelino\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 3,
+  "qi": 3,
+  "ruolo": "d",
+  "squadra": "ROM"
+ },
+ {
+  "fvm": 7,
+  "mantra": "ds|dc",
+  "nome": "Candè",
+  "presenze_pct": 0,
+  "qa": 3,
+  "qi": 3,
+  "ruolo": "d",
+  "squadra": "SAS"
+ },
+ {
+  "fvm": 5,
+  "mantra": "w|a",
+  "nome": "Aboukhlal",
+  "presenze_pct": 100,
+  "qa": 3,
+  "qi": 3,
+  "ruolo": "c",
+  "squadra": "TOR"
+ },
+ {
+  "fvm": 11,
+  "mantra": "dc",
+  "nome": "Palma",
+  "presenze_pct": 50,
+  "qa": 3,
+  "qi": 2,
+  "ruolo": "d",
+  "squadra": "UDI"
+ },
+ {
+  "fvm": 5,
+  "mantra": "ds|dc",
+  "nome": "Ebosse",
+  "presenze_pct": 100,
+  "qa": 3,
+  "qi": 2,
+  "ruolo": "d",
+  "squadra": "UDI"
+ },
+ {
+  "fvm": 10,
+  "mantra": "dc",
+  "nome": "Schingtienne",
+  "presenze_pct": 100,
+  "qa": 3,
+  "qi": 3,
+  "ruolo": "d",
+  "squadra": "VEN"
+ },
+ {
+  "fvm": 7,
+  "mantra": "ds|dc",
+  "nome": "Sverko",
+  "presenze_pct": 0,
+  "qa": 3,
+  "qi": 3,
+  "ruolo": "d",
+  "squadra": "VEN"
+ },
+ {
+  "fvm": 12,
+  "mantra": "dd|e",
+  "nome": "Hainaut",
+  "presenze_pct": 100,
+  "qa": 3,
+  "qi": 3,
+  "ruolo": "d",
+  "squadra": "VEN"
+ },
+ {
+  "fvm": 3,
+  "mantra": "c|t",
+  "nome": "Helgason",
+  "presenze_pct": 0,
+  "qa": 3,
+  "qi": 3,
+  "ruolo": "c",
+  "squadra": "VEN"
+ },
+ {
+  "fvm": 8,
+  "mantra": "dc",
+  "nome": "Odenthal",
+  "presenze_pct": 50,
+  "qa": 3,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "SAS"
+ },
+ {
+  "fvm": 8,
+  "mantra": "dd|e",
+  "nome": "Tchato",
+  "presenze_pct": 0,
+  "qa": 3,
+  "qi": 3,
+  "ruolo": "d",
+  "squadra": "FRO"
+ },
+ {
+  "fvm": 8,
+  "mantra": "dd|dc",
+  "nome": "Kambwala",
+  "presenze_pct": 0,
+  "qa": 3,
+  "qi": 3,
+  "ruolo": "d",
+  "squadra": "COM"
+ },
+ {
+  "fvm": 6,
+  "mantra": "ds|e",
+  "nome": "Alhassane",
+  "presenze_pct": 0,
+  "qa": 2,
+  "qi": 2,
+  "ruolo": "d",
+  "squadra": "BOL"
+ },
+ {
+  "fvm": 10,
+  "mantra": "m|c",
+  "nome": "El Azzouzi O.",
+  "presenze_pct": 50,
+  "qa": 2,
+  "qi": 2,
+  "ruolo": "c",
+  "squadra": "BOL"
+ },
+ {
+  "fvm": 5,
+  "mantra": "dd|e",
+  "nome": "Van Der Brempt",
+  "presenze_pct": 0,
+  "qa": 2,
+  "qi": 2,
+  "ruolo": "d",
+  "squadra": "SAS"
+ },
+ {
+  "fvm": 12,
+  "mantra": "w",
+  "nome": "Fadera",
+  "presenze_pct": 50,
+  "qa": 2,
+  "qi": 2,
+  "ruolo": "c",
+  "squadra": "CAG"
+ },
+ {
+  "fvm": 3,
+  "mantra": "por",
+  "nome": "Desplanches",
+  "presenze_pct": 0,
+  "qa": 2,
+  "qi": 2,
+  "ruolo": "p",
+  "squadra": "FRO"
+ },
+ {
+  "fvm": 5,
+  "mantra": "dc",
+  "nome": "Otoa",
+  "presenze_pct": 50,
+  "qa": 2,
+  "qi": 2,
+  "ruolo": "d",
+  "squadra": "GEN"
+ },
+ {
+  "fvm": 3,
+  "mantra": "ds|e",
+  "nome": "Puczka",
+  "presenze_pct": 0,
+  "qa": 2,
+  "qi": 2,
+  "ruolo": "d",
+  "squadra": "GEN"
+ },
+ {
+  "fvm": 5,
+  "mantra": "dd|ds|e",
+  "nome": "Sabelli",
+  "presenze_pct": 0,
+  "qa": 2,
+  "qi": 2,
+  "ruolo": "d",
+  "squadra": "GEN"
+ },
+ {
+  "fvm": 4,
+  "mantra": "w",
+  "nome": "Venturino",
+  "presenze_pct": 0,
+  "qa": 2,
+  "qi": 2,
+  "ruolo": "c",
+  "squadra": "GEN"
+ },
+ {
+  "fvm": 5,
+  "mantra": "por",
+  "nome": "Provedel",
+  "presenze_pct": 0,
+  "qa": 2,
+  "qi": 2,
+  "ruolo": "p",
+  "squadra": "INT"
+ },
+ {
+  "fvm": 5,
+  "mantra": "dd|e",
+  "nome": "Lazzari",
+  "presenze_pct": 0,
+  "qa": 2,
+  "qi": 2,
+  "ruolo": "d",
+  "squadra": "LAZ"
+ },
+ {
+  "fvm": 7,
+  "mantra": "ds|e",
+  "nome": "Pellegrini Lu.",
+  "presenze_pct": 0,
+  "qa": 2,
+  "qi": 2,
+  "ruolo": "d",
+  "squadra": "LAZ"
+ },
+ {
+  "fvm": 4,
+  "mantra": "dc",
+  "nome": "Jean",
+  "presenze_pct": 0,
+  "qa": 2,
+  "qi": 2,
+  "ruolo": "d",
+  "squadra": "LEC"
+ },
+ {
+  "fvm": 5,
+  "mantra": "ds|e",
+  "nome": "Ndaba",
+  "presenze_pct": 50,
+  "qa": 2,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "LEC"
+ },
+ {
+  "fvm": 4,
+  "mantra": "ds|dc",
+  "nome": "Diawara S.",
+  "presenze_pct": 0,
+  "qa": 2,
+  "qi": 2,
+  "ruolo": "d",
+  "squadra": "MIL"
+ },
+ {
+  "fvm": 4,
+  "mantra": "dd|e",
+  "nome": "Bakoune",
+  "presenze_pct": 50,
+  "qa": 2,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "MON"
+ },
+ {
+  "fvm": 6,
+  "mantra": "e|w",
+  "nome": "Ciurria",
+  "presenze_pct": 0,
+  "qa": 2,
+  "qi": 2,
+  "ruolo": "c",
+  "squadra": "MON"
+ },
+ {
+  "fvm": 5,
+  "mantra": "pc",
+  "nome": "Petagna\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 2,
+  "qi": 2,
+  "ruolo": "a",
+  "squadra": "MON"
+ },
+ {
+  "fvm": 8,
+  "mantra": "dc",
+  "nome": "Marin R.",
+  "presenze_pct": 100,
+  "qa": 2,
+  "qi": 2,
+  "ruolo": "d",
+  "squadra": "NAP"
+ },
+ {
+  "fvm": 8,
+  "mantra": "dc",
+  "nome": "Ndiaye",
+  "presenze_pct": 50,
+  "qa": 2,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "PAR"
+ },
+ {
+  "fvm": 5,
+  "mantra": "m|c",
+  "nome": "Boloca",
+  "presenze_pct": 0,
+  "qa": 2,
+  "qi": 2,
+  "ruolo": "c",
+  "squadra": "SAS"
+ },
+ {
+  "fvm": 5,
+  "mantra": "m|c",
+  "nome": "Lipani",
+  "presenze_pct": 0,
+  "qa": 2,
+  "qi": 2,
+  "ruolo": "c",
+  "squadra": "SAS"
+ },
+ {
+  "fvm": 5,
+  "mantra": "b|ds|e",
+  "nome": "Biraghi",
+  "presenze_pct": 0,
+  "qa": 2,
+  "qi": 2,
+  "ruolo": "d",
+  "squadra": "TOR"
+ },
+ {
+  "fvm": 10,
+  "mantra": "dd|dc",
+  "nome": "Abankwah",
+  "presenze_pct": 100,
+  "qa": 2,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "UDI"
+ },
+ {
+  "fvm": 6,
+  "mantra": "w|t",
+  "nome": "Chakvetadze",
+  "presenze_pct": 0,
+  "qa": 2,
+  "qi": 2,
+  "ruolo": "c",
+  "squadra": "UDI"
+ },
+ {
+  "fvm": 4,
+  "mantra": "pc",
+  "nome": "Buksa\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 2,
+  "qi": 2,
+  "ruolo": "a",
+  "squadra": "UDI"
+ },
+ {
+  "fvm": 7,
+  "mantra": "b|ds|e",
+  "nome": "Franjic",
+  "presenze_pct": 100,
+  "qa": 2,
+  "qi": 2,
+  "ruolo": "d",
+  "squadra": "VEN"
+ },
+ {
+  "fvm": 4,
+  "mantra": "dd|e",
+  "nome": "Sagrado",
+  "presenze_pct": 0,
+  "qa": 2,
+  "qi": 2,
+  "ruolo": "d",
+  "squadra": "VEN"
+ },
+ {
+  "fvm": 4,
+  "mantra": "c",
+  "nome": "Duncan",
+  "presenze_pct": 0,
+  "qa": 2,
+  "qi": 2,
+  "ruolo": "c",
+  "squadra": "VEN"
+ },
+ {
+  "fvm": 5,
+  "mantra": "ds|e",
+  "nome": "Aurelio",
+  "presenze_pct": 0,
+  "qa": 2,
+  "qi": 2,
+  "ruolo": "d",
+  "squadra": "CAG"
+ },
+ {
+  "fvm": 10,
+  "mantra": "a",
+  "nome": "Lontani",
+  "presenze_pct": 100,
+  "qa": 2,
+  "qi": 1,
+  "ruolo": "a",
+  "squadra": "PAR"
+ },
+ {
+  "fvm": 1,
+  "mantra": "w|t",
+  "nome": "Forson O.",
+  "presenze_pct": 50,
+  "qa": 2,
+  "qi": 1,
+  "ruolo": "c",
+  "squadra": "MON"
+ },
+ {
+  "fvm": 4,
+  "mantra": "dd|e",
+  "nome": "Cinquegrano",
+  "presenze_pct": 100,
+  "qa": 2,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "SAS"
+ },
+ {
+  "fvm": 4,
+  "mantra": "b|dd|ds",
+  "nome": "Terracciano F.",
+  "presenze_pct": 0,
+  "qa": 2,
+  "qi": 2,
+  "ruolo": "d",
+  "squadra": "MIL"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Rossi F.\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "ATA"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Sportiello",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "ATA"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Happonen",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "BOL"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Pessina Mas.",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "BOL"
+ },
+ {
+  "fvm": 4,
+  "mantra": "dd|e",
+  "nome": "De Silvestri",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "BOL"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Ciocci\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "CAG"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Sherri",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "CAG"
+ },
+ {
+  "fvm": 1,
+  "mantra": "dd|e",
+  "nome": "Raterink\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "CAG"
+ },
+ {
+  "fvm": 1,
+  "mantra": "m|c",
+  "nome": "Liteta",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "c",
+  "squadra": "CAG"
+ },
+ {
+  "fvm": 1,
+  "mantra": "a",
+  "nome": "Albarracin\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "a",
+  "squadra": "CAG"
+ },
+ {
+  "fvm": 2,
+  "mantra": "pc",
+  "nome": "Trepy",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "a",
+  "squadra": "CAG"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Tornqvist",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "COM"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Vigorito",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "COM"
+ },
+ {
+  "fvm": 1,
+  "mantra": "dc",
+  "nome": "Goldaniga",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "COM"
+ },
+ {
+  "fvm": 8,
+  "mantra": "ds|dc",
+  "nome": "Cuenca A.\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "COM"
+ },
+ {
+  "fvm": 1,
+  "mantra": "c|t",
+  "nome": "Lahdo",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "c",
+  "squadra": "COM"
+ },
+ {
+  "fvm": 1,
+  "mantra": "pc",
+  "nome": "Azon",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "a",
+  "squadra": "COM"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Christensen O.",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "FIO"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Lezzerini",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "FIO"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Lolic",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "FRO"
+ },
+ {
+  "fvm": 1,
+  "mantra": "dc",
+  "nome": "Amey",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "FRO"
+ },
+ {
+  "fvm": 1,
+  "mantra": "dc",
+  "nome": "Gelli J.\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "FRO"
+ },
+ {
+  "fvm": 2,
+  "mantra": "dd|e",
+  "nome": "Oyono J.\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "FRO"
+ },
+ {
+  "fvm": 1,
+  "mantra": "ds|e",
+  "nome": "Corrado\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "FRO"
+ },
+ {
+  "fvm": 1,
+  "mantra": "m|c",
+  "nome": "El Azzouzi A.",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "c",
+  "squadra": "FRO"
+ },
+ {
+  "fvm": 3,
+  "mantra": "c",
+  "nome": "Kone B.",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "c",
+  "squadra": "FRO"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Sommariva",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "GEN"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Stolz",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "GEN"
+ },
+ {
+  "fvm": 2,
+  "mantra": "dd|dc",
+  "nome": "Vogliacco\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "GEN"
+ },
+ {
+  "fvm": 2,
+  "mantra": "ds|dc",
+  "nome": "Matturro\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "GEN"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Di Gennaro",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "INT"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Pinsoglio",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "JUV"
+ },
+ {
+  "fvm": 3,
+  "mantra": "dc",
+  "nome": "Rugani",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "JUV"
+ },
+ {
+  "fvm": 4,
+  "mantra": "b|ds|e",
+  "nome": "Cabal",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "JUV"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Motta",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "LAZ"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Renzetti",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "LAZ"
+ },
+ {
+  "fvm": 1,
+  "mantra": "dd|dc",
+  "nome": "Patric",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "LAZ"
+ },
+ {
+  "fvm": 3,
+  "mantra": "m|c",
+  "nome": "Belahyane",
+  "presenze_pct": 50,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "c",
+  "squadra": "LAZ"
+ },
+ {
+  "fvm": 5,
+  "mantra": "w|t",
+  "nome": "Przyborek",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "c",
+  "squadra": "LAZ"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Fruchtl\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "LEC"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Samooja\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "LEC"
+ },
+ {
+  "fvm": 1,
+  "mantra": "dd|dc",
+  "nome": "Perez M.\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "LEC"
+ },
+ {
+  "fvm": 2,
+  "mantra": "m|c",
+  "nome": "Kaba",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "c",
+  "squadra": "LEC"
+ },
+ {
+  "fvm": 1,
+  "mantra": "m|c",
+  "nome": "Fofana Sa.",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "c",
+  "squadra": "LEC"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Terracciano",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "MIL"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Torriani",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "MIL"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Pizzignacco\n  \n                            *",
+  "presenze_pct": 50,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "MON"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Strajnar",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "MON"
+ },
+ {
+  "fvm": 2,
+  "mantra": "dc",
+  "nome": "Antov",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "MON"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Contini",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "NAP"
+ },
+ {
+  "fvm": 3,
+  "mantra": "dc",
+  "nome": "Marianucci",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "NAP"
+ },
+ {
+  "fvm": 3,
+  "mantra": "dd|ds|e",
+  "nome": "Mazzocchi",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "NAP"
+ },
+ {
+  "fvm": 10,
+  "mantra": "por",
+  "nome": "Corvi",
+  "presenze_pct": 100,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "PAR"
+ },
+ {
+  "fvm": 3,
+  "mantra": "ds|e",
+  "nome": "Carboni F.",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "PAR"
+ },
+ {
+  "fvm": 3,
+  "mantra": "e|c",
+  "nome": "Cremaschi",
+  "presenze_pct": 50,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "c",
+  "squadra": "PAR"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "De Marzi",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "ROM"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Gollini",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "ROM"
+ },
+ {
+  "fvm": 2,
+  "mantra": "dc",
+  "nome": "Ziolkowski",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "MON"
+ },
+ {
+  "fvm": 4,
+  "mantra": "pc",
+  "nome": "Vaz",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "a",
+  "squadra": "ROM"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Russo A.",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "SAS"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Turati",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "SAS"
+ },
+ {
+  "fvm": 2,
+  "mantra": "dd|e",
+  "nome": "Missori\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "SAS"
+ },
+ {
+  "fvm": 1,
+  "mantra": "ds|e",
+  "nome": "Pieragnolo",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "SAS"
+ },
+ {
+  "fvm": 1,
+  "mantra": "m|c",
+  "nome": "Iannoni",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "c",
+  "squadra": "SAS"
+ },
+ {
+  "fvm": 1,
+  "mantra": "pc",
+  "nome": "Moro L.\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "a",
+  "squadra": "SAS"
+ },
+ {
+  "fvm": 13,
+  "mantra": "por",
+  "nome": "Mascardi",
+  "presenze_pct": 100,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "TOR"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Paleari",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "TOR"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Siviero",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "TOR"
+ },
+ {
+  "fvm": 8,
+  "mantra": "c",
+  "nome": "Ilic",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "c",
+  "squadra": "LEC"
+ },
+ {
+  "fvm": 4,
+  "mantra": "c|t",
+  "nome": "Anjorin",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "c",
+  "squadra": "TOR"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Padelli",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "UDI"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Piana",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "UDI"
+ },
+ {
+  "fvm": 3,
+  "mantra": "dc",
+  "nome": "Mlacic",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "UDI"
+ },
+ {
+  "fvm": 3,
+  "mantra": "m|c",
+  "nome": "Camara A.\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "c",
+  "squadra": "UDI"
+ },
+ {
+  "fvm": 4,
+  "mantra": "m|c",
+  "nome": "Zarraga",
+  "presenze_pct": 50,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "c",
+  "squadra": "UDI"
+ },
+ {
+  "fvm": 3,
+  "mantra": "pc",
+  "nome": "Bayo V.",
+  "presenze_pct": 50,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "a",
+  "squadra": "UDI"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Grandi",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "VEN"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Pozzi",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "VEN"
+ },
+ {
+  "fvm": 1,
+  "mantra": "ds|dc",
+  "nome": "Gomes",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "VEN"
+ },
+ {
+  "fvm": 3,
+  "mantra": "e|w",
+  "nome": "Bjarkason\n  \n                            *",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "c",
+  "squadra": "VEN"
+ },
+ {
+  "fvm": 1,
+  "mantra": "c",
+  "nome": "Dagasso",
+  "presenze_pct": 50,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "c",
+  "squadra": "VEN"
+ },
+ {
+  "fvm": 1,
+  "mantra": "w|a",
+  "nome": "Lisman",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "a",
+  "squadra": "VEN"
+ },
+ {
+  "fvm": 1,
+  "mantra": "pc",
+  "nome": "Lauberbach",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "a",
+  "squadra": "VEN"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Vismara",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "ATA"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Satalino",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "SAS"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Penev",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "LEC"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Pisseri",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "FRO"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Radunovic",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "CAG"
+ },
+ {
+  "fvm": 1,
+  "mantra": "pc",
+  "nome": "De Martis",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "a",
+  "squadra": "PAR"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Montipò",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "VEN"
+ },
+ {
+  "fvm": 1,
+  "mantra": "dc",
+  "nome": "Omar Fayed",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "FRO"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Bleve",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "LEC"
+ },
+ {
+  "fvm": 1,
+  "mantra": "w|a",
+  "nome": "Laerke",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "c",
+  "squadra": "LEC"
+ },
+ {
+  "fvm": 1,
+  "mantra": "m|c",
+  "nome": "Comotto",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "c",
+  "squadra": "MIL"
+ },
+ {
+  "fvm": 1,
+  "mantra": "dc",
+  "nome": "Macchioni",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "SAS"
+ },
+ {
+  "fvm": 2,
+  "mantra": "c",
+  "nome": "Foe Ondoa",
+  "presenze_pct": 50,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "c",
+  "squadra": "MON"
+ },
+ {
+  "fvm": 12,
+  "mantra": "c",
+  "nome": "Mout",
+  "presenze_pct": 50,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "c",
+  "squadra": "MON"
+ },
+ {
+  "fvm": 1,
+  "mantra": "w",
+  "nome": "Ciervo",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "c",
+  "squadra": "CAG"
+ },
+ {
+  "fvm": 3,
+  "mantra": "e",
+  "nome": "Lulli",
+  "presenze_pct": 50,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "ROM"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Grabara",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "JUV"
+ },
+ {
+  "fvm": 1,
+  "mantra": "ds|dc",
+  "nome": "Maye",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "MON"
+ },
+ {
+  "fvm": 1,
+  "mantra": "por",
+  "nome": "Mrozek",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "p",
+  "squadra": "UDI"
+ },
+ {
+  "fvm": 1,
+  "mantra": "dc",
+  "nome": "Drobnic",
+  "presenze_pct": 50,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "PAR"
+ },
+ {
+  "fvm": 2,
+  "mantra": "dd|e",
+  "nome": "Dembelè A.",
+  "presenze_pct": 0,
+  "qa": 1,
+  "qi": 1,
+  "ruolo": "d",
+  "squadra": "LEC"
+ }
+]

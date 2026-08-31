@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Log delle esecuzioni: rumore, si rigenerano a ogni corsa
+dati/log-*.txt
+
+# File temporanei della scrittura atomica
+*.tmp

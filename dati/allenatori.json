@@ -1,0 +1,1381 @@
+{
+ "Cristian Chivu": {
+  "nome": "Cristian Chivu",
+  "squadra_attuale": "Inter",
+  "modulo": "3-5-2",
+  "carriera_totale": {
+   "total": 246,
+   "wins": 132,
+   "draws": 62,
+   "losses": 52,
+   "goalsScored": 490,
+   "goalsConceded": 293,
+   "totalPoints": 458
+  },
+  "stagioni": {
+   "25/26": {
+    "squadra": "Inter",
+    "partite": 38,
+    "gol_fatti_pg": 2.34,
+    "gol_subiti_pg": 0.92,
+    "tiri_pg": 17.1,
+    "tiri_porta_pg": 6.0,
+    "big_chances_pg": 3.16,
+    "falli_pg": 13.1,
+    "possesso": 59.8,
+    "clean_sheet": 18,
+    "recuperi_pg": 44.9,
+    "marcatori": [
+     {
+      "nome": "Lautaro Martínez",
+      "ruolo": "F",
+      "gol": 17
+     },
+     {
+      "nome": "Marcus Thuram",
+      "ruolo": "F",
+      "gol": 13
+     },
+     {
+      "nome": "Hakan Çalhanoğlu",
+      "ruolo": "M",
+      "gol": 9
+     },
+     {
+      "nome": "Federico Dimarco",
+      "ruolo": "M",
+      "gol": 7
+     }
+    ],
+    "gol_miglior_marcatore": 17,
+    "gol_miglior_punta": 17
+   },
+   "24/25": {
+    "squadra": "Parma",
+    "partite": 38,
+    "gol_fatti_pg": 1.16,
+    "gol_subiti_pg": 1.53,
+    "tiri_pg": 11.2,
+    "tiri_porta_pg": 3.9,
+    "big_chances_pg": 1.24,
+    "falli_pg": 10.7,
+    "possesso": 44.1,
+    "clean_sheet": 7,
+    "recuperi_pg": 44.2,
+    "marcatori": [
+     {
+      "nome": "Ange-Yoan Bonny",
+      "ruolo": "F",
+      "gol": 6
+     },
+     {
+      "nome": "Milan Đurić",
+      "ruolo": "F",
+      "gol": 5
+     },
+     {
+      "nome": "Jacob Ondrejka",
+      "ruolo": "F",
+      "gol": 5
+     },
+     {
+      "nome": "Dennis Man",
+      "ruolo": "M",
+      "gol": 4
+     }
+    ],
+    "gol_miglior_marcatore": 6,
+    "gol_miglior_punta": 6
+   },
+   "23/24": {
+    "squadra": "Inter U20"
+   }
+  },
+  "note": [
+   "23/24: Inter U20 — statistiche di squadra non recuperabili (campionato estero o dato assente)"
+  ]
+ },
+ "Rúben Amorim": {
+  "nome": "Rúben Amorim",
+  "squadra_attuale": "AC Milan",
+  "modulo": "3-4-2-1",
+  "carriera_totale": {
+   "total": 312,
+   "wins": 204,
+   "draws": 49,
+   "losses": 59,
+   "goalsScored": 677,
+   "goalsConceded": 334,
+   "totalPoints": 661
+  },
+  "stagioni": {
+   "25/26": {
+    "squadra": "Manchester United"
+   },
+   "24/25": {
+    "squadra": "Manchester United"
+   },
+   "23/24": {
+    "squadra": "Sporting CP"
+   }
+  },
+  "note": [
+   "25/26: Manchester United — statistiche di squadra non recuperabili (campionato estero o dato assente)",
+   "24/25: Manchester United — statistiche di squadra non recuperabili (campionato estero o dato assente)",
+   "23/24: Sporting CP — statistiche di squadra non recuperabili (campionato estero o dato assente)"
+  ]
+ },
+ "Luciano Spalletti": {
+  "nome": "Luciano Spalletti",
+  "squadra_attuale": "Juventus",
+  "modulo": "4-2-3-1",
+  "carriera_totale": {
+   "total": 1065,
+   "wins": 552,
+   "draws": 255,
+   "losses": 258,
+   "goalsScored": 1808,
+   "goalsConceded": 1182,
+   "totalPoints": 1913
+  },
+  "stagioni": {
+   "25/26": {
+    "squadra": "Juventus",
+    "partite": 38,
+    "gol_fatti_pg": 1.61,
+    "gol_subiti_pg": 0.89,
+    "tiri_pg": 16.8,
+    "tiri_porta_pg": 6.0,
+    "big_chances_pg": 2.08,
+    "falli_pg": 12.1,
+    "possesso": 57.5,
+    "clean_sheet": 16,
+    "recuperi_pg": 48.6,
+    "marcatori": [
+     {
+      "nome": "Kenan Yıldız",
+      "ruolo": "F",
+      "gol": 10
+     },
+     {
+      "nome": "Dušan Vlahović",
+      "ruolo": "F",
+      "gol": 7
+     },
+     {
+      "nome": "Jonathan David",
+      "ruolo": "F",
+      "gol": 6
+     },
+     {
+      "nome": "Weston McKennie",
+      "ruolo": "M",
+      "gol": 5
+     }
+    ],
+    "gol_miglior_marcatore": 10,
+    "gol_miglior_punta": 10
+   },
+   "24/25": {
+    "squadra": "Italy"
+   },
+   "23/24": {
+    "squadra": "Italy"
+   }
+  },
+  "note": [
+   "24/25: Italy — statistiche di squadra non recuperabili (campionato estero o dato assente)",
+   "23/24: Italy — statistiche di squadra non recuperabili (campionato estero o dato assente)"
+  ]
+ },
+ "Gennaro Gattuso": {
+  "nome": "Gennaro Gattuso",
+  "squadra_attuale": "Lazio",
+  "modulo": "4-3-3",
+  "carriera_totale": {
+   "total": 388,
+   "wins": 175,
+   "draws": 102,
+   "losses": 111,
+   "goalsScored": 555,
+   "goalsConceded": 419,
+   "totalPoints": 627
+  },
+  "stagioni": {
+   "25/26": {
+    "squadra": "Italy"
+   },
+   "24/25": {
+    "squadra": "HNK Hajduk Split"
+   },
+   "23/24": {
+    "squadra": "Olympique de Marseille"
+   }
+  },
+  "note": [
+   "25/26: Italy — statistiche di squadra non recuperabili (campionato estero o dato assente)",
+   "24/25: HNK Hajduk Split — statistiche di squadra non recuperabili (campionato estero o dato assente)",
+   "23/24: Olympique de Marseille — statistiche di squadra non recuperabili (campionato estero o dato assente)"
+  ]
+ },
+ "Kosta Runjaic": {
+  "nome": "Kosta Runjaic",
+  "squadra_attuale": "Udinese",
+  "modulo": "4-1-4-1",
+  "carriera_totale": {
+   "total": 588,
+   "wins": 257,
+   "draws": 157,
+   "losses": 174,
+   "goalsScored": 888,
+   "goalsConceded": 719,
+   "totalPoints": 928
+  },
+  "stagioni": {
+   "25/26": {
+    "squadra": "Udinese",
+    "partite": 38,
+    "gol_fatti_pg": 1.18,
+    "gol_subiti_pg": 1.26,
+    "tiri_pg": 11.6,
+    "tiri_porta_pg": 3.8,
+    "big_chances_pg": 1.42,
+    "falli_pg": 13.6,
+    "possesso": 45.6,
+    "clean_sheet": 11,
+    "recuperi_pg": 43.2,
+    "marcatori": [
+     {
+      "nome": "Keinan Davis",
+      "ruolo": "F",
+      "gol": 10
+     },
+     {
+      "nome": "Nicolò Zaniolo",
+      "ruolo": "F",
+      "gol": 5
+     },
+     {
+      "nome": "Arthur Atta",
+      "ruolo": "M",
+      "gol": 5
+     },
+     {
+      "nome": "Jürgen Ekkelenkamp",
+      "ruolo": "M",
+      "gol": 5
+     }
+    ],
+    "gol_miglior_marcatore": 10,
+    "gol_miglior_punta": 10
+   },
+   "24/25": {
+    "squadra": "Udinese",
+    "partite": 38,
+    "gol_fatti_pg": 1.08,
+    "gol_subiti_pg": 1.47,
+    "tiri_pg": 11.4,
+    "tiri_porta_pg": 3.8,
+    "big_chances_pg": 1.0,
+    "falli_pg": 14.3,
+    "possesso": 47.2,
+    "clean_sheet": 9,
+    "recuperi_pg": 42.6,
+    "marcatori": [
+     {
+      "nome": "Lorenzo Lucca",
+      "ruolo": "F",
+      "gol": 12
+     },
+     {
+      "nome": "Florian Thauvin",
+      "ruolo": "F",
+      "gol": 8
+     },
+     {
+      "nome": "Jürgen Ekkelenkamp",
+      "ruolo": "M",
+      "gol": 3
+     },
+     {
+      "nome": "Sandi Lovrić",
+      "ruolo": "M",
+      "gol": 2
+     }
+    ],
+    "gol_miglior_marcatore": 12,
+    "gol_miglior_punta": 12
+   },
+   "23/24": {
+    "squadra": "Legia Warszawa"
+   }
+  },
+  "note": [
+   "23/24: Legia Warszawa — statistiche di squadra non recuperabili (campionato estero o dato assente)"
+  ]
+ },
+ "Cesc Fàbregas": {
+  "nome": "Cesc Fàbregas",
+  "squadra_attuale": "Como",
+  "modulo": "4-2-3-1",
+  "carriera_totale": {
+   "total": 99,
+   "wins": 44,
+   "draws": 27,
+   "losses": 28,
+   "goalsScored": 158,
+   "goalsConceded": 118,
+   "totalPoints": 159
+  },
+  "stagioni": {
+   "25/26": {
+    "squadra": "Como",
+    "partite": 38,
+    "gol_fatti_pg": 1.71,
+    "gol_subiti_pg": 0.76,
+    "tiri_pg": 14.4,
+    "tiri_porta_pg": 5.1,
+    "big_chances_pg": 1.92,
+    "falli_pg": 13.4,
+    "possesso": 61.6,
+    "clean_sheet": 19,
+    "recuperi_pg": 46.2,
+    "marcatori": [
+     {
+      "nome": "Anastasios Douvikas",
+      "ruolo": "F",
+      "gol": 14
+     },
+     {
+      "nome": "Nico Paz",
+      "ruolo": "M",
+      "gol": 12
+     },
+     {
+      "nome": "Lucas Da Cunha",
+      "ruolo": "M",
+      "gol": 6
+     },
+     {
+      "nome": "Martin Baturina",
+      "ruolo": "M",
+      "gol": 6
+     }
+    ],
+    "gol_miglior_marcatore": 14,
+    "gol_miglior_punta": 14
+   },
+   "24/25": {
+    "squadra": "Como",
+    "partite": 38,
+    "gol_fatti_pg": 1.29,
+    "gol_subiti_pg": 1.37,
+    "tiri_pg": 13.7,
+    "tiri_porta_pg": 4.7,
+    "big_chances_pg": 1.47,
+    "falli_pg": 13.2,
+    "possesso": 54.8,
+    "clean_sheet": 7,
+    "recuperi_pg": 47.6,
+    "marcatori": [
+     {
+      "nome": "Assane Diao",
+      "ruolo": "M",
+      "gol": 8
+     },
+     {
+      "nome": "Patrick Cutrone",
+      "ruolo": "F",
+      "gol": 7
+     },
+     {
+      "nome": "Nico Paz",
+      "ruolo": "M",
+      "gol": 6
+     },
+     {
+      "nome": "Gabriel Strefezza",
+      "ruolo": "F",
+      "gol": 6
+     }
+    ],
+    "gol_miglior_marcatore": 8,
+    "gol_miglior_punta": 7
+   },
+   "23/24": {
+    "squadra": "Como U20"
+   }
+  },
+  "note": [
+   "23/24: Como U20 — statistiche di squadra non recuperabili (campionato estero o dato assente)"
+  ]
+ },
+ "Gian Piero Gasperini": {
+  "nome": "Gian Piero Gasperini",
+  "squadra_attuale": "AS Roma",
+  "modulo": "3-4-1-2",
+  "carriera_totale": {
+   "total": 924,
+   "wins": 431,
+   "draws": 214,
+   "losses": 279,
+   "goalsScored": 1529,
+   "goalsConceded": 1095,
+   "totalPoints": 1507
+  },
+  "stagioni": {
+   "25/26": {
+    "squadra": "AS Roma",
+    "partite": 38,
+    "gol_fatti_pg": 1.55,
+    "gol_subiti_pg": 0.82,
+    "tiri_pg": 13.2,
+    "tiri_porta_pg": 4.7,
+    "big_chances_pg": 1.63,
+    "falli_pg": 13.8,
+    "possesso": 56.3,
+    "clean_sheet": 18,
+    "recuperi_pg": 49.1,
+    "marcatori": [
+     {
+      "nome": "Donyell Malen",
+      "ruolo": "F",
+      "gol": 14
+     },
+     {
+      "nome": "Matías Soulé",
+      "ruolo": "F",
+      "gol": 6
+     },
+     {
+      "nome": "Wesley",
+      "ruolo": "M",
+      "gol": 5
+     },
+     {
+      "nome": "Gianluca Mancini",
+      "ruolo": "D",
+      "gol": 4
+     }
+    ],
+    "gol_miglior_marcatore": 14,
+    "gol_miglior_punta": 14
+   },
+   "24/25": {
+    "squadra": "Atalanta",
+    "partite": 38,
+    "gol_fatti_pg": 2.05,
+    "gol_subiti_pg": 0.97,
+    "tiri_pg": 14.3,
+    "tiri_porta_pg": 5.1,
+    "big_chances_pg": 2.24,
+    "falli_pg": 11.4,
+    "possesso": 55.3,
+    "clean_sheet": 15,
+    "recuperi_pg": 52.3,
+    "marcatori": [
+     {
+      "nome": "Mateo Retegui",
+      "ruolo": "F",
+      "gol": 25
+     },
+     {
+      "nome": "Ademola Lookman",
+      "ruolo": "F",
+      "gol": 15
+     },
+     {
+      "nome": "Charles De Ketelaere",
+      "ruolo": "F",
+      "gol": 7
+     },
+     {
+      "nome": "Daniel Maldini",
+      "ruolo": "F",
+      "gol": 6
+     }
+    ],
+    "gol_miglior_marcatore": 25,
+    "gol_miglior_punta": 25
+   },
+   "23/24": {
+    "squadra": "Atalanta",
+    "partite": 38,
+    "gol_fatti_pg": 1.89,
+    "gol_subiti_pg": 1.11,
+    "tiri_pg": 14.3,
+    "tiri_porta_pg": 5.4,
+    "big_chances_pg": 2.03,
+    "falli_pg": 12.8,
+    "possesso": 51.3,
+    "clean_sheet": 15,
+    "recuperi_pg": 60.4,
+    "marcatori": [
+     {
+      "nome": "Gianluca Scamacca",
+      "ruolo": "F",
+      "gol": 12
+     },
+     {
+      "nome": "Teun Koopmeiners",
+      "ruolo": "M",
+      "gol": 12
+     },
+     {
+      "nome": "Ademola Lookman",
+      "ruolo": "F",
+      "gol": 11
+     },
+     {
+      "nome": "Charles De Ketelaere",
+      "ruolo": "F",
+      "gol": 10
+     }
+    ],
+    "gol_miglior_marcatore": 12,
+    "gol_miglior_punta": 12
+   }
+  },
+  "note": []
+ },
+ "Massimiliano Alvini": {
+  "nome": "Massimiliano Alvini",
+  "squadra_attuale": "Frosinone",
+  "modulo": "3-4-1-2",
+  "carriera_totale": {
+   "total": 508,
+   "wins": 178,
+   "draws": 165,
+   "losses": 165,
+   "goalsScored": 619,
+   "goalsConceded": 590,
+   "totalPoints": 699
+  },
+  "stagioni": {
+   "25/26": {
+    "squadra": "Frosinone"
+   },
+   "24/25": {
+    "squadra": "Cosenza"
+   },
+   "23/24": {
+    "squadra": "Spezia"
+   }
+  },
+  "note": [
+   "25/26: Frosinone — statistiche di squadra non recuperabili (campionato estero o dato assente)",
+   "24/25: Cosenza — statistiche di squadra non recuperabili (campionato estero o dato assente)",
+   "23/24: Spezia — statistiche di squadra non recuperabili (campionato estero o dato assente)"
+  ]
+ },
+ "Eusebio Di Francesco": {
+  "nome": "Eusebio Di Francesco",
+  "squadra_attuale": "Lecce",
+  "modulo": "4-3-3",
+  "carriera_totale": {
+   "total": 552,
+   "wins": 196,
+   "draws": 133,
+   "losses": 223,
+   "goalsScored": 714,
+   "goalsConceded": 766,
+   "totalPoints": 721
+  },
+  "stagioni": {
+   "25/26": {
+    "squadra": "Lecce",
+    "partite": 38,
+    "gol_fatti_pg": 0.74,
+    "gol_subiti_pg": 1.32,
+    "tiri_pg": 9.8,
+    "tiri_porta_pg": 2.6,
+    "big_chances_pg": 1.03,
+    "falli_pg": 12.6,
+    "possesso": 41.6,
+    "clean_sheet": 10,
+    "recuperi_pg": 44.3,
+    "marcatori": [
+     {
+      "nome": "Lameck Banda",
+      "ruolo": "M",
+      "gol": 5
+     },
+     {
+      "nome": "Walid Cheddira",
+      "ruolo": "F",
+      "gol": 4
+     },
+     {
+      "nome": "Nikola Štulić",
+      "ruolo": "F",
+      "gol": 4
+     },
+     {
+      "nome": "Lassana Coulibaly",
+      "ruolo": "M",
+      "gol": 3
+     }
+    ],
+    "gol_miglior_marcatore": 5,
+    "gol_miglior_punta": 4
+   },
+   "24/25": {
+    "squadra": "Venezia",
+    "partite": 38,
+    "gol_fatti_pg": 0.84,
+    "gol_subiti_pg": 1.47,
+    "tiri_pg": 10.2,
+    "tiri_porta_pg": 3.4,
+    "big_chances_pg": 1.18,
+    "falli_pg": 13.2,
+    "possesso": 44.8,
+    "clean_sheet": 6,
+    "recuperi_pg": 45.2,
+    "marcatori": [
+     {
+      "nome": "Joel Pohjanpalo",
+      "ruolo": "F",
+      "gol": 6
+     },
+     {
+      "nome": "Hans Nicolussi Caviglia",
+      "ruolo": "M",
+      "gol": 4
+     },
+     {
+      "nome": "Gaetano Oristanio",
+      "ruolo": "M",
+      "gol": 3
+     },
+     {
+      "nome": "Mikael Ellertsson",
+      "ruolo": "M",
+      "gol": 2
+     }
+    ],
+    "gol_miglior_marcatore": 6,
+    "gol_miglior_punta": 6
+   },
+   "23/24": {
+    "squadra": "Frosinone",
+    "partite": 38,
+    "gol_fatti_pg": 1.16,
+    "gol_subiti_pg": 1.82,
+    "tiri_pg": 12.4,
+    "tiri_porta_pg": 4.2,
+    "big_chances_pg": 1.26,
+    "falli_pg": 10.2,
+    "possesso": 49.8,
+    "clean_sheet": 7,
+    "recuperi_pg": 53.3,
+    "marcatori": [
+     {
+      "nome": "Matías Soulé",
+      "ruolo": "F",
+      "gol": 11
+     },
+     {
+      "nome": "Walid Cheddira",
+      "ruolo": "F",
+      "gol": 7
+     },
+     {
+      "nome": "Luca Mazzitelli",
+      "ruolo": "M",
+      "gol": 5
+     },
+     {
+      "nome": "Marco Brescianini",
+      "ruolo": "M",
+      "gol": 4
+     }
+    ],
+    "gol_miglior_marcatore": 11,
+    "gol_miglior_punta": 11
+   }
+  },
+  "note": []
+ },
+ "Massimiliano Allegri": {
+  "nome": "Massimiliano Allegri",
+  "squadra_attuale": "SSC Napoli",
+  "modulo": "4-3-1-2",
+  "carriera_totale": {
+   "total": 848,
+   "wins": 458,
+   "draws": 194,
+   "losses": 196,
+   "goalsScored": 1356,
+   "goalsConceded": 800,
+   "totalPoints": 1567
+  },
+  "stagioni": {
+   "25/26": {
+    "squadra": "AC Milan",
+    "partite": 38,
+    "gol_fatti_pg": 1.39,
+    "gol_subiti_pg": 0.92,
+    "tiri_pg": 13.2,
+    "tiri_porta_pg": 4.4,
+    "big_chances_pg": 1.92,
+    "falli_pg": 10.1,
+    "possesso": 51.8,
+    "clean_sheet": 15,
+    "recuperi_pg": 43.5,
+    "marcatori": [
+     {
+      "nome": "Rafael Leão",
+      "ruolo": "F",
+      "gol": 9
+     },
+     {
+      "nome": "Christian Pulišić",
+      "ruolo": "F",
+      "gol": 8
+     },
+     {
+      "nome": "Christopher Nkunku",
+      "ruolo": "F",
+      "gol": 7
+     },
+     {
+      "nome": "Adrien Rabiot",
+      "ruolo": "M",
+      "gol": 6
+     }
+    ],
+    "gol_miglior_marcatore": 9,
+    "gol_miglior_punta": 9
+   },
+   "24/25": {
+    "squadra": null
+   },
+   "23/24": {
+    "squadra": "Juventus",
+    "partite": 38,
+    "gol_fatti_pg": 1.42,
+    "gol_subiti_pg": 0.82,
+    "tiri_pg": 14.1,
+    "tiri_porta_pg": 4.1,
+    "big_chances_pg": 1.66,
+    "falli_pg": 12.6,
+    "possesso": 48.4,
+    "clean_sheet": 17,
+    "recuperi_pg": 48.9,
+    "marcatori": [
+     {
+      "nome": "Dušan Vlahović",
+      "ruolo": "F",
+      "gol": 16
+     },
+     {
+      "nome": "Federico Chiesa",
+      "ruolo": "F",
+      "gol": 9
+     },
+     {
+      "nome": "Adrien Rabiot",
+      "ruolo": "M",
+      "gol": 5
+     },
+     {
+      "nome": "Arkadiusz Milik",
+      "ruolo": "F",
+      "gol": 4
+     }
+    ],
+    "gol_miglior_marcatore": 16,
+    "gol_miglior_punta": 16
+   }
+  },
+  "note": []
+ },
+ "Maurizio Sarri": {
+  "nome": "Maurizio Sarri",
+  "squadra_attuale": "Atalanta",
+  "modulo": "4-3-3",
+  "carriera_totale": {
+   "total": 806,
+   "wins": 389,
+   "draws": 212,
+   "losses": 205,
+   "goalsScored": 1246,
+   "goalsConceded": 845,
+   "totalPoints": 1379
+  },
+  "stagioni": {
+   "25/26": {
+    "squadra": "Lazio",
+    "partite": 38,
+    "gol_fatti_pg": 1.08,
+    "gol_subiti_pg": 1.05,
+    "tiri_pg": 11.0,
+    "tiri_porta_pg": 4.1,
+    "big_chances_pg": 1.26,
+    "falli_pg": 10.6,
+    "possesso": 50.3,
+    "clean_sheet": 15,
+    "recuperi_pg": 42.1,
+    "marcatori": [
+     {
+      "nome": "Pedro",
+      "ruolo": "F",
+      "gol": 5
+     },
+     {
+      "nome": "Gustav Isaksen",
+      "ruolo": "F",
+      "gol": 5
+     },
+     {
+      "nome": "Matteo Cancellieri",
+      "ruolo": "F",
+      "gol": 4
+     },
+     {
+      "nome": "Tijjani Noslin",
+      "ruolo": "F",
+      "gol": 4
+     }
+    ],
+    "gol_miglior_marcatore": 5,
+    "gol_miglior_punta": 5
+   },
+   "24/25": {
+    "squadra": null
+   },
+   "23/24": {
+    "squadra": "Lazio",
+    "partite": 38,
+    "gol_fatti_pg": 1.29,
+    "gol_subiti_pg": 1.03,
+    "tiri_pg": 11.6,
+    "tiri_porta_pg": 3.7,
+    "big_chances_pg": 1.39,
+    "falli_pg": 12.4,
+    "possesso": 53.4,
+    "clean_sheet": 13,
+    "recuperi_pg": 51.4,
+    "marcatori": [
+     {
+      "nome": "Ciro Immobile",
+      "ruolo": "F",
+      "gol": 7
+     },
+     {
+      "nome": "Mattia Zaccagni",
+      "ruolo": "F",
+      "gol": 6
+     },
+     {
+      "nome": "Matías Vecino",
+      "ruolo": "M",
+      "gol": 6
+     },
+     {
+      "nome": "Luis Alberto",
+      "ruolo": "M",
+      "gol": 5
+     }
+    ],
+    "gol_miglior_marcatore": 7,
+    "gol_miglior_punta": 7
+   }
+  },
+  "note": []
+ },
+ "Alberto Aquilani": {
+  "nome": "Alberto Aquilani",
+  "squadra_attuale": "Sassuolo",
+  "modulo": "3-5-2",
+  "carriera_totale": {
+   "total": 211,
+   "wins": 90,
+   "draws": 44,
+   "losses": 77,
+   "goalsScored": 333,
+   "goalsConceded": 309,
+   "totalPoints": 314
+  },
+  "stagioni": {
+   "25/26": {
+    "squadra": "Catanzaro"
+   },
+   "24/25": {
+    "squadra": null
+   },
+   "23/24": {
+    "squadra": "Pisa"
+   }
+  },
+  "note": [
+   "25/26: Catanzaro — statistiche di squadra non recuperabili (campionato estero o dato assente)",
+   "23/24: Pisa — statistiche di squadra non recuperabili (campionato estero o dato assente)"
+  ]
+ },
+ "Fabio Pisacane": {
+  "nome": "Fabio Pisacane",
+  "squadra_attuale": "Cagliari",
+  "modulo": "3-5-2",
+  "carriera_totale": {
+   "total": 122,
+   "wins": 51,
+   "draws": 28,
+   "losses": 43,
+   "goalsScored": 177,
+   "goalsConceded": 173,
+   "totalPoints": 181
+  },
+  "stagioni": {
+   "25/26": {
+    "squadra": "Cagliari",
+    "partite": 38,
+    "gol_fatti_pg": 1.05,
+    "gol_subiti_pg": 1.39,
+    "tiri_pg": 10.9,
+    "tiri_porta_pg": 3.5,
+    "big_chances_pg": 1.29,
+    "falli_pg": 13.8,
+    "possesso": 45.6,
+    "clean_sheet": 8,
+    "recuperi_pg": 43.3,
+    "marcatori": [
+     {
+      "nome": "Sebastiano Esposito",
+      "ruolo": "F",
+      "gol": 7
+     },
+     {
+      "nome": "Gennaro Borrelli",
+      "ruolo": "F",
+      "gol": 5
+     },
+     {
+      "nome": "Semih Kılıçsoy",
+      "ruolo": "F",
+      "gol": 4
+     },
+     {
+      "nome": "Gianluca Gaetano",
+      "ruolo": "M",
+      "gol": 2
+     }
+    ],
+    "gol_miglior_marcatore": 7,
+    "gol_miglior_punta": 7
+   },
+   "24/25": {
+    "squadra": "Cagliari U20"
+   },
+   "23/24": {
+    "squadra": "Cagliari U20"
+   }
+  },
+  "note": [
+   "24/25: Cagliari U20 — statistiche di squadra non recuperabili (campionato estero o dato assente)",
+   "23/24: Cagliari U20 — statistiche di squadra non recuperabili (campionato estero o dato assente)"
+  ]
+ },
+ "Domenico Tedesco": {
+  "nome": "Domenico Tedesco",
+  "squadra_attuale": "Bologna",
+  "modulo": "3-4-1-2",
+  "carriera_totale": {
+   "total": 321,
+   "wins": 170,
+   "draws": 64,
+   "losses": 87,
+   "goalsScored": 597,
+   "goalsConceded": 390,
+   "totalPoints": 574
+  },
+  "stagioni": {
+   "25/26": {
+    "squadra": "Fenerbahçe"
+   },
+   "24/25": {
+    "squadra": "Belgium"
+   },
+   "23/24": {
+    "squadra": "Belgium"
+   }
+  },
+  "note": [
+   "25/26: Fenerbahçe — statistiche di squadra non recuperabili (campionato estero o dato assente)",
+   "24/25: Belgium — statistiche di squadra non recuperabili (campionato estero o dato assente)",
+   "23/24: Belgium — statistiche di squadra non recuperabili (campionato estero o dato assente)"
+  ]
+ },
+ "Ignazio Abate": {
+  "nome": "Ignazio Abate",
+  "squadra_attuale": "Torino",
+  "modulo": "4-3-3",
+  "carriera_totale": {
+   "total": 174,
+   "wins": 78,
+   "draws": 46,
+   "losses": 50,
+   "goalsScored": 289,
+   "goalsConceded": 214,
+   "totalPoints": 280
+  },
+  "stagioni": {
+   "25/26": {
+    "squadra": "Juve Stabia"
+   },
+   "24/25": {
+    "squadra": "Ternana"
+   },
+   "23/24": {
+    "squadra": "Milan U20"
+   }
+  },
+  "note": [
+   "25/26: Juve Stabia — statistiche di squadra non recuperabili (campionato estero o dato assente)",
+   "24/25: Ternana — statistiche di squadra non recuperabili (campionato estero o dato assente)",
+   "23/24: Milan U20 — statistiche di squadra non recuperabili (campionato estero o dato assente)"
+  ]
+ },
+ "Daniele De Rossi": {
+  "nome": "Daniele De Rossi",
+  "squadra_attuale": "Genoa",
+  "modulo": "3-5-2",
+  "carriera_totale": {
+   "total": 79,
+   "wins": 27,
+   "draws": 23,
+   "losses": 29,
+   "goalsScored": 107,
+   "goalsConceded": 100,
+   "totalPoints": 104
+  },
+  "stagioni": {
+   "25/26": {
+    "squadra": "Genoa",
+    "partite": 38,
+    "gol_fatti_pg": 1.08,
+    "gol_subiti_pg": 1.34,
+    "tiri_pg": 11.4,
+    "tiri_porta_pg": 3.8,
+    "big_chances_pg": 1.26,
+    "falli_pg": 12.4,
+    "possesso": 48.7,
+    "clean_sheet": 9,
+    "recuperi_pg": 42.1,
+    "marcatori": [
+     {
+      "nome": "Lorenzo Colombo",
+      "ruolo": "F",
+      "gol": 7
+     },
+     {
+      "nome": "Ruslan Malinovskyi",
+      "ruolo": "M",
+      "gol": 6
+     },
+     {
+      "nome": "Leo Østigård",
+      "ruolo": "D",
+      "gol": 5
+     },
+     {
+      "nome": "Vitinha",
+      "ruolo": "F",
+      "gol": 5
+     }
+    ],
+    "gol_miglior_marcatore": 7,
+    "gol_miglior_punta": 7
+   },
+   "24/25": {
+    "squadra": null
+   },
+   "23/24": {
+    "squadra": "AS Roma",
+    "partite": 38,
+    "gol_fatti_pg": 1.71,
+    "gol_subiti_pg": 1.21,
+    "tiri_pg": 12.5,
+    "tiri_porta_pg": 4.1,
+    "big_chances_pg": 1.61,
+    "falli_pg": 12.0,
+    "possesso": 54.8,
+    "clean_sheet": 11,
+    "recuperi_pg": 48.2,
+    "marcatori": [
+     {
+      "nome": "Paulo Dybala",
+      "ruolo": "F",
+      "gol": 13
+     },
+     {
+      "nome": "Romelu Lukaku",
+      "ruolo": "F",
+      "gol": 13
+     },
+     {
+      "nome": "Lorenzo Pellegrini",
+      "ruolo": "F",
+      "gol": 8
+     },
+     {
+      "nome": "Gianluca Mancini",
+      "ruolo": "D",
+      "gol": 4
+     }
+    ],
+    "gol_miglior_marcatore": 13,
+    "gol_miglior_punta": 13
+   }
+  },
+  "note": []
+ },
+ "Carlos Cuesta": {
+  "nome": "Carlos Cuesta",
+  "squadra_attuale": "Parma",
+  "modulo": "3-5-2",
+  "carriera_totale": {
+   "total": 44,
+   "wins": 14,
+   "draws": 12,
+   "losses": 18,
+   "goalsScored": 39,
+   "goalsConceded": 56,
+   "totalPoints": 54
+  },
+  "stagioni": {
+   "25/26": {
+    "squadra": "Parma",
+    "partite": 38,
+    "gol_fatti_pg": 0.74,
+    "gol_subiti_pg": 1.21,
+    "tiri_pg": 10.7,
+    "tiri_porta_pg": 2.7,
+    "big_chances_pg": 1.03,
+    "falli_pg": 10.9,
+    "possesso": 44,
+    "clean_sheet": 13,
+    "recuperi_pg": 41.4,
+    "marcatori": [
+     {
+      "nome": "Mateo Pellegrino",
+      "ruolo": "F",
+      "gol": 9
+     },
+     {
+      "nome": "Adrián Bernabé",
+      "ruolo": "M",
+      "gol": 3
+     },
+     {
+      "nome": "Gabriel Strefezza",
+      "ruolo": "F",
+      "gol": 2
+     },
+     {
+      "nome": "Nesta Elphege",
+      "ruolo": "F",
+      "gol": 2
+     }
+    ],
+    "gol_miglior_marcatore": 9,
+    "gol_miglior_punta": 9
+   },
+   "24/25": {
+    "squadra": null
+   },
+   "23/24": {
+    "squadra": null
+   }
+  },
+  "note": []
+ },
+ "Ivan Jurić": {
+  "nome": "Ivan Jurić",
+  "squadra_attuale": "Monza",
+  "modulo": "3-4-2-1",
+  "carriera_totale": {
+   "total": 416,
+   "wins": 140,
+   "draws": 115,
+   "losses": 161,
+   "goalsScored": 497,
+   "goalsConceded": 529,
+   "totalPoints": 535
+  },
+  "stagioni": {
+   "25/26": {
+    "squadra": "Atalanta",
+    "partite": 38,
+    "gol_fatti_pg": 1.34,
+    "gol_subiti_pg": 0.95,
+    "tiri_pg": 14.8,
+    "tiri_porta_pg": 4.6,
+    "big_chances_pg": 1.82,
+    "falli_pg": 11.8,
+    "possesso": 55.1,
+    "clean_sheet": 13,
+    "recuperi_pg": 49.2,
+    "marcatori": [
+     {
+      "nome": "Nikola Krstović",
+      "ruolo": "F",
+      "gol": 10
+     },
+     {
+      "nome": "Gianluca Scamacca",
+      "ruolo": "F",
+      "gol": 10
+     },
+     {
+      "nome": "Charles De Ketelaere",
+      "ruolo": "F",
+      "gol": 3
+     },
+     {
+      "nome": "Mario Pašalić",
+      "ruolo": "M",
+      "gol": 3
+     }
+    ],
+    "gol_miglior_marcatore": 10,
+    "gol_miglior_punta": 10
+   },
+   "24/25": {
+    "squadra": "Southampton"
+   },
+   "23/24": {
+    "squadra": "Torino",
+    "partite": 38,
+    "gol_fatti_pg": 0.95,
+    "gol_subiti_pg": 0.95,
+    "tiri_pg": 11.4,
+    "tiri_porta_pg": 3.2,
+    "big_chances_pg": 1.11,
+    "falli_pg": 12.4,
+    "possesso": 51.7,
+    "clean_sheet": 18,
+    "recuperi_pg": 52.1,
+    "marcatori": [
+     {
+      "nome": "Duván Zapata",
+      "ruolo": "F",
+      "gol": 13
+     },
+     {
+      "nome": "Antonio Sanabria",
+      "ruolo": "F",
+      "gol": 5
+     },
+     {
+      "nome": "Nikola Vlašić",
+      "ruolo": "M",
+      "gol": 3
+     },
+     {
+      "nome": "Ivan Ilić",
+      "ruolo": "M",
+      "gol": 3
+     }
+    ],
+    "gol_miglior_marcatore": 13,
+    "gol_miglior_punta": 13
+   }
+  },
+  "note": [
+   "24/25: Southampton — statistiche di squadra non recuperabili (campionato estero o dato assente)"
+  ]
+ },
+ "Giovanni Stroppa": {
+  "nome": "Giovanni Stroppa",
+  "squadra_attuale": "Venezia",
+  "modulo": "3-5-2",
+  "carriera_totale": {
+   "total": 534,
+   "wins": 246,
+   "draws": 131,
+   "losses": 157,
+   "goalsScored": 852,
+   "goalsConceded": 655,
+   "totalPoints": 869
+  },
+  "stagioni": {
+   "25/26": {
+    "squadra": "Venezia"
+   },
+   "24/25": {
+    "squadra": "Cremonese"
+   },
+   "23/24": {
+    "squadra": "Cremonese"
+   }
+  },
+  "note": [
+   "25/26: Venezia — statistiche di squadra non recuperabili (campionato estero o dato assente)",
+   "24/25: Cremonese — statistiche di squadra non recuperabili (campionato estero o dato assente)",
+   "23/24: Cremonese — statistiche di squadra non recuperabili (campionato estero o dato assente)"
+  ]
+ },
+ "Fabio Grosso": {
+  "nome": "Fabio Grosso",
+  "squadra_attuale": "Fiorentina",
+  "modulo": "4-3-3",
+  "carriera_totale": {
+   "total": 422,
+   "wins": 210,
+   "draws": 88,
+   "losses": 124,
+   "goalsScored": 716,
+   "goalsConceded": 520,
+   "totalPoints": 718
+  },
+  "stagioni": {
+   "25/26": {
+    "squadra": "Sassuolo",
+    "partite": 38,
+    "gol_fatti_pg": 1.21,
+    "gol_subiti_pg": 1.32,
+    "tiri_pg": 10.7,
+    "tiri_porta_pg": 3.7,
+    "big_chances_pg": 1.53,
+    "falli_pg": 12.0,
+    "possesso": 46.1,
+    "clean_sheet": 8,
+    "recuperi_pg": 44.8,
+    "marcatori": [
+     {
+      "nome": "Andrea Pinamonti",
+      "ruolo": "F",
+      "gol": 9
+     },
+     {
+      "nome": "Domenico Berardi",
+      "ruolo": "F",
+      "gol": 8
+     },
+     {
+      "nome": "Armand Laurienté",
+      "ruolo": "F",
+      "gol": 7
+     },
+     {
+      "nome": "Ismael Koné",
+      "ruolo": "M",
+      "gol": 6
+     }
+    ],
+    "gol_miglior_marcatore": 9,
+    "gol_miglior_punta": 9
+   },
+   "24/25": {
+    "squadra": "Sassuolo"
+   },
+   "23/24": {
+    "squadra": null
+   }
+  },
+  "note": [
+   "24/25: Sassuolo — statistiche di squadra non recuperabili (campionato estero o dato assente)"
+  ]
+ }
+}

@@ -1,0 +1,3250 @@
+{
+ "2697": {
+  "id": 2697,
+  "nome": "Inter",
+  "stadio": "San Siro/Giuseppe Meazza",
+  "allenatore": {
+   "id": 796298,
+   "nome": "Cristian Chivu",
+   "nazionalita": "ROU",
+   "modulo_preferito": "3-5-2",
+   "nascita_ts": 341366400,
+   "performance_carriera": {
+    "total": 246,
+    "wins": 132,
+    "draws": 62,
+    "losses": 52,
+    "goalsScored": 490,
+    "goalsConceded": 293,
+    "totalPoints": 458
+   },
+   "carriera": [
+    {
+     "squadra": "Inter",
+     "squadra_id": 2697,
+     "dal": 1749427200,
+     "al": 1845936000
+    },
+    {
+     "squadra": "Parma",
+     "squadra_id": 2690,
+     "dal": 1739836800,
+     "al": 1749427200
+    },
+    {
+     "squadra": "Inter U20",
+     "squadra_id": 826804,
+     "dal": 1625097600,
+     "al": 1719705600
+    },
+    {
+     "squadra": "Inter U18",
+     "squadra_id": 311317,
+     "dal": 1598918400,
+     "al": 1625011200
+    },
+    {
+     "squadra": "Inter U17",
+     "squadra_id": 1089745,
+     "dal": 1562803200,
+     "al": 1598832000
+    }
+   ]
+  },
+  "stagioni": {
+   "26/27": {
+    "matches": 2,
+    "goalsScored": 5,
+    "goalsConceded": 1,
+    "shots": 44,
+    "shotsOnTarget": 12,
+    "bigChancesCreated": 6,
+    "bigChancesMissed": 7,
+    "cleanSheets": 1,
+    "averageBallPossession": 67.5,
+    "fouls": 10,
+    "yellowCards": 3,
+    "redCards": 0,
+    "accuratePassesPercentage": 89.942528735632,
+    "ballRecovery": 107,
+    "interceptions": 18,
+    "clearances": 36,
+    "corners": 9,
+    "offsides": 1,
+    "penaltyGoals": 0,
+    "penaltiesTaken": 0,
+    "accurateLongBallsPercentage": 73.611111111111,
+    "errorsLeadingToGoal": 0
+   },
+   "25/26": {
+    "matches": 38,
+    "goalsScored": 89,
+    "goalsConceded": 35,
+    "shots": 650,
+    "shotsOnTarget": 229,
+    "bigChancesCreated": 120,
+    "bigChancesMissed": 91,
+    "cleanSheets": 18,
+    "averageBallPossession": 59.763157894737,
+    "fouls": 499,
+    "yellowCards": 64,
+    "redCards": 0,
+    "accuratePassesPercentage": 87.704287636993,
+    "ballRecovery": 1708,
+    "interceptions": 243,
+    "clearances": 676,
+    "corners": 241,
+    "offsides": 61,
+    "penaltyGoals": 5,
+    "penaltiesTaken": 6,
+    "accurateLongBallsPercentage": 55.164131305044,
+    "errorsLeadingToGoal": 2
+   },
+   "24/25": {
+    "matches": 38,
+    "goalsScored": 79,
+    "goalsConceded": 35,
+    "shots": 574,
+    "shotsOnTarget": 192,
+    "bigChancesCreated": 97,
+    "bigChancesMissed": 70,
+    "cleanSheets": 16,
+    "averageBallPossession": 59.736842105263,
+    "fouls": 417,
+    "yellowCards": 55,
+    "redCards": 1,
+    "accuratePassesPercentage": 88.13260195564,
+    "ballRecovery": 1631,
+    "interceptions": 227,
+    "clearances": 632,
+    "corners": 221,
+    "offsides": 90,
+    "penaltyGoals": 8,
+    "penaltiesTaken": 9,
+    "accurateLongBallsPercentage": 59.799382716049,
+    "errorsLeadingToGoal": 3
+   },
+   "23/24": {
+    "matches": 38,
+    "goalsScored": 89,
+    "goalsConceded": 22,
+    "shots": 594,
+    "shotsOnTarget": 212,
+    "bigChancesCreated": 91,
+    "bigChancesMissed": 61,
+    "cleanSheets": 21,
+    "averageBallPossession": 57.236842105263,
+    "fouls": 405,
+    "yellowCards": 46,
+    "redCards": 1,
+    "accuratePassesPercentage": 87.755298651252,
+    "ballRecovery": 1790,
+    "interceptions": 280,
+    "clearances": 520,
+    "corners": 228,
+    "offsides": 77,
+    "penaltyGoals": 13,
+    "penaltiesTaken": 14,
+    "accurateLongBallsPercentage": 64.013605442177,
+    "errorsLeadingToGoal": 4
+   }
+  }
+ },
+ "2692": {
+  "id": 2692,
+  "nome": "AC Milan",
+  "stadio": "San Siro/Giuseppe Meazza",
+  "allenatore": {
+   "id": 794090,
+   "nome": "Rúben Amorim",
+   "nazionalita": "PRT",
+   "modulo_preferito": "3-4-2-1",
+   "nascita_ts": 475632000,
+   "performance_carriera": {
+    "total": 312,
+    "wins": 204,
+    "draws": 49,
+    "losses": 59,
+    "goalsScored": 677,
+    "goalsConceded": 334,
+    "totalPoints": 661
+   },
+   "carriera": [
+    {
+     "squadra": "AC Milan",
+     "squadra_id": 2692,
+     "dal": 1781568000,
+     "al": 1845936000
+    },
+    {
+     "squadra": "Manchester United",
+     "squadra_id": 35,
+     "dal": 1731283200,
+     "al": 1767571200
+    },
+    {
+     "squadra": "Sporting CP",
+     "squadra_id": 3001,
+     "dal": 1583366400,
+     "al": 1731196800
+    },
+    {
+     "squadra": "Sporting Braga",
+     "squadra_id": 2999,
+     "dal": 1577059200,
+     "al": 1583280000
+    },
+    {
+     "squadra": "SC Braga B",
+     "squadra_id": 74473,
+     "dal": 1568592000,
+     "al": 1576972800
+    },
+    {
+     "squadra": "Casa Pia",
+     "squadra_id": 36365,
+     "dal": 1530403200,
+     "al": 1546819200
+    }
+   ]
+  },
+  "stagioni": {
+   "26/27": {
+    "matches": 2,
+    "goalsScored": 4,
+    "goalsConceded": 1,
+    "shots": 35,
+    "shotsOnTarget": 9,
+    "bigChancesCreated": 9,
+    "bigChancesMissed": 8,
+    "cleanSheets": 1,
+    "averageBallPossession": 58.5,
+    "fouls": 17,
+    "yellowCards": 2,
+    "redCards": 0,
+    "accuratePassesPercentage": 87.772511848341,
+    "ballRecovery": 91,
+    "interceptions": 10,
+    "clearances": 43,
+    "corners": 6,
+    "offsides": 1,
+    "penaltyGoals": 0,
+    "penaltiesTaken": 0,
+    "accurateLongBallsPercentage": 58.666666666667,
+    "errorsLeadingToGoal": 0
+   },
+   "25/26": {
+    "matches": 38,
+    "goalsScored": 53,
+    "goalsConceded": 35,
+    "shots": 503,
+    "shotsOnTarget": 166,
+    "bigChancesCreated": 73,
+    "bigChancesMissed": 65,
+    "cleanSheets": 15,
+    "averageBallPossession": 51.842105263158,
+    "fouls": 384,
+    "yellowCards": 62,
+    "redCards": 3,
+    "accuratePassesPercentage": 87.334058759521,
+    "ballRecovery": 1654,
+    "interceptions": 244,
+    "clearances": 814,
+    "corners": 162,
+    "offsides": 71,
+    "penaltyGoals": 7,
+    "penaltiesTaken": 9,
+    "accurateLongBallsPercentage": 58.189655172414,
+    "errorsLeadingToGoal": 1
+   },
+   "24/25": {
+    "matches": 38,
+    "goalsScored": 61,
+    "goalsConceded": 43,
+    "shots": 563,
+    "shotsOnTarget": 196,
+    "bigChancesCreated": 77,
+    "bigChancesMissed": 62,
+    "cleanSheets": 13,
+    "averageBallPossession": 54.078947368421,
+    "fouls": 415,
+    "yellowCards": 71,
+    "redCards": 6,
+    "accuratePassesPercentage": 87.65341326848,
+    "ballRecovery": 1628,
+    "interceptions": 234,
+    "clearances": 653,
+    "corners": 217,
+    "offsides": 60,
+    "penaltyGoals": 4,
+    "penaltiesTaken": 8,
+    "accurateLongBallsPercentage": 57.142857142857,
+    "errorsLeadingToGoal": 5
+   },
+   "23/24": {
+    "matches": 38,
+    "goalsScored": 76,
+    "goalsConceded": 49,
+    "shots": 562,
+    "shotsOnTarget": 214,
+    "bigChancesCreated": 68,
+    "bigChancesMissed": 45,
+    "cleanSheets": 13,
+    "averageBallPossession": 57.078947368421,
+    "fouls": 429,
+    "yellowCards": 80,
+    "redCards": 8,
+    "accuratePassesPercentage": 87.013664337123,
+    "ballRecovery": 1912,
+    "interceptions": 252,
+    "clearances": 503,
+    "corners": 192,
+    "offsides": 57,
+    "penaltyGoals": 6,
+    "penaltiesTaken": 8,
+    "accurateLongBallsPercentage": 54.244861483467,
+    "errorsLeadingToGoal": 3
+   }
+  }
+ },
+ "2687": {
+  "id": 2687,
+  "nome": "Juventus",
+  "stadio": "Allianz Stadium",
+  "allenatore": {
+   "id": 786459,
+   "nome": "Luciano Spalletti",
+   "nazionalita": "ITA",
+   "modulo_preferito": "4-2-3-1",
+   "nascita_ts": -341539200,
+   "performance_carriera": {
+    "total": 1065,
+    "wins": 552,
+    "draws": 255,
+    "losses": 258,
+    "goalsScored": 1808,
+    "goalsConceded": 1182,
+    "totalPoints": 1913
+   },
+   "carriera": [
+    {
+     "squadra": "Juventus",
+     "squadra_id": 2687,
+     "dal": 1761782400,
+     "al": 1845936000
+    },
+    {
+     "squadra": "Italy",
+     "squadra_id": 4707,
+     "dal": 1693526400,
+     "al": 1749513600
+    },
+    {
+     "squadra": "SSC Napoli",
+     "squadra_id": 2714,
+     "dal": 1625097600,
+     "al": 1688083200
+    },
+    {
+     "squadra": "Inter",
+     "squadra_id": 2697,
+     "dal": 1498867200,
+     "al": 1561852800
+    },
+    {
+     "squadra": "AS Roma",
+     "squadra_id": 2702,
+     "dal": 1452729600,
+     "al": 1498780800
+    },
+    {
+     "squadra": "FC Zenit",
+     "squadra_id": 2321,
+     "dal": 1260489600,
+     "al": 1394409600
+    },
+    {
+     "squadra": "AS Roma",
+     "squadra_id": 2702,
+     "dal": 1120176000,
+     "al": 1251676800
+    },
+    {
+     "squadra": "Udinese",
+     "squadra_id": 2695,
+     "dal": 1025481600,
+     "al": 1120089600
+    },
+    {
+     "squadra": "Ancona",
+     "squadra_id": 2721,
+     "dal": 1009497600,
+     "al": 1025395200
+    },
+    {
+     "squadra": "Udinese",
+     "squadra_id": 2695,
+     "dal": 984960000,
+     "al": 993859200
+    },
+    {
+     "squadra": "Venezia",
+     "squadra_id": 2688,
+     "dal": 943833600,
+     "al": 949881600
+    },
+    {
+     "squadra": "Venezia",
+     "squadra_id": 2688,
+     "dal": 930787200,
+     "al": 941414400
+    },
+    {
+     "squadra": "Sampdoria",
+     "squadra_id": 2711,
+     "dal": 917827200,
+     "al": 930700800
+    },
+    {
+     "squadra": "Sampdoria",
+     "squadra_id": 2711,
+     "dal": 899251200,
+     "al": 913593600
+    },
+    {
+     "squadra": "Empoli",
+     "squadra_id": 2705,
+     "dal": 804556800,
+     "al": 899164800
+    },
+    {
+     "squadra": "Empoli",
+     "squadra_id": 2705,
+     "dal": 766627200,
+     "al": 772934400
+    }
+   ]
+  },
+  "stagioni": {
+   "26/27": {
+    "matches": 2,
+    "goalsScored": 3,
+    "goalsConceded": 0,
+    "shots": 41,
+    "shotsOnTarget": 11,
+    "bigChancesCreated": 6,
+    "bigChancesMissed": 5,
+    "cleanSheets": 2,
+    "averageBallPossession": 60.5,
+    "fouls": 41,
+    "yellowCards": 4,
+    "redCards": 0,
+    "accuratePassesPercentage": 87.734915924827,
+    "ballRecovery": 83,
+    "interceptions": 24,
+    "clearances": 37,
+    "corners": 22,
+    "offsides": 2,
+    "penaltyGoals": 0,
+    "penaltiesTaken": 0,
+    "accurateLongBallsPercentage": 46.296296296296,
+    "errorsLeadingToGoal": 0
+   },
+   "25/26": {
+    "matches": 38,
+    "goalsScored": 61,
+    "goalsConceded": 34,
+    "shots": 639,
+    "shotsOnTarget": 227,
+    "bigChancesCreated": 79,
+    "bigChancesMissed": 68,
+    "cleanSheets": 16,
+    "averageBallPossession": 57.5,
+    "fouls": 461,
+    "yellowCards": 51,
+    "redCards": 2,
+    "accuratePassesPercentage": 86.557211417025,
+    "ballRecovery": 1848,
+    "interceptions": 245,
+    "clearances": 634,
+    "corners": 206,
+    "offsides": 65,
+    "penaltyGoals": 2,
+    "penaltiesTaken": 5,
+    "accurateLongBallsPercentage": 56.195335276968,
+    "errorsLeadingToGoal": 11
+   },
+   "24/25": {
+    "matches": 38,
+    "goalsScored": 58,
+    "goalsConceded": 35,
+    "shots": 515,
+    "shotsOnTarget": 188,
+    "bigChancesCreated": 59,
+    "bigChancesMissed": 51,
+    "cleanSheets": 17,
+    "averageBallPossession": 57.552631578947,
+    "fouls": 480,
+    "yellowCards": 66,
+    "redCards": 3,
+    "accuratePassesPercentage": 88.053119772923,
+    "ballRecovery": 1733,
+    "interceptions": 215,
+    "clearances": 681,
+    "corners": 190,
+    "offsides": 52,
+    "penaltyGoals": 6,
+    "penaltiesTaken": 6,
+    "accurateLongBallsPercentage": 60.052677787533,
+    "errorsLeadingToGoal": 4
+   },
+   "23/24": {
+    "matches": 38,
+    "goalsScored": 54,
+    "goalsConceded": 31,
+    "shots": 536,
+    "shotsOnTarget": 157,
+    "bigChancesCreated": 63,
+    "bigChancesMissed": 63,
+    "cleanSheets": 17,
+    "averageBallPossession": 48.421052631579,
+    "fouls": 478,
+    "yellowCards": 86,
+    "redCards": 2,
+    "accuratePassesPercentage": 83.918590522479,
+    "ballRecovery": 1860,
+    "interceptions": 253,
+    "clearances": 682,
+    "corners": 193,
+    "offsides": 72,
+    "penaltyGoals": 3,
+    "penaltiesTaken": 5,
+    "accurateLongBallsPercentage": 56.859971711457,
+    "errorsLeadingToGoal": 1
+   }
+  }
+ },
+ "2699": {
+  "id": 2699,
+  "nome": "Lazio",
+  "stadio": "Stadio Olimpico",
+  "allenatore": {
+   "id": 1764,
+   "nome": "Gennaro Gattuso",
+   "nazionalita": "ITA",
+   "modulo_preferito": "4-3-3",
+   "nascita_ts": 253152000,
+   "performance_carriera": {
+    "total": 388,
+    "wins": 175,
+    "draws": 102,
+    "losses": 111,
+    "goalsScored": 555,
+    "goalsConceded": 419,
+    "totalPoints": 627
+   },
+   "carriera": [
+    {
+     "squadra": "Lazio",
+     "squadra_id": 2699,
+     "dal": 1782172800,
+     "al": 1845936000
+    },
+    {
+     "squadra": "Italy",
+     "squadra_id": 4707,
+     "dal": 1749945600,
+     "al": 1775174400
+    },
+    {
+     "squadra": "HNK Hajduk Split",
+     "squadra_id": 2036,
+     "dal": 1719792000,
+     "al": 1749081600
+    },
+    {
+     "squadra": "Olympique de Marseille",
+     "squadra_id": 1641,
+     "dal": 1695772800,
+     "al": 1708387200
+    },
+    {
+     "squadra": "Valencia",
+     "squadra_id": 2828,
+     "dal": 1656633600,
+     "al": 1675036800
+    },
+    {
+     "squadra": "SSC Napoli",
+     "squadra_id": 2714,
+     "dal": 1576022400,
+     "al": 1625011200
+    },
+    {
+     "squadra": "AC Milan",
+     "squadra_id": 2692,
+     "dal": 1511827200,
+     "al": 1559001600
+    },
+    {
+     "squadra": "Milan U20",
+     "squadra_id": 826811,
+     "dal": 1498867200,
+     "al": 1511740800
+    },
+    {
+     "squadra": "Pisa",
+     "squadra_id": 2737,
+     "dal": 1472774400,
+     "al": 1498780800
+    },
+    {
+     "squadra": "Pisa",
+     "squadra_id": 2737,
+     "dal": 1440028800,
+     "al": 1469923200
+    },
+    {
+     "squadra": "OFI Crete",
+     "squadra_id": 3241,
+     "dal": 1404172800,
+     "al": 1419897600
+    },
+    {
+     "squadra": "Palermo",
+     "squadra_id": 2715,
+     "dal": 1371600000,
+     "al": 1380067200
+    }
+   ]
+  },
+  "stagioni": {
+   "26/27": {
+    "matches": 2,
+    "goalsScored": 2,
+    "goalsConceded": 0,
+    "shots": 25,
+    "shotsOnTarget": 5,
+    "bigChancesCreated": 4,
+    "bigChancesMissed": 3,
+    "cleanSheets": 2,
+    "averageBallPossession": 43.5,
+    "fouls": 37,
+    "yellowCards": 5,
+    "redCards": 0,
+    "accuratePassesPercentage": 84.931506849315,
+    "ballRecovery": 81,
+    "interceptions": 18,
+    "clearances": 33,
+    "corners": 10,
+    "offsides": 3,
+    "penaltyGoals": 0,
+    "penaltiesTaken": 0,
+    "accurateLongBallsPercentage": 64,
+    "errorsLeadingToGoal": 0
+   },
+   "25/26": {
+    "matches": 38,
+    "goalsScored": 41,
+    "goalsConceded": 40,
+    "shots": 417,
+    "shotsOnTarget": 155,
+    "bigChancesCreated": 48,
+    "bigChancesMissed": 48,
+    "cleanSheets": 15,
+    "averageBallPossession": 50.342105263158,
+    "fouls": 402,
+    "yellowCards": 77,
+    "redCards": 9,
+    "accuratePassesPercentage": 86.59997860276,
+    "ballRecovery": 1599,
+    "interceptions": 295,
+    "clearances": 746,
+    "corners": 142,
+    "offsides": 37,
+    "penaltyGoals": 4,
+    "penaltiesTaken": 5,
+    "accurateLongBallsPercentage": 57.49342681858,
+    "errorsLeadingToGoal": 5
+   },
+   "24/25": {
+    "matches": 38,
+    "goalsScored": 61,
+    "goalsConceded": 49,
+    "shots": 535,
+    "shotsOnTarget": 200,
+    "bigChancesCreated": 70,
+    "bigChancesMissed": 59,
+    "cleanSheets": 9,
+    "averageBallPossession": 55.105263157895,
+    "fouls": 425,
+    "yellowCards": 92,
+    "redCards": 7,
+    "accuratePassesPercentage": 86.793194452243,
+    "ballRecovery": 1648,
+    "interceptions": 295,
+    "clearances": 662,
+    "corners": 229,
+    "offsides": 46,
+    "penaltyGoals": 6,
+    "penaltiesTaken": 7,
+    "accurateLongBallsPercentage": 59.393939393939,
+    "errorsLeadingToGoal": 10
+   },
+   "23/24": {
+    "matches": 38,
+    "goalsScored": 49,
+    "goalsConceded": 39,
+    "shots": 440,
+    "shotsOnTarget": 141,
+    "bigChancesCreated": 53,
+    "bigChancesMissed": 41,
+    "cleanSheets": 13,
+    "averageBallPossession": 53.447368421053,
+    "fouls": 473,
+    "yellowCards": 99,
+    "redCards": 5,
+    "accuratePassesPercentage": 84.955116696589,
+    "ballRecovery": 1953,
+    "interceptions": 295,
+    "clearances": 596,
+    "corners": 197,
+    "offsides": 72,
+    "penaltyGoals": 4,
+    "penaltiesTaken": 4,
+    "accurateLongBallsPercentage": 52.959262106072,
+    "errorsLeadingToGoal": 2
+   }
+  }
+ },
+ "2695": {
+  "id": 2695,
+  "nome": "Udinese",
+  "stadio": "Bluenergy Stadium",
+  "allenatore": {
+   "id": 111419,
+   "nome": "Kosta Runjaic",
+   "nazionalita": "DEU",
+   "modulo_preferito": "4-1-4-1",
+   "nascita_ts": 44841600,
+   "performance_carriera": {
+    "total": 588,
+    "wins": 257,
+    "draws": 157,
+    "losses": 174,
+    "goalsScored": 888,
+    "goalsConceded": 719,
+    "totalPoints": 928
+   },
+   "carriera": [
+    {
+     "squadra": "Udinese",
+     "squadra_id": 2695,
+     "dal": 1719792000,
+     "al": 1814313600
+    },
+    {
+     "squadra": "Legia Warszawa",
+     "squadra_id": 3106,
+     "dal": 1656633600,
+     "al": 1712620800
+    },
+    {
+     "squadra": "Pogoń Szczecin",
+     "squadra_id": 3117,
+     "dal": 1509926400,
+     "al": 1656547200
+    },
+    {
+     "squadra": "TSV 1860 München",
+     "squadra_id": 2536,
+     "dal": 1467331200,
+     "al": 1479772800
+    },
+    {
+     "squadra": "1. FC Kaiserslautern",
+     "squadra_id": 2675,
+     "dal": 1379289600,
+     "al": 1442966400
+    },
+    {
+     "squadra": "MSV Duisburg",
+     "squadra_id": 2543,
+     "dal": 1346716800,
+     "al": 1372550400
+    },
+    {
+     "squadra": "Darmstadt 98",
+     "squadra_id": 2576,
+     "dal": 1269302400,
+     "al": 1346630400
+    },
+    {
+     "squadra": "VfR Aalen",
+     "squadra_id": 2550,
+     "dal": 1227139200,
+     "al": 1227484800
+    },
+    {
+     "squadra": "SV Wehen Wiesbaden II",
+     "squadra_id": 7861,
+     "dal": 1183248000,
+     "al": 1214784000
+    },
+    {
+     "squadra": "SV Wehen Wiesbaden U19",
+     "squadra_id": 43727,
+     "dal": 1163548800,
+     "al": 1183161600
+    },
+    {
+     "squadra": "1. FC Kaiserslautern II U23",
+     "squadra_id": 2537,
+     "dal": 1155600000,
+     "al": 1156291200
+    }
+   ]
+  },
+  "stagioni": {
+   "26/27": {
+    "matches": 2,
+    "goalsScored": 4,
+    "goalsConceded": 3,
+    "shots": 29,
+    "shotsOnTarget": 8,
+    "bigChancesCreated": 3,
+    "bigChancesMissed": 3,
+    "cleanSheets": 0,
+    "averageBallPossession": 45,
+    "fouls": 25,
+    "yellowCards": 3,
+    "redCards": 0,
+    "accuratePassesPercentage": 79.537149817296,
+    "ballRecovery": 99,
+    "interceptions": 16,
+    "clearances": 62,
+    "corners": 4,
+    "offsides": 1,
+    "penaltyGoals": 0,
+    "penaltiesTaken": 0,
+    "accurateLongBallsPercentage": 45.569620253165,
+    "errorsLeadingToGoal": 0
+   },
+   "25/26": {
+    "matches": 38,
+    "goalsScored": 45,
+    "goalsConceded": 48,
+    "shots": 439,
+    "shotsOnTarget": 146,
+    "bigChancesCreated": 54,
+    "bigChancesMissed": 40,
+    "cleanSheets": 11,
+    "averageBallPossession": 45.631578947368,
+    "fouls": 516,
+    "yellowCards": 71,
+    "redCards": 2,
+    "accuratePassesPercentage": 81.128183240859,
+    "ballRecovery": 1643,
+    "interceptions": 310,
+    "clearances": 1058,
+    "corners": 170,
+    "offsides": 54,
+    "penaltyGoals": 5,
+    "penaltiesTaken": 5,
+    "accurateLongBallsPercentage": 48.729792147806,
+    "errorsLeadingToGoal": 9
+   },
+   "24/25": {
+    "matches": 38,
+    "goalsScored": 41,
+    "goalsConceded": 56,
+    "shots": 434,
+    "shotsOnTarget": 143,
+    "bigChancesCreated": 38,
+    "bigChancesMissed": 34,
+    "cleanSheets": 9,
+    "averageBallPossession": 47.236842105263,
+    "fouls": 543,
+    "yellowCards": 85,
+    "redCards": 5,
+    "accuratePassesPercentage": 81.970323192628,
+    "ballRecovery": 1620,
+    "interceptions": 302,
+    "clearances": 853,
+    "corners": 178,
+    "offsides": 50,
+    "penaltyGoals": 2,
+    "penaltiesTaken": 4,
+    "accurateLongBallsPercentage": 49.761417859577,
+    "errorsLeadingToGoal": 6
+   },
+   "23/24": {
+    "matches": 38,
+    "goalsScored": 37,
+    "goalsConceded": 53,
+    "shots": 461,
+    "shotsOnTarget": 139,
+    "bigChancesCreated": 44,
+    "bigChancesMissed": 43,
+    "cleanSheets": 9,
+    "averageBallPossession": 39.105263157895,
+    "fouls": 496,
+    "yellowCards": 91,
+    "redCards": 5,
+    "accuratePassesPercentage": 77.278454430911,
+    "ballRecovery": 1953,
+    "interceptions": 327,
+    "clearances": 925,
+    "corners": 157,
+    "offsides": 57,
+    "penaltyGoals": 3,
+    "penaltiesTaken": 4,
+    "accurateLongBallsPercentage": 47.776940467219,
+    "errorsLeadingToGoal": 7
+   }
+  }
+ },
+ "2704": {
+  "id": 2704,
+  "nome": "Como",
+  "stadio": "Stadio Giuseppe Sinigaglia",
+  "allenatore": {
+   "id": 801245,
+   "nome": "Cesc Fàbregas",
+   "nazionalita": "ESP",
+   "modulo_preferito": "4-2-3-1",
+   "nascita_ts": 547084800,
+   "performance_carriera": {
+    "total": 99,
+    "wins": 44,
+    "draws": 27,
+    "losses": 28,
+    "goalsScored": 158,
+    "goalsConceded": 118,
+    "totalPoints": 159
+   },
+   "carriera": [
+    {
+     "squadra": "Como",
+     "squadra_id": 2704,
+     "dal": 1721347200,
+     "al": 1845936000
+    },
+    {
+     "squadra": "Como",
+     "squadra_id": 2704,
+     "dal": 1699833600,
+     "al": 1702944000
+    },
+    {
+     "squadra": "Como U20",
+     "squadra_id": 206254,
+     "dal": 1688169600,
+     "al": 1699747200
+    }
+   ]
+  },
+  "stagioni": {
+   "26/27": {
+    "matches": 2,
+    "goalsScored": 3,
+    "goalsConceded": 2,
+    "shots": 41,
+    "shotsOnTarget": 12,
+    "bigChancesCreated": 3,
+    "bigChancesMissed": 3,
+    "cleanSheets": 0,
+    "averageBallPossession": 58.5,
+    "fouls": 16,
+    "yellowCards": 0,
+    "redCards": 0,
+    "accuratePassesPercentage": 89.429530201342,
+    "ballRecovery": 87,
+    "interceptions": 23,
+    "clearances": 44,
+    "corners": 17,
+    "offsides": 0,
+    "penaltyGoals": 0,
+    "penaltiesTaken": 0,
+    "accurateLongBallsPercentage": 44.897959183673,
+    "errorsLeadingToGoal": 0
+   },
+   "25/26": {
+    "matches": 38,
+    "goalsScored": 65,
+    "goalsConceded": 29,
+    "shots": 549,
+    "shotsOnTarget": 194,
+    "bigChancesCreated": 73,
+    "bigChancesMissed": 59,
+    "cleanSheets": 19,
+    "averageBallPossession": 61.605263157895,
+    "fouls": 510,
+    "yellowCards": 80,
+    "redCards": 3,
+    "accuratePassesPercentage": 87.439468823324,
+    "ballRecovery": 1756,
+    "interceptions": 263,
+    "clearances": 727,
+    "corners": 170,
+    "offsides": 43,
+    "penaltyGoals": 5,
+    "penaltiesTaken": 8,
+    "accurateLongBallsPercentage": 50.57361376673,
+    "errorsLeadingToGoal": 6
+   },
+   "24/25": {
+    "matches": 38,
+    "goalsScored": 49,
+    "goalsConceded": 52,
+    "shots": 521,
+    "shotsOnTarget": 180,
+    "bigChancesCreated": 56,
+    "bigChancesMissed": 43,
+    "cleanSheets": 7,
+    "averageBallPossession": 54.789473684211,
+    "fouls": 503,
+    "yellowCards": 84,
+    "redCards": 7,
+    "accuratePassesPercentage": 84.904592038956,
+    "ballRecovery": 1810,
+    "interceptions": 279,
+    "clearances": 750,
+    "corners": 167,
+    "offsides": 65,
+    "penaltyGoals": 0,
+    "penaltiesTaken": 2,
+    "accurateLongBallsPercentage": 49.275362318841,
+    "errorsLeadingToGoal": 8
+   }
+  }
+ },
+ "2702": {
+  "id": 2702,
+  "nome": "AS Roma",
+  "stadio": "Stadio Olimpico",
+  "allenatore": {
+   "id": 53191,
+   "nome": "Gian Piero Gasperini",
+   "nazionalita": "ITA",
+   "modulo_preferito": "3-4-1-2",
+   "nascita_ts": -376531200,
+   "performance_carriera": {
+    "total": 924,
+    "wins": 431,
+    "draws": 214,
+    "losses": 279,
+    "goalsScored": 1529,
+    "goalsConceded": 1095,
+    "totalPoints": 1507
+   },
+   "carriera": [
+    {
+     "squadra": "AS Roma",
+     "squadra_id": 2702,
+     "dal": 1749168000,
+     "al": 1845936000
+    },
+    {
+     "squadra": "Atalanta",
+     "squadra_id": 2686,
+     "dal": 1467331200,
+     "al": 1748736000
+    },
+    {
+     "squadra": "Genoa",
+     "squadra_id": 2713,
+     "dal": 1380412800,
+     "al": 1467244800
+    },
+    {
+     "squadra": "Palermo",
+     "squadra_id": 2715,
+     "dal": 1361664000,
+     "al": 1362960000
+    },
+    {
+     "squadra": "Palermo",
+     "squadra_id": 2715,
+     "dal": 1347753600,
+     "al": 1359936000
+    },
+    {
+     "squadra": "Inter",
+     "squadra_id": 2697,
+     "dal": 1309478400,
+     "al": 1316563200
+    },
+    {
+     "squadra": "Genoa",
+     "squadra_id": 2713,
+     "dal": 1152489600,
+     "al": 1289174400
+    },
+    {
+     "squadra": "FC Crotone",
+     "squadra_id": 2718,
+     "dal": 1113868800,
+     "al": 1151625600
+    },
+    {
+     "squadra": "FC Crotone",
+     "squadra_id": 2718,
+     "dal": 1057017600,
+     "al": 1102464000
+    }
+   ]
+  },
+  "stagioni": {
+   "26/27": {
+    "matches": 1,
+    "goalsScored": 4,
+    "goalsConceded": 0,
+    "shots": 17,
+    "shotsOnTarget": 8,
+    "bigChancesCreated": 4,
+    "bigChancesMissed": 2,
+    "cleanSheets": 1,
+    "averageBallPossession": 61,
+    "fouls": 15,
+    "yellowCards": 2,
+    "redCards": 0,
+    "accuratePassesPercentage": 88.682745825603,
+    "ballRecovery": 54,
+    "interceptions": 9,
+    "clearances": 17,
+    "corners": 2,
+    "offsides": 1,
+    "penaltyGoals": 0,
+    "penaltiesTaken": 0,
+    "accurateLongBallsPercentage": 60.714285714286,
+    "errorsLeadingToGoal": 0
+   },
+   "25/26": {
+    "matches": 38,
+    "goalsScored": 59,
+    "goalsConceded": 31,
+    "shots": 503,
+    "shotsOnTarget": 178,
+    "bigChancesCreated": 62,
+    "bigChancesMissed": 44,
+    "cleanSheets": 18,
+    "averageBallPossession": 56.289473684211,
+    "fouls": 523,
+    "yellowCards": 67,
+    "redCards": 3,
+    "accuratePassesPercentage": 83.826780995524,
+    "ballRecovery": 1867,
+    "interceptions": 357,
+    "clearances": 825,
+    "corners": 196,
+    "offsides": 64,
+    "penaltyGoals": 5,
+    "penaltiesTaken": 7,
+    "accurateLongBallsPercentage": 48.065476190476,
+    "errorsLeadingToGoal": 3
+   },
+   "24/25": {
+    "matches": 38,
+    "goalsScored": 56,
+    "goalsConceded": 35,
+    "shots": 521,
+    "shotsOnTarget": 176,
+    "bigChancesCreated": 59,
+    "bigChancesMissed": 58,
+    "cleanSheets": 16,
+    "averageBallPossession": 53.947368421053,
+    "fouls": 406,
+    "yellowCards": 65,
+    "redCards": 1,
+    "accuratePassesPercentage": 86.00897819581,
+    "ballRecovery": 1672,
+    "interceptions": 282,
+    "clearances": 705,
+    "corners": 170,
+    "offsides": 59,
+    "penaltyGoals": 8,
+    "penaltiesTaken": 8,
+    "accurateLongBallsPercentage": 51.540832049307,
+    "errorsLeadingToGoal": 4
+   },
+   "23/24": {
+    "matches": 38,
+    "goalsScored": 65,
+    "goalsConceded": 46,
+    "shots": 476,
+    "shotsOnTarget": 157,
+    "bigChancesCreated": 61,
+    "bigChancesMissed": 38,
+    "cleanSheets": 11,
+    "averageBallPossession": 54.815789473684,
+    "fouls": 455,
+    "yellowCards": 94,
+    "redCards": 3,
+    "accuratePassesPercentage": 85.097749907783,
+    "ballRecovery": 1830,
+    "interceptions": 242,
+    "clearances": 583,
+    "corners": 167,
+    "offsides": 66,
+    "penaltyGoals": 11,
+    "penaltiesTaken": 12,
+    "accurateLongBallsPercentage": 51.658433309809,
+    "errorsLeadingToGoal": 4
+   }
+  }
+ },
+ "2801": {
+  "id": 2801,
+  "nome": "Frosinone",
+  "stadio": "Stadio Benito Stirpe",
+  "allenatore": {
+   "id": 348020,
+   "nome": "Massimiliano Alvini",
+   "nazionalita": "ITA",
+   "modulo_preferito": "3-4-1-2",
+   "nascita_ts": 9417600,
+   "performance_carriera": {
+    "total": 508,
+    "wins": 178,
+    "draws": 165,
+    "losses": 165,
+    "goalsScored": 619,
+    "goalsConceded": 590,
+    "totalPoints": 699
+   },
+   "carriera": [
+    {
+     "squadra": "Frosinone",
+     "squadra_id": 2801,
+     "dal": 1751414400,
+     "al": 1814313600
+    },
+    {
+     "squadra": "Cosenza",
+     "squadra_id": 2716,
+     "dal": 1743292800,
+     "al": 1751414400
+    },
+    {
+     "squadra": "Cosenza",
+     "squadra_id": 2716,
+     "dal": 1719792000,
+     "al": 1740528000
+    },
+    {
+     "squadra": "Spezia",
+     "squadra_id": 2735,
+     "dal": 1688601600,
+     "al": 1700006400
+    },
+    {
+     "squadra": "Cremonese",
+     "squadra_id": 2761,
+     "dal": 1654732800,
+     "al": 1673654400
+    },
+    {
+     "squadra": "Perugia",
+     "squadra_id": 2698,
+     "dal": 1623801600,
+     "al": 1654646400
+    },
+    {
+     "squadra": "Reggiana",
+     "squadra_id": 24516,
+     "dal": 1560816000,
+     "al": 1621814400
+    },
+    {
+     "squadra": "AlbinoLeffe",
+     "squadra_id": 2732,
+     "dal": 1470873600,
+     "al": 1543190400
+    },
+    {
+     "squadra": "Pistoiese",
+     "squadra_id": 2723,
+     "dal": 1434153600,
+     "al": 1460419200
+    },
+    {
+     "squadra": "AC Tuttocuoio 1957 San Miniato",
+     "squadra_id": 113765,
+     "dal": 1214870400,
+     "al": 1434067200
+    }
+   ]
+  },
+  "stagioni": {
+   "26/27": {
+    "matches": 2,
+    "goalsScored": 3,
+    "goalsConceded": 1,
+    "shots": 23,
+    "shotsOnTarget": 8,
+    "bigChancesCreated": 4,
+    "bigChancesMissed": 1,
+    "cleanSheets": 1,
+    "averageBallPossession": 38.5,
+    "fouls": 36,
+    "yellowCards": 5,
+    "redCards": 0,
+    "accuratePassesPercentage": 70.32967032967,
+    "ballRecovery": 97,
+    "interceptions": 17,
+    "clearances": 58,
+    "corners": 8,
+    "offsides": 5,
+    "penaltyGoals": 0,
+    "penaltiesTaken": 0,
+    "accurateLongBallsPercentage": 32.258064516129,
+    "errorsLeadingToGoal": 0
+   },
+   "23/24": {
+    "matches": 38,
+    "goalsScored": 44,
+    "goalsConceded": 69,
+    "shots": 470,
+    "shotsOnTarget": 160,
+    "bigChancesCreated": 48,
+    "bigChancesMissed": 45,
+    "cleanSheets": 7,
+    "averageBallPossession": 49.763157894737,
+    "fouls": 388,
+    "yellowCards": 67,
+    "redCards": 2,
+    "accuratePassesPercentage": 79.791223902988,
+    "ballRecovery": 2026,
+    "interceptions": 241,
+    "clearances": 748,
+    "corners": 213,
+    "offsides": 48,
+    "penaltyGoals": 8,
+    "penaltiesTaken": 10,
+    "accurateLongBallsPercentage": 40.321402483565,
+    "errorsLeadingToGoal": 4
+   }
+  }
+ },
+ "2689": {
+  "id": 2689,
+  "nome": "Lecce",
+  "stadio": "Via del Mare",
+  "allenatore": {
+   "id": 126353,
+   "nome": "Eusebio Di Francesco",
+   "nazionalita": "ITA",
+   "modulo_preferito": "4-3-3",
+   "nascita_ts": -9936000,
+   "performance_carriera": {
+    "total": 552,
+    "wins": 196,
+    "draws": 133,
+    "losses": 223,
+    "goalsScored": 714,
+    "goalsConceded": 766,
+    "totalPoints": 721
+   },
+   "carriera": [
+    {
+     "squadra": "Lecce",
+     "squadra_id": 2689,
+     "dal": 1750896000,
+     "al": 1845936000
+    },
+    {
+     "squadra": "Venezia",
+     "squadra_id": 2688,
+     "dal": 1719360000,
+     "al": 1750896000
+    },
+    {
+     "squadra": "Frosinone",
+     "squadra_id": 2801,
+     "dal": 1688169600,
+     "al": 1719273600
+    },
+    {
+     "squadra": "Hellas Verona",
+     "squadra_id": 2701,
+     "dal": 1623024000,
+     "al": 1631577600
+    },
+    {
+     "squadra": "Cagliari",
+     "squadra_id": 2719,
+     "dal": 1596412800,
+     "al": 1613952000
+    },
+    {
+     "squadra": "Sampdoria",
+     "squadra_id": 2711,
+     "dal": 1561161600,
+     "al": 1570406400
+    },
+    {
+     "squadra": "AS Roma",
+     "squadra_id": 2702,
+     "dal": 1497312000,
+     "al": 1551916800
+    },
+    {
+     "squadra": "Sassuolo",
+     "squadra_id": 2793,
+     "dal": 1393804800,
+     "al": 1497225600
+    },
+    {
+     "squadra": "Sassuolo",
+     "squadra_id": 2793,
+     "dal": 1340064000,
+     "al": 1390867200
+    },
+    {
+     "squadra": "Lecce",
+     "squadra_id": 2689,
+     "dal": 1308873600,
+     "al": 1322956800
+    },
+    {
+     "squadra": "Pescara",
+     "squadra_id": 7935,
+     "dal": 1263254400,
+     "al": 1308700800
+    },
+    {
+     "squadra": "Pescara U20",
+     "squadra_id": 79063,
+     "dal": 1253491200,
+     "al": 1263168000
+    },
+    {
+     "squadra": "Lanciano FC",
+     "squadra_id": 378962,
+     "dal": 1214179200,
+     "al": 1233014400
+    }
+   ]
+  },
+  "stagioni": {
+   "26/27": {
+    "matches": 1,
+    "goalsScored": 2,
+    "goalsConceded": 0,
+    "shots": 12,
+    "shotsOnTarget": 5,
+    "bigChancesCreated": 3,
+    "bigChancesMissed": 3,
+    "cleanSheets": 1,
+    "averageBallPossession": 29,
+    "fouls": 12,
+    "yellowCards": 3,
+    "redCards": 0,
+    "accuratePassesPercentage": 72.692307692308,
+    "ballRecovery": 41,
+    "interceptions": 12,
+    "clearances": 36,
+    "corners": 3,
+    "offsides": 2,
+    "penaltyGoals": 0,
+    "penaltiesTaken": 0,
+    "accurateLongBallsPercentage": 30,
+    "errorsLeadingToGoal": 0
+   },
+   "25/26": {
+    "matches": 38,
+    "goalsScored": 28,
+    "goalsConceded": 50,
+    "shots": 373,
+    "shotsOnTarget": 97,
+    "bigChancesCreated": 39,
+    "bigChancesMissed": 33,
+    "cleanSheets": 10,
+    "averageBallPossession": 41.605263157895,
+    "fouls": 480,
+    "yellowCards": 69,
+    "redCards": 2,
+    "accuratePassesPercentage": 75.008194034743,
+    "ballRecovery": 1683,
+    "interceptions": 263,
+    "clearances": 1125,
+    "corners": 163,
+    "offsides": 46,
+    "penaltyGoals": 1,
+    "penaltiesTaken": 2,
+    "accurateLongBallsPercentage": 43.639167309175,
+    "errorsLeadingToGoal": 5
+   },
+   "24/25": {
+    "matches": 38,
+    "goalsScored": 27,
+    "goalsConceded": 58,
+    "shots": 454,
+    "shotsOnTarget": 125,
+    "bigChancesCreated": 36,
+    "bigChancesMissed": 32,
+    "cleanSheets": 9,
+    "averageBallPossession": 43.552631578947,
+    "fouls": 466,
+    "yellowCards": 60,
+    "redCards": 7,
+    "accuratePassesPercentage": 78.533954038277,
+    "ballRecovery": 1755,
+    "interceptions": 285,
+    "clearances": 989,
+    "corners": 165,
+    "offsides": 52,
+    "penaltyGoals": 3,
+    "penaltiesTaken": 4,
+    "accurateLongBallsPercentage": 48.135116115412,
+    "errorsLeadingToGoal": 5
+   },
+   "23/24": {
+    "matches": 38,
+    "goalsScored": 32,
+    "goalsConceded": 54,
+    "shots": 508,
+    "shotsOnTarget": 153,
+    "bigChancesCreated": 45,
+    "bigChancesMissed": 48,
+    "cleanSheets": 7,
+    "averageBallPossession": 44.710526315789,
+    "fouls": 504,
+    "yellowCards": 87,
+    "redCards": 5,
+    "accuratePassesPercentage": 78.395465445825,
+    "ballRecovery": 2024,
+    "interceptions": 308,
+    "clearances": 704,
+    "corners": 172,
+    "offsides": 56,
+    "penaltyGoals": 3,
+    "penaltiesTaken": 5,
+    "accurateLongBallsPercentage": 48.355899419729,
+    "errorsLeadingToGoal": 3
+   }
+  }
+ },
+ "2714": {
+  "id": 2714,
+  "nome": "SSC Napoli",
+  "stadio": "Stadio Diego Armando Maradona",
+  "allenatore": {
+   "id": 53594,
+   "nome": "Massimiliano Allegri",
+   "nazionalita": "ITA",
+   "modulo_preferito": "4-3-1-2",
+   "nascita_ts": -75513600,
+   "performance_carriera": {
+    "total": 848,
+    "wins": 458,
+    "draws": 194,
+    "losses": 196,
+    "goalsScored": 1356,
+    "goalsConceded": 800,
+    "totalPoints": 1567
+   },
+   "carriera": [
+    {
+     "squadra": "SSC Napoli",
+     "squadra_id": 2714,
+     "dal": 1783036800,
+     "al": 1877472000
+    },
+    {
+     "squadra": "AC Milan",
+     "squadra_id": 2692,
+     "dal": 1751328000,
+     "al": 1779667200
+    },
+    {
+     "squadra": "Juventus",
+     "squadra_id": 2687,
+     "dal": 1625097600,
+     "al": 1715904000
+    },
+    {
+     "squadra": "Juventus",
+     "squadra_id": 2687,
+     "dal": 1405468800,
+     "al": 1561852800
+    },
+    {
+     "squadra": "AC Milan",
+     "squadra_id": 2692,
+     "dal": 1277942400,
+     "al": 1389571200
+    },
+    {
+     "squadra": "Cagliari",
+     "squadra_id": 2719,
+     "dal": 1214870400,
+     "al": 1271116800
+    },
+    {
+     "squadra": "Sassuolo",
+     "squadra_id": 2793,
+     "dal": 1184630400,
+     "al": 1214784000
+    },
+    {
+     "squadra": "Lecco",
+     "squadra_id": 7933,
+     "dal": 1183248000,
+     "al": 1184544000
+    },
+    {
+     "squadra": "Grosseto",
+     "squadra_id": 2785,
+     "dal": 1145232000,
+     "al": 1162080000
+    },
+    {
+     "squadra": "Grosseto",
+     "squadra_id": 2785,
+     "dal": 1121731200,
+     "al": 1130284800
+    },
+    {
+     "squadra": "SPAL",
+     "squadra_id": 113755,
+     "dal": 1088640000,
+     "al": 1120089600
+    },
+    {
+     "squadra": "Aglianese",
+     "squadra_id": 298166,
+     "dal": 1057017600,
+     "al": 1088553600
+    }
+   ]
+  },
+  "stagioni": {
+   "26/27": {
+    "matches": 2,
+    "goalsScored": 3,
+    "goalsConceded": 2,
+    "shots": 26,
+    "shotsOnTarget": 6,
+    "bigChancesCreated": 4,
+    "bigChancesMissed": 2,
+    "cleanSheets": 1,
+    "averageBallPossession": 48,
+    "fouls": 17,
+    "yellowCards": 2,
+    "redCards": 0,
+    "accuratePassesPercentage": 88.303477344573,
+    "ballRecovery": 77,
+    "interceptions": 12,
+    "clearances": 34,
+    "corners": 7,
+    "offsides": 11,
+    "penaltyGoals": 0,
+    "penaltiesTaken": 0,
+    "accurateLongBallsPercentage": 60,
+    "errorsLeadingToGoal": 1
+   },
+   "25/26": {
+    "matches": 38,
+    "goalsScored": 58,
+    "goalsConceded": 36,
+    "shots": 502,
+    "shotsOnTarget": 179,
+    "bigChancesCreated": 53,
+    "bigChancesMissed": 42,
+    "cleanSheets": 15,
+    "averageBallPossession": 58.868421052632,
+    "fouls": 425,
+    "yellowCards": 48,
+    "redCards": 2,
+    "accuratePassesPercentage": 87.226398146835,
+    "ballRecovery": 1756,
+    "interceptions": 233,
+    "clearances": 627,
+    "corners": 208,
+    "offsides": 56,
+    "penaltyGoals": 4,
+    "penaltiesTaken": 5,
+    "accurateLongBallsPercentage": 52.165543792108,
+    "errorsLeadingToGoal": 4
+   },
+   "24/25": {
+    "matches": 38,
+    "goalsScored": 59,
+    "goalsConceded": 27,
+    "shots": 504,
+    "shotsOnTarget": 157,
+    "bigChancesCreated": 58,
+    "bigChancesMissed": 43,
+    "cleanSheets": 19,
+    "averageBallPossession": 54.578947368421,
+    "fouls": 415,
+    "yellowCards": 48,
+    "redCards": 0,
+    "accuratePassesPercentage": 86.484142043914,
+    "ballRecovery": 1621,
+    "interceptions": 270,
+    "clearances": 777,
+    "corners": 209,
+    "offsides": 55,
+    "penaltyGoals": 4,
+    "penaltiesTaken": 5,
+    "accurateLongBallsPercentage": 57.294213528932,
+    "errorsLeadingToGoal": 3
+   },
+   "23/24": {
+    "matches": 38,
+    "goalsScored": 55,
+    "goalsConceded": 48,
+    "shots": 648,
+    "shotsOnTarget": 207,
+    "bigChancesCreated": 72,
+    "bigChancesMissed": 59,
+    "cleanSheets": 7,
+    "averageBallPossession": 61.105263157895,
+    "fouls": 381,
+    "yellowCards": 74,
+    "redCards": 5,
+    "accuratePassesPercentage": 87.044381491974,
+    "ballRecovery": 1890,
+    "interceptions": 241,
+    "clearances": 486,
+    "corners": 240,
+    "offsides": 71,
+    "penaltyGoals": 6,
+    "penaltiesTaken": 10,
+    "accurateLongBallsPercentage": 59.196484620213,
+    "errorsLeadingToGoal": 3
+   }
+  }
+ },
+ "2686": {
+  "id": 2686,
+  "nome": "Atalanta",
+  "stadio": "New Balance Arena",
+  "allenatore": {
+   "id": 111494,
+   "nome": "Maurizio Sarri",
+   "nazionalita": "ITA",
+   "modulo_preferito": "4-3-3",
+   "nascita_ts": -346377600,
+   "performance_carriera": {
+    "total": 806,
+    "wins": 389,
+    "draws": 212,
+    "losses": 205,
+    "goalsScored": 1246,
+    "goalsConceded": 845,
+    "totalPoints": 1379
+   },
+   "carriera": [
+    {
+     "squadra": "Atalanta",
+     "squadra_id": 2686,
+     "dal": 1781481600,
+     "al": 1877472000
+    },
+    {
+     "squadra": "Lazio",
+     "squadra_id": 2699,
+     "dal": 1748822400,
+     "al": 1779840000
+    },
+    {
+     "squadra": "Lazio",
+     "squadra_id": 2699,
+     "dal": 1625097600,
+     "al": 1710288000
+    },
+    {
+     "squadra": "Juventus",
+     "squadra_id": 2687,
+     "dal": 1561939200,
+     "al": 1596844800
+    },
+    {
+     "squadra": "Chelsea",
+     "squadra_id": 38,
+     "dal": 1531526400,
+     "al": 1561852800
+    },
+    {
+     "squadra": "SSC Napoli",
+     "squadra_id": 2714,
+     "dal": 1435708800,
+     "al": 1527033600
+    },
+    {
+     "squadra": "Empoli",
+     "squadra_id": 2705,
+     "dal": 1341100800,
+     "al": 1435622400
+    },
+    {
+     "squadra": "Sorrento",
+     "squadra_id": 7937,
+     "dal": 1309910400,
+     "al": 1323734400
+    },
+    {
+     "squadra": "Alessandria",
+     "squadra_id": 25155,
+     "dal": 1278374400,
+     "al": 1309392000
+    },
+    {
+     "squadra": "Grosseto",
+     "squadra_id": 2785,
+     "dal": 1269388800,
+     "al": 1277856000
+    },
+    {
+     "squadra": "Perugia",
+     "squadra_id": 2698,
+     "dal": 1222128000,
+     "al": 1234656000
+    },
+    {
+     "squadra": "Hellas Verona",
+     "squadra_id": 2701,
+     "dal": 1199059200,
+     "al": 1204070400
+    },
+    {
+     "squadra": "US Avellino 1912",
+     "squadra_id": 2730,
+     "dal": 1184716800,
+     "al": 1187827200
+    },
+    {
+     "squadra": "Arezzo",
+     "squadra_id": 2731,
+     "dal": 1162252800,
+     "al": 1173744000
+    },
+    {
+     "squadra": "Pescara",
+     "squadra_id": 7935,
+     "dal": 1120867200,
+     "al": 1151625600
+    },
+    {
+     "squadra": "Sangiovannese",
+     "squadra_id": 2791,
+     "dal": 1057017600,
+     "al": 1120089600
+    }
+   ]
+  },
+  "stagioni": {
+   "26/27": {
+    "matches": 1,
+    "goalsScored": 2,
+    "goalsConceded": 1,
+    "shots": 14,
+    "shotsOnTarget": 7,
+    "bigChancesCreated": 0,
+    "bigChancesMissed": 0,
+    "cleanSheets": 0,
+    "averageBallPossession": 56,
+    "fouls": 9,
+    "yellowCards": 0,
+    "redCards": 0,
+    "accuratePassesPercentage": 91.275167785235,
+    "ballRecovery": 39,
+    "interceptions": 6,
+    "clearances": 13,
+    "corners": 4,
+    "offsides": 0,
+    "penaltyGoals": 0,
+    "penaltiesTaken": 0,
+    "accurateLongBallsPercentage": 57.692307692308,
+    "errorsLeadingToGoal": 1
+   },
+   "25/26": {
+    "matches": 38,
+    "goalsScored": 51,
+    "goalsConceded": 36,
+    "shots": 562,
+    "shotsOnTarget": 175,
+    "bigChancesCreated": 69,
+    "bigChancesMissed": 67,
+    "cleanSheets": 13,
+    "averageBallPossession": 55.131578947368,
+    "fouls": 450,
+    "yellowCards": 59,
+    "redCards": 2,
+    "accuratePassesPercentage": 84.821523708045,
+    "ballRecovery": 1868,
+    "interceptions": 319,
+    "clearances": 809,
+    "corners": 215,
+    "offsides": 73,
+    "penaltyGoals": 3,
+    "penaltiesTaken": 3,
+    "accurateLongBallsPercentage": 55.855161787365,
+    "errorsLeadingToGoal": 6
+   },
+   "24/25": {
+    "matches": 38,
+    "goalsScored": 78,
+    "goalsConceded": 37,
+    "shots": 545,
+    "shotsOnTarget": 194,
+    "bigChancesCreated": 85,
+    "bigChancesMissed": 81,
+    "cleanSheets": 15,
+    "averageBallPossession": 55.289473684211,
+    "fouls": 435,
+    "yellowCards": 65,
+    "redCards": 1,
+    "accuratePassesPercentage": 85.144607715873,
+    "ballRecovery": 1986,
+    "interceptions": 296,
+    "clearances": 648,
+    "corners": 194,
+    "offsides": 54,
+    "penaltyGoals": 5,
+    "penaltiesTaken": 7,
+    "accurateLongBallsPercentage": 53.381066030231,
+    "errorsLeadingToGoal": 5
+   },
+   "23/24": {
+    "matches": 38,
+    "goalsScored": 72,
+    "goalsConceded": 42,
+    "shots": 544,
+    "shotsOnTarget": 207,
+    "bigChancesCreated": 77,
+    "bigChancesMissed": 59,
+    "cleanSheets": 15,
+    "averageBallPossession": 51.315789473684,
+    "fouls": 486,
+    "yellowCards": 74,
+    "redCards": 1,
+    "accuratePassesPercentage": 82.074383343405,
+    "ballRecovery": 2297,
+    "interceptions": 340,
+    "clearances": 576,
+    "corners": 210,
+    "offsides": 63,
+    "penaltyGoals": 5,
+    "penaltiesTaken": 5,
+    "accurateLongBallsPercentage": 47.854545454545,
+    "errorsLeadingToGoal": 3
+   }
+  }
+ },
+ "2793": {
+  "id": 2793,
+  "nome": "Sassuolo",
+  "stadio": "Mapei Stadium",
+  "allenatore": {
+   "id": 794668,
+   "nome": "Alberto Aquilani",
+   "nazionalita": "ITA",
+   "modulo_preferito": "3-5-2",
+   "nascita_ts": 458006400,
+   "performance_carriera": {
+    "total": 211,
+    "wins": 90,
+    "draws": 44,
+    "losses": 77,
+    "goalsScored": 333,
+    "goalsConceded": 309,
+    "totalPoints": 314
+   },
+   "carriera": [
+    {
+     "squadra": "Sassuolo",
+     "squadra_id": 2793,
+     "dal": 1781222400,
+     "al": 1845936000
+    },
+    {
+     "squadra": "Catanzaro",
+     "squadra_id": 2796,
+     "dal": 1750204800,
+     "al": 1781136000
+    },
+    {
+     "squadra": "Pisa",
+     "squadra_id": 2737,
+     "dal": 1687996800,
+     "al": 1718668800
+    },
+    {
+     "squadra": "Fiorentina U20",
+     "squadra_id": 826802,
+     "dal": 1596412800,
+     "al": 1687910400
+    },
+    {
+     "squadra": "Fiorentina U18",
+     "squadra_id": 311330,
+     "dal": 1562803200,
+     "al": 1576972800
+    }
+   ]
+  },
+  "stagioni": {
+   "26/27": {
+    "matches": 2,
+    "goalsScored": 3,
+    "goalsConceded": 3,
+    "shots": 41,
+    "shotsOnTarget": 15,
+    "bigChancesCreated": 4,
+    "bigChancesMissed": 4,
+    "cleanSheets": 0,
+    "averageBallPossession": 45,
+    "fouls": 22,
+    "yellowCards": 3,
+    "redCards": 0,
+    "accuratePassesPercentage": 89.467849223947,
+    "ballRecovery": 92,
+    "interceptions": 9,
+    "clearances": 32,
+    "corners": 8,
+    "offsides": 6,
+    "penaltyGoals": 0,
+    "penaltiesTaken": 0,
+    "accurateLongBallsPercentage": 72.549019607843,
+    "errorsLeadingToGoal": 1
+   },
+   "25/26": {
+    "matches": 38,
+    "goalsScored": 46,
+    "goalsConceded": 50,
+    "shots": 405,
+    "shotsOnTarget": 142,
+    "bigChancesCreated": 58,
+    "bigChancesMissed": 47,
+    "cleanSheets": 8,
+    "averageBallPossession": 46.131578947368,
+    "fouls": 455,
+    "yellowCards": 83,
+    "redCards": 4,
+    "accuratePassesPercentage": 83.054736152081,
+    "ballRecovery": 1702,
+    "interceptions": 313,
+    "clearances": 962,
+    "corners": 143,
+    "offsides": 66,
+    "penaltyGoals": 2,
+    "penaltiesTaken": 4,
+    "accurateLongBallsPercentage": 48.066783831283,
+    "errorsLeadingToGoal": 6
+   },
+   "23/24": {
+    "matches": 38,
+    "goalsScored": 43,
+    "goalsConceded": 75,
+    "shots": 461,
+    "shotsOnTarget": 152,
+    "bigChancesCreated": 33,
+    "bigChancesMissed": 28,
+    "cleanSheets": 3,
+    "averageBallPossession": 43.578947368421,
+    "fouls": 387,
+    "yellowCards": 70,
+    "redCards": 4,
+    "accuratePassesPercentage": 78.457824481681,
+    "ballRecovery": 1848,
+    "interceptions": 267,
+    "clearances": 717,
+    "corners": 202,
+    "offsides": 26,
+    "penaltyGoals": 7,
+    "penaltiesTaken": 8,
+    "accurateLongBallsPercentage": 45.3081232493,
+    "errorsLeadingToGoal": 8
+   }
+  }
+ },
+ "2719": {
+  "id": 2719,
+  "nome": "Cagliari",
+  "stadio": "Unipol Domus",
+  "allenatore": {
+   "id": 799934,
+   "nome": "Fabio Pisacane",
+   "nazionalita": "ITA",
+   "modulo_preferito": "3-5-2",
+   "nascita_ts": 507254400,
+   "performance_carriera": {
+    "total": 122,
+    "wins": 51,
+    "draws": 28,
+    "losses": 43,
+    "goalsScored": 177,
+    "goalsConceded": 173,
+    "totalPoints": 181
+   },
+   "carriera": [
+    {
+     "squadra": "Cagliari",
+     "squadra_id": 2719,
+     "dal": 1749600000,
+     "al": 1845936000
+    },
+    {
+     "squadra": "Cagliari U20",
+     "squadra_id": 826819,
+     "dal": 1688169600,
+     "al": 1749600000
+    }
+   ]
+  },
+  "stagioni": {
+   "26/27": {
+    "matches": 2,
+    "goalsScored": 1,
+    "goalsConceded": 1,
+    "shots": 24,
+    "shotsOnTarget": 5,
+    "bigChancesCreated": 2,
+    "bigChancesMissed": 2,
+    "cleanSheets": 1,
+    "averageBallPossession": 44,
+    "fouls": 26,
+    "yellowCards": 4,
+    "redCards": 0,
+    "accuratePassesPercentage": 87.310826542491,
+    "ballRecovery": 91,
+    "interceptions": 17,
+    "clearances": 40,
+    "corners": 10,
+    "offsides": 4,
+    "penaltyGoals": 0,
+    "penaltiesTaken": 0,
+    "accurateLongBallsPercentage": 49.019607843137,
+    "errorsLeadingToGoal": 0
+   },
+   "25/26": {
+    "matches": 38,
+    "goalsScored": 40,
+    "goalsConceded": 53,
+    "shots": 415,
+    "shotsOnTarget": 132,
+    "bigChancesCreated": 49,
+    "bigChancesMissed": 38,
+    "cleanSheets": 8,
+    "averageBallPossession": 45.578947368421,
+    "fouls": 524,
+    "yellowCards": 79,
+    "redCards": 2,
+    "accuratePassesPercentage": 81.308411214953,
+    "ballRecovery": 1645,
+    "interceptions": 328,
+    "clearances": 959,
+    "corners": 144,
+    "offsides": 61,
+    "penaltyGoals": 2,
+    "penaltiesTaken": 2,
+    "accurateLongBallsPercentage": 45.357436318817,
+    "errorsLeadingToGoal": 6
+   },
+   "24/25": {
+    "matches": 38,
+    "goalsScored": 40,
+    "goalsConceded": 56,
+    "shots": 424,
+    "shotsOnTarget": 123,
+    "bigChancesCreated": 65,
+    "bigChancesMissed": 62,
+    "cleanSheets": 7,
+    "averageBallPossession": 44.763157894737,
+    "fouls": 500,
+    "yellowCards": 66,
+    "redCards": 3,
+    "accuratePassesPercentage": 78.96196231781,
+    "ballRecovery": 1783,
+    "interceptions": 276,
+    "clearances": 848,
+    "corners": 181,
+    "offsides": 65,
+    "penaltyGoals": 3,
+    "penaltiesTaken": 3,
+    "accurateLongBallsPercentage": 40.778210116732,
+    "errorsLeadingToGoal": 5
+   },
+   "23/24": {
+    "matches": 38,
+    "goalsScored": 42,
+    "goalsConceded": 68,
+    "shots": 448,
+    "shotsOnTarget": 137,
+    "bigChancesCreated": 45,
+    "bigChancesMissed": 42,
+    "cleanSheets": 5,
+    "averageBallPossession": 41.657894736842,
+    "fouls": 464,
+    "yellowCards": 74,
+    "redCards": 5,
+    "accuratePassesPercentage": 75.715841892312,
+    "ballRecovery": 1982,
+    "interceptions": 265,
+    "clearances": 754,
+    "corners": 175,
+    "offsides": 64,
+    "penaltyGoals": 4,
+    "penaltiesTaken": 6,
+    "accurateLongBallsPercentage": 43.715846994536,
+    "errorsLeadingToGoal": 6
+   }
+  }
+ },
+ "2685": {
+  "id": 2685,
+  "nome": "Bologna",
+  "stadio": "Renato Dall'Ara",
+  "allenatore": {
+   "id": 788184,
+   "nome": "Domenico Tedesco",
+   "nazionalita": "ITA",
+   "modulo_preferito": "3-4-1-2",
+   "nascita_ts": 495331200,
+   "performance_carriera": {
+    "total": 321,
+    "wins": 170,
+    "draws": 64,
+    "losses": 87,
+    "goalsScored": 597,
+    "goalsConceded": 390,
+    "totalPoints": 574
+   },
+   "carriera": [
+    {
+     "squadra": "Bologna",
+     "squadra_id": 2685,
+     "dal": 1780963200,
+     "al": 1845936000
+    },
+    {
+     "squadra": "Fenerbahçe",
+     "squadra_id": 3052,
+     "dal": 1757289600,
+     "al": 1777248000
+    },
+    {
+     "squadra": "Belgium",
+     "squadra_id": 4717,
+     "dal": 1675814400,
+     "al": 1737072000
+    },
+    {
+     "squadra": "RB Leipzig",
+     "squadra_id": 36360,
+     "dal": 1639008000,
+     "al": 1662508800
+    },
+    {
+     "squadra": "FC Spartak Moscow",
+     "squadra_id": 2323,
+     "dal": 1571011200,
+     "al": 1625011200
+    },
+    {
+     "squadra": "FC Schalke 04",
+     "squadra_id": 2530,
+     "dal": 1498867200,
+     "al": 1552521600
+    },
+    {
+     "squadra": "Erzgebirge Aue",
+     "squadra_id": 2566,
+     "dal": 1488931200,
+     "al": 1498780800
+    },
+    {
+     "squadra": "TSG Hoffenheim U19",
+     "squadra_id": 43730,
+     "dal": 1467331200,
+     "al": 1488844800
+    }
+   ]
+  },
+  "stagioni": {
+   "26/27": {
+    "matches": 1,
+    "goalsScored": 0,
+    "goalsConceded": 1,
+    "shots": 14,
+    "shotsOnTarget": 5,
+    "bigChancesCreated": 2,
+    "bigChancesMissed": 3,
+    "cleanSheets": 0,
+    "averageBallPossession": 59,
+    "fouls": 18,
+    "yellowCards": 4,
+    "redCards": 0,
+    "accuratePassesPercentage": 89.93288590604,
+    "ballRecovery": 33,
+    "interceptions": 3,
+    "clearances": 15,
+    "corners": 8,
+    "offsides": 2,
+    "penaltyGoals": 0,
+    "penaltiesTaken": 0,
+    "accurateLongBallsPercentage": 62.068965517241,
+    "errorsLeadingToGoal": 0
+   },
+   "25/26": {
+    "matches": 38,
+    "goalsScored": 49,
+    "goalsConceded": 46,
+    "shots": 490,
+    "shotsOnTarget": 145,
+    "bigChancesCreated": 43,
+    "bigChancesMissed": 41,
+    "cleanSheets": 12,
+    "averageBallPossession": 55.052631578947,
+    "fouls": 501,
+    "yellowCards": 65,
+    "redCards": 6,
+    "accuratePassesPercentage": 83.107026386007,
+    "ballRecovery": 1697,
+    "interceptions": 279,
+    "clearances": 848,
+    "corners": 170,
+    "offsides": 73,
+    "penaltyGoals": 5,
+    "penaltiesTaken": 7,
+    "accurateLongBallsPercentage": 54.008191925102,
+    "errorsLeadingToGoal": 7
+   },
+   "24/25": {
+    "matches": 38,
+    "goalsScored": 57,
+    "goalsConceded": 47,
+    "shots": 512,
+    "shotsOnTarget": 175,
+    "bigChancesCreated": 60,
+    "bigChancesMissed": 51,
+    "cleanSheets": 12,
+    "averageBallPossession": 58.578947368421,
+    "fouls": 537,
+    "yellowCards": 61,
+    "redCards": 4,
+    "accuratePassesPercentage": 83.51148510348,
+    "ballRecovery": 1727,
+    "interceptions": 258,
+    "clearances": 644,
+    "corners": 191,
+    "offsides": 63,
+    "penaltyGoals": 6,
+    "penaltiesTaken": 7,
+    "accurateLongBallsPercentage": 52.407407407407,
+    "errorsLeadingToGoal": 8
+   },
+   "23/24": {
+    "matches": 38,
+    "goalsScored": 54,
+    "goalsConceded": 32,
+    "shots": 477,
+    "shotsOnTarget": 164,
+    "bigChancesCreated": 55,
+    "bigChancesMissed": 46,
+    "cleanSheets": 17,
+    "averageBallPossession": 58.342105263158,
+    "fouls": 458,
+    "yellowCards": 85,
+    "redCards": 2,
+    "accuratePassesPercentage": 86.506539833532,
+    "ballRecovery": 1967,
+    "interceptions": 258,
+    "clearances": 634,
+    "corners": 165,
+    "offsides": 55,
+    "penaltyGoals": 4,
+    "penaltiesTaken": 5,
+    "accurateLongBallsPercentage": 53.772189349112,
+    "errorsLeadingToGoal": 4
+   }
+  }
+ },
+ "2696": {
+  "id": 2696,
+  "nome": "Torino",
+  "stadio": "Stadio Olimpico Grande Torino",
+  "allenatore": {
+   "id": 798682,
+   "nome": "Ignazio Abate",
+   "nazionalita": "ITA",
+   "modulo_preferito": "4-3-3",
+   "nascita_ts": 532137600,
+   "performance_carriera": {
+    "total": 174,
+    "wins": 78,
+    "draws": 46,
+    "losses": 50,
+    "goalsScored": 289,
+    "goalsConceded": 214,
+    "totalPoints": 280
+   },
+   "carriera": [
+    {
+     "squadra": "Torino",
+     "squadra_id": 2696,
+     "dal": 1781222400,
+     "al": 1845936000
+    },
+    {
+     "squadra": "Juve Stabia",
+     "squadra_id": 5324,
+     "dal": 1750204800,
+     "al": 1781222400
+    },
+    {
+     "squadra": "Ternana",
+     "squadra_id": 2708,
+     "dal": 1718928000,
+     "al": 1743465600
+    },
+    {
+     "squadra": "Milan U20",
+     "squadra_id": 826811,
+     "dal": 1656633600,
+     "al": 1719705600
+    }
+   ]
+  },
+  "stagioni": {
+   "26/27": {
+    "matches": 2,
+    "goalsScored": 2,
+    "goalsConceded": 4,
+    "shots": 18,
+    "shotsOnTarget": 5,
+    "bigChancesCreated": 5,
+    "bigChancesMissed": 5,
+    "cleanSheets": 0,
+    "averageBallPossession": 47.5,
+    "fouls": 19,
+    "yellowCards": 1,
+    "redCards": 0,
+    "accuratePassesPercentage": 86.717892425906,
+    "ballRecovery": 86,
+    "interceptions": 8,
+    "clearances": 44,
+    "corners": 5,
+    "offsides": 2,
+    "penaltyGoals": 0,
+    "penaltiesTaken": 0,
+    "accurateLongBallsPercentage": 55.357142857143,
+    "errorsLeadingToGoal": 0
+   },
+   "25/26": {
+    "matches": 38,
+    "goalsScored": 44,
+    "goalsConceded": 63,
+    "shots": 449,
+    "shotsOnTarget": 151,
+    "bigChancesCreated": 51,
+    "bigChancesMissed": 50,
+    "cleanSheets": 12,
+    "averageBallPossession": 44.131578947368,
+    "fouls": 530,
+    "yellowCards": 72,
+    "redCards": 1,
+    "accuratePassesPercentage": 79.977558033523,
+    "ballRecovery": 1633,
+    "interceptions": 309,
+    "clearances": 1008,
+    "corners": 146,
+    "offsides": 63,
+    "penaltyGoals": 5,
+    "penaltiesTaken": 7,
+    "accurateLongBallsPercentage": 48.389405869721,
+    "errorsLeadingToGoal": 13
+   },
+   "24/25": {
+    "matches": 38,
+    "goalsScored": 39,
+    "goalsConceded": 45,
+    "shots": 387,
+    "shotsOnTarget": 130,
+    "bigChancesCreated": 44,
+    "bigChancesMissed": 40,
+    "cleanSheets": 10,
+    "averageBallPossession": 47.447368421053,
+    "fouls": 483,
+    "yellowCards": 79,
+    "redCards": 3,
+    "accuratePassesPercentage": 82.076084133991,
+    "ballRecovery": 1599,
+    "interceptions": 278,
+    "clearances": 840,
+    "corners": 158,
+    "offsides": 57,
+    "penaltyGoals": 2,
+    "penaltiesTaken": 4,
+    "accurateLongBallsPercentage": 51.665166516652,
+    "errorsLeadingToGoal": 4
+   },
+   "23/24": {
+    "matches": 38,
+    "goalsScored": 36,
+    "goalsConceded": 36,
+    "shots": 434,
+    "shotsOnTarget": 123,
+    "bigChancesCreated": 42,
+    "bigChancesMissed": 36,
+    "cleanSheets": 18,
+    "averageBallPossession": 51.684210526316,
+    "fouls": 471,
+    "yellowCards": 74,
+    "redCards": 2,
+    "accuratePassesPercentage": 82.358986760172,
+    "ballRecovery": 1981,
+    "interceptions": 329,
+    "clearances": 555,
+    "corners": 176,
+    "offsides": 63,
+    "penaltyGoals": 2,
+    "penaltiesTaken": 2,
+    "accurateLongBallsPercentage": 51.782363977486,
+    "errorsLeadingToGoal": 6
+   }
+  }
+ },
+ "2713": {
+  "id": 2713,
+  "nome": "Genoa",
+  "stadio": "Luigi Ferraris",
+  "allenatore": {
+   "id": 799099,
+   "nome": "Daniele De Rossi",
+   "nazionalita": "ITA",
+   "modulo_preferito": "3-5-2",
+   "nascita_ts": 427852800,
+   "performance_carriera": {
+    "total": 79,
+    "wins": 27,
+    "draws": 23,
+    "losses": 29,
+    "goalsScored": 107,
+    "goalsConceded": 100,
+    "totalPoints": 104
+   },
+   "carriera": [
+    {
+     "squadra": "Genoa",
+     "squadra_id": 2713,
+     "dal": 1762387200,
+     "al": 1814313600
+    },
+    {
+     "squadra": "AS Roma",
+     "squadra_id": 2702,
+     "dal": 1705363200,
+     "al": 1726617600
+    },
+    {
+     "squadra": "SPAL",
+     "squadra_id": 113755,
+     "dal": 1665446400,
+     "al": 1676332800
+    }
+   ]
+  },
+  "stagioni": {
+   "26/27": {
+    "matches": 2,
+    "goalsScored": 0,
+    "goalsConceded": 3,
+    "shots": 19,
+    "shotsOnTarget": 3,
+    "bigChancesCreated": 2,
+    "bigChancesMissed": 2,
+    "cleanSheets": 0,
+    "averageBallPossession": 50,
+    "fouls": 16,
+    "yellowCards": 4,
+    "redCards": 0,
+    "accuratePassesPercentage": 86.947791164659,
+    "ballRecovery": 81,
+    "interceptions": 14,
+    "clearances": 43,
+    "corners": 7,
+    "offsides": 3,
+    "penaltyGoals": 0,
+    "penaltiesTaken": 0,
+    "accurateLongBallsPercentage": 42.553191489362,
+    "errorsLeadingToGoal": 1
+   },
+   "25/26": {
+    "matches": 38,
+    "goalsScored": 41,
+    "goalsConceded": 51,
+    "shots": 435,
+    "shotsOnTarget": 143,
+    "bigChancesCreated": 48,
+    "bigChancesMissed": 46,
+    "cleanSheets": 9,
+    "averageBallPossession": 48.710526315789,
+    "fouls": 470,
+    "yellowCards": 62,
+    "redCards": 3,
+    "accuratePassesPercentage": 80.546306991914,
+    "ballRecovery": 1598,
+    "interceptions": 274,
+    "clearances": 968,
+    "corners": 140,
+    "offsides": 50,
+    "penaltyGoals": 5,
+    "penaltiesTaken": 9,
+    "accurateLongBallsPercentage": 44.264819091609,
+    "errorsLeadingToGoal": 8
+   },
+   "24/25": {
+    "matches": 38,
+    "goalsScored": 37,
+    "goalsConceded": 49,
+    "shots": 385,
+    "shotsOnTarget": 122,
+    "bigChancesCreated": 39,
+    "bigChancesMissed": 34,
+    "cleanSheets": 11,
+    "averageBallPossession": 45.605263157895,
+    "fouls": 497,
+    "yellowCards": 71,
+    "redCards": 1,
+    "accuratePassesPercentage": 78.856617906862,
+    "ballRecovery": 1700,
+    "interceptions": 308,
+    "clearances": 900,
+    "corners": 155,
+    "offsides": 55,
+    "penaltyGoals": 0,
+    "penaltiesTaken": 2,
+    "accurateLongBallsPercentage": 43.13123561013,
+    "errorsLeadingToGoal": 4
+   },
+   "23/24": {
+    "matches": 38,
+    "goalsScored": 45,
+    "goalsConceded": 45,
+    "shots": 403,
+    "shotsOnTarget": 129,
+    "bigChancesCreated": 35,
+    "bigChancesMissed": 32,
+    "cleanSheets": 9,
+    "averageBallPossession": 44.078947368421,
+    "fouls": 450,
+    "yellowCards": 76,
+    "redCards": 3,
+    "accuratePassesPercentage": 78.347199888135,
+    "ballRecovery": 1903,
+    "interceptions": 332,
+    "clearances": 770,
+    "corners": 142,
+    "offsides": 47,
+    "penaltyGoals": 5,
+    "penaltiesTaken": 6,
+    "accurateLongBallsPercentage": 41.699142634451,
+    "errorsLeadingToGoal": 4
+   }
+  }
+ },
+ "2690": {
+  "id": 2690,
+  "nome": "Parma",
+  "stadio": "Ennio Tardini",
+  "allenatore": {
+   "id": 811357,
+   "nome": "Carlos Cuesta",
+   "nazionalita": "ESP",
+   "modulo_preferito": "3-5-2",
+   "nascita_ts": 806976000,
+   "performance_carriera": {
+    "total": 44,
+    "wins": 14,
+    "draws": 12,
+    "losses": 18,
+    "goalsScored": 39,
+    "goalsConceded": 56,
+    "totalPoints": 54
+   },
+   "carriera": [
+    {
+     "squadra": "Parma",
+     "squadra_id": 2690,
+     "dal": 1751328000,
+     "al": 1814313600
+    }
+   ]
+  },
+  "stagioni": {
+   "26/27": {
+    "matches": 2,
+    "goalsScored": 0,
+    "goalsConceded": 3,
+    "shots": 17,
+    "shotsOnTarget": 5,
+    "bigChancesCreated": 2,
+    "bigChancesMissed": 2,
+    "cleanSheets": 0,
+    "averageBallPossession": 44.5,
+    "fouls": 18,
+    "yellowCards": 3,
+    "redCards": 0,
+    "accuratePassesPercentage": 84.297520661157,
+    "ballRecovery": 83,
+    "interceptions": 14,
+    "clearances": 40,
+    "corners": 5,
+    "offsides": 2,
+    "penaltyGoals": 0,
+    "penaltiesTaken": 0,
+    "accurateLongBallsPercentage": 42.424242424242,
+    "errorsLeadingToGoal": 2
+   },
+   "25/26": {
+    "matches": 38,
+    "goalsScored": 28,
+    "goalsConceded": 46,
+    "shots": 407,
+    "shotsOnTarget": 104,
+    "bigChancesCreated": 39,
+    "bigChancesMissed": 37,
+    "cleanSheets": 13,
+    "averageBallPossession": 44,
+    "fouls": 413,
+    "yellowCards": 63,
+    "redCards": 5,
+    "accuratePassesPercentage": 80.694222092854,
+    "ballRecovery": 1575,
+    "interceptions": 260,
+    "clearances": 949,
+    "corners": 146,
+    "offsides": 50,
+    "penaltyGoals": 2,
+    "penaltiesTaken": 2,
+    "accurateLongBallsPercentage": 46.838602329451,
+    "errorsLeadingToGoal": 6
+   },
+   "24/25": {
+    "matches": 38,
+    "goalsScored": 44,
+    "goalsConceded": 58,
+    "shots": 425,
+    "shotsOnTarget": 148,
+    "bigChancesCreated": 47,
+    "bigChancesMissed": 42,
+    "cleanSheets": 7,
+    "averageBallPossession": 44.131578947368,
+    "fouls": 405,
+    "yellowCards": 75,
+    "redCards": 6,
+    "accuratePassesPercentage": 81.023703194778,
+    "ballRecovery": 1679,
+    "interceptions": 279,
+    "clearances": 921,
+    "corners": 168,
+    "offsides": 31,
+    "penaltyGoals": 6,
+    "penaltiesTaken": 7,
+    "accurateLongBallsPercentage": 48.674911660777,
+    "errorsLeadingToGoal": 3
+   }
+  }
+ },
+ "2729": {
+  "id": 2729,
+  "nome": "Monza",
+  "stadio": "U-Power Stadium",
+  "allenatore": {
+   "id": 27936,
+   "nome": "Ivan Jurić",
+   "nazionalita": "HRV",
+   "modulo_preferito": "3-4-2-1",
+   "nascita_ts": 178156800,
+   "performance_carriera": {
+    "total": 416,
+    "wins": 140,
+    "draws": 115,
+    "losses": 161,
+    "goalsScored": 497,
+    "goalsConceded": 529,
+    "totalPoints": 535
+   },
+   "carriera": [
+    {
+     "squadra": "Monza",
+     "squadra_id": 2729,
+     "dal": 1782864000,
+     "al": 1845936000
+    },
+    {
+     "squadra": "Atalanta",
+     "squadra_id": 2686,
+     "dal": 1749168000,
+     "al": 1762732800
+    },
+    {
+     "squadra": "Southampton",
+     "squadra_id": 45,
+     "dal": 1734912000,
+     "al": 1743984000
+    },
+    {
+     "squadra": "AS Roma",
+     "squadra_id": 2702,
+     "dal": 1726617600,
+     "al": 1731196800
+    },
+    {
+     "squadra": "Torino",
+     "squadra_id": 2696,
+     "dal": 1625097600,
+     "al": 1719705600
+    },
+    {
+     "squadra": "Hellas Verona",
+     "squadra_id": 2701,
+     "dal": 1561939200,
+     "al": 1622160000
+    },
+    {
+     "squadra": "Genoa",
+     "squadra_id": 2713,
+     "dal": 1539043200,
+     "al": 1544054400
+    },
+    {
+     "squadra": "Genoa",
+     "squadra_id": 2713,
+     "dal": 1491782400,
+     "al": 1509840000
+    },
+    {
+     "squadra": "Genoa",
+     "squadra_id": 2713,
+     "dal": 1467331200,
+     "al": 1487462400
+    },
+    {
+     "squadra": "FC Crotone",
+     "squadra_id": 2718,
+     "dal": 1435708800,
+     "al": 1467244800
+    },
+    {
+     "squadra": "Mantova",
+     "squadra_id": 2770,
+     "dal": 1404172800,
+     "al": 1435622400
+    },
+    {
+     "squadra": "Genoa U20",
+     "squadra_id": 826812,
+     "dal": 1379894400,
+     "al": 1404086400
+    },
+    {
+     "squadra": "Genoa U20",
+     "squadra_id": 826812,
+     "dal": 1278460800,
+     "al": 1309737600
+    }
+   ]
+  },
+  "stagioni": {
+   "26/27": {
+    "matches": 2,
+    "goalsScored": 3,
+    "goalsConceded": 7,
+    "shots": 22,
+    "shotsOnTarget": 8,
+    "bigChancesCreated": 4,
+    "bigChancesMissed": 4,
+    "cleanSheets": 0,
+    "averageBallPossession": 40.5,
+    "fouls": 24,
+    "yellowCards": 3,
+    "redCards": 0,
+    "accuratePassesPercentage": 81.179775280899,
+    "ballRecovery": 104,
+    "interceptions": 35,
+    "clearances": 37,
+    "corners": 6,
+    "offsides": 12,
+    "penaltyGoals": 0,
+    "penaltiesTaken": 0,
+    "accurateLongBallsPercentage": 32.857142857143,
+    "errorsLeadingToGoal": 3
+   },
+   "24/25": {
+    "matches": 38,
+    "goalsScored": 28,
+    "goalsConceded": 69,
+    "shots": 335,
+    "shotsOnTarget": 103,
+    "bigChancesCreated": 32,
+    "bigChancesMissed": 24,
+    "cleanSheets": 3,
+    "averageBallPossession": 48.526315789474,
+    "fouls": 511,
+    "yellowCards": 87,
+    "redCards": 3,
+    "accuratePassesPercentage": 83.574909408972,
+    "ballRecovery": 1543,
+    "interceptions": 305,
+    "clearances": 820,
+    "corners": 136,
+    "offsides": 54,
+    "penaltyGoals": 3,
+    "penaltiesTaken": 3,
+    "accurateLongBallsPercentage": 52.581413820492,
+    "errorsLeadingToGoal": 6
+   },
+   "23/24": {
+    "matches": 38,
+    "goalsScored": 39,
+    "goalsConceded": 51,
+    "shots": 456,
+    "shotsOnTarget": 130,
+    "bigChancesCreated": 43,
+    "bigChancesMissed": 42,
+    "cleanSheets": 12,
+    "averageBallPossession": 53.578947368421,
+    "fouls": 458,
+    "yellowCards": 84,
+    "redCards": 5,
+    "accuratePassesPercentage": 85.666159530537,
+    "ballRecovery": 1763,
+    "interceptions": 279,
+    "clearances": 602,
+    "corners": 170,
+    "offsides": 40,
+    "penaltyGoals": 4,
+    "penaltiesTaken": 5,
+    "accurateLongBallsPercentage": 57.308743169399,
+    "errorsLeadingToGoal": 3
+   }
+  }
+ },
+ "2688": {
+  "id": 2688,
+  "nome": "Venezia",
+  "stadio": "Stadio Pierluigi Penzo",
+  "allenatore": {
+   "id": 785229,
+   "nome": "Giovanni Stroppa",
+   "nazionalita": "ITA",
+   "modulo_preferito": "3-5-2",
+   "nascita_ts": -61171200,
+   "performance_carriera": {
+    "total": 534,
+    "wins": 246,
+    "draws": 131,
+    "losses": 157,
+    "goalsScored": 852,
+    "goalsConceded": 655,
+    "totalPoints": 869
+   },
+   "carriera": [
+    {
+     "squadra": "Venezia",
+     "squadra_id": 2688,
+     "dal": 1751328000,
+     "al": 1877472000
+    },
+    {
+     "squadra": "Cremonese",
+     "squadra_id": 2761,
+     "dal": 1731283200,
+     "al": 1749772800
+    },
+    {
+     "squadra": "Cremonese",
+     "squadra_id": 2761,
+     "dal": 1695081600,
+     "al": 1728345600
+    },
+    {
+     "squadra": "Monza",
+     "squadra_id": 2729,
+     "dal": 1625097600,
+     "al": 1663027200
+    },
+    {
+     "squadra": "FC Crotone",
+     "squadra_id": 2718,
+     "dal": 1545955200,
+     "al": 1614556800
+    },
+    {
+     "squadra": "FC Crotone",
+     "squadra_id": 2718,
+     "dal": 1529452800,
+     "al": 1540771200
+    },
+    {
+     "squadra": "Foggia",
+     "squadra_id": 2803,
+     "dal": 1471132800,
+     "al": 1529366400
+    },
+    {
+     "squadra": "Südtirol",
+     "squadra_id": 2760,
+     "dal": 1429401600,
+     "al": 1467244800
+    },
+    {
+     "squadra": "Spezia",
+     "squadra_id": 2735,
+     "dal": 1372636800,
+     "al": 1386979200
+    },
+    {
+     "squadra": "Pescara",
+     "squadra_id": 7935,
+     "dal": 1339113600,
+     "al": 1353196800
+    },
+    {
+     "squadra": "Südtirol",
+     "squadra_id": 2760,
+     "dal": 1310515200,
+     "al": 1337472000
+    },
+    {
+     "squadra": "Milan U20",
+     "squadra_id": 826811,
+     "dal": 1246406400,
+     "al": 1307750400
+    }
+   ]
+  },
+  "stagioni": {
+   "26/27": {
+    "matches": 2,
+    "goalsScored": 0,
+    "goalsConceded": 4,
+    "shots": 28,
+    "shotsOnTarget": 9,
+    "bigChancesCreated": 2,
+    "bigChancesMissed": 6,
+    "cleanSheets": 0,
+    "averageBallPossession": 56.5,
+    "fouls": 19,
+    "yellowCards": 4,
+    "redCards": 0,
+    "accuratePassesPercentage": 85.326633165829,
+    "ballRecovery": 96,
+    "interceptions": 11,
+    "clearances": 37,
+    "corners": 8,
+    "offsides": 6,
+    "penaltyGoals": 0,
+    "penaltiesTaken": 0,
+    "accurateLongBallsPercentage": 55.737704918033,
+    "errorsLeadingToGoal": 1
+   },
+   "24/25": {
+    "matches": 38,
+    "goalsScored": 32,
+    "goalsConceded": 56,
+    "shots": 386,
+    "shotsOnTarget": 128,
+    "bigChancesCreated": 45,
+    "bigChancesMissed": 49,
+    "cleanSheets": 6,
+    "averageBallPossession": 44.815789473684,
+    "fouls": 503,
+    "yellowCards": 73,
+    "redCards": 2,
+    "accuratePassesPercentage": 78.403342863426,
+    "ballRecovery": 1717,
+    "interceptions": 279,
+    "clearances": 871,
+    "corners": 143,
+    "offsides": 58,
+    "penaltyGoals": 4,
+    "penaltiesTaken": 5,
+    "accurateLongBallsPercentage": 42.810188989318,
+    "errorsLeadingToGoal": 6
+   }
+  }
+ },
+ "2693": {
+  "id": 2693,
+  "nome": "Fiorentina",
+  "stadio": "Stadio Artemio Franchi",
+  "allenatore": {
+   "id": 788450,
+   "nome": "Fabio Grosso",
+   "nazionalita": "ITA",
+   "modulo_preferito": "4-3-3",
+   "nascita_ts": 249523200,
+   "performance_carriera": {
+    "total": 422,
+    "wins": 210,
+    "draws": 88,
+    "losses": 124,
+    "goalsScored": 716,
+    "goalsConceded": 520,
+    "totalPoints": 718
+   },
+   "carriera": [
+    {
+     "squadra": "Fiorentina",
+     "squadra_id": 2693,
+     "dal": 1780876800,
+     "al": 1845936000
+    },
+    {
+     "squadra": "Sassuolo",
+     "squadra_id": 2793,
+     "dal": 1717372800,
+     "al": 1780531200
+    },
+    {
+     "squadra": "Olympique Lyonnais",
+     "squadra_id": 1649,
+     "dal": 1694995200,
+     "al": 1701302400
+    },
+    {
+     "squadra": "Frosinone",
+     "squadra_id": 2801,
+     "dal": 1616457600,
+     "al": 1688083200
+    },
+    {
+     "squadra": "FC Sion",
+     "squadra_id": 2452,
+     "dal": 1598313600,
+     "al": 1614902400
+    },
+    {
+     "squadra": "Brescia",
+     "squadra_id": 2691,
+     "dal": 1572912000,
+     "al": 1575244800
+    },
+    {
+     "squadra": "Hellas Verona",
+     "squadra_id": 2701,
+     "dal": 1529539200,
+     "al": 1556668800
+    },
+    {
+     "squadra": "Bari",
+     "squadra_id": 2712,
+     "dal": 1498867200,
+     "al": 1529280000
+    },
+    {
+     "squadra": "Juventus U20",
+     "squadra_id": 826813,
+     "dal": 1394496000,
+     "al": 1497312000
+    }
+   ]
+  },
+  "stagioni": {
+   "26/27": {
+    "matches": 2,
+    "goalsScored": 0,
+    "goalsConceded": 7,
+    "shots": 34,
+    "shotsOnTarget": 8,
+    "bigChancesCreated": 1,
+    "bigChancesMissed": 1,
+    "cleanSheets": 0,
+    "averageBallPossession": 49.5,
+    "fouls": 25,
+    "yellowCards": 5,
+    "redCards": 0,
+    "accuratePassesPercentage": 83.399209486166,
+    "ballRecovery": 87,
+    "interceptions": 14,
+    "clearances": 49,
+    "corners": 11,
+    "offsides": 2,
+    "penaltyGoals": 0,
+    "penaltiesTaken": 0,
+    "accurateLongBallsPercentage": 48.888888888889,
+    "errorsLeadingToGoal": 1
+   },
+   "25/26": {
+    "matches": 38,
+    "goalsScored": 41,
+    "goalsConceded": 50,
+    "shots": 489,
+    "shotsOnTarget": 131,
+    "bigChancesCreated": 53,
+    "bigChancesMissed": 54,
+    "cleanSheets": 10,
+    "averageBallPossession": 50.973684210526,
+    "fouls": 475,
+    "yellowCards": 81,
+    "redCards": 3,
+    "accuratePassesPercentage": 84.450518730198,
+    "ballRecovery": 1612,
+    "interceptions": 271,
+    "clearances": 834,
+    "corners": 169,
+    "offsides": 64,
+    "penaltyGoals": 6,
+    "penaltiesTaken": 6,
+    "accurateLongBallsPercentage": 49.093904448105,
+    "errorsLeadingToGoal": 6
+   },
+   "24/25": {
+    "matches": 38,
+    "goalsScored": 60,
+    "goalsConceded": 41,
+    "shots": 447,
+    "shotsOnTarget": 175,
+    "bigChancesCreated": 59,
+    "bigChancesMissed": 52,
+    "cleanSheets": 12,
+    "averageBallPossession": 50.5,
+    "fouls": 440,
+    "yellowCards": 80,
+    "redCards": 3,
+    "accuratePassesPercentage": 83.292872704637,
+    "ballRecovery": 1660,
+    "interceptions": 275,
+    "clearances": 876,
+    "corners": 148,
+    "offsides": 88,
+    "penaltyGoals": 6,
+    "penaltiesTaken": 8,
+    "accurateLongBallsPercentage": 47.875166002656,
+    "errorsLeadingToGoal": 3
+   },
+   "23/24": {
+    "matches": 38,
+    "goalsScored": 61,
+    "goalsConceded": 46,
+    "shots": 523,
+    "shotsOnTarget": 182,
+    "bigChancesCreated": 54,
+    "bigChancesMissed": 50,
+    "cleanSheets": 8,
+    "averageBallPossession": 57.710526315789,
+    "fouls": 459,
+    "yellowCards": 80,
+    "redCards": 0,
+    "accuratePassesPercentage": 83.423898128328,
+    "ballRecovery": 1923,
+    "interceptions": 236,
+    "clearances": 486,
+    "corners": 199,
+    "offsides": 57,
+    "penaltyGoals": 4,
+    "penaltiesTaken": 8,
+    "accurateLongBallsPercentage": 54.960981047938,
+    "errorsLeadingToGoal": 0
+   }
+  }
+ }
+}
