@@ -9,3 +9,6 @@ dati/log-*.txt
 
 # File temporanei della scrittura atomica
 *.tmp
+
+# Dipendenze JS di fishertiger: si reinstallano con npm install
+node_modules/
