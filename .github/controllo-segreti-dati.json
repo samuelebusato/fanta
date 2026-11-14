@@ -1,0 +1,10 @@
+{
+  "nota": "Le eccezioni del controllo dei segreti e dei dati, che gira prima del commit e del push (l'originale è nel brain, Code/controllo-segreti-dati.mjs). Ognuna dice perché non è un problema.",
+  "eccezioni": [
+    {
+      "percorso": "fishertiger/data/raw/*.xlsx",
+      "regole": ["foglio-di-calcolo"],
+      "perche": "Quotazioni, statistiche e calendario della Serie A, le tabelle pubbliche del fantacalcio (letto il 2026-11-13): nessun dato di persone oltre ai calciatori"
+    }
+  ]
+}
